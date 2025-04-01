@@ -14,11 +14,6 @@ Besonders:
 
 ## lernOS Glossar
 
-**C**
-
-Change Management
-: Definition fehlt
-
 **L**
 
 Lernende Organisation
