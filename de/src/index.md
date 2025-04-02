@@ -1,3 +1,11 @@
+# Willkommen
+
+Herzlich willkommen im lernOS Change Management Leitfaden.
+
+Ziel des Leitfadens: TBD
+
+Zielgruppe: TBD
+
 # Über lernOS
 
 lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
