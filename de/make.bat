@@ -2,9 +2,8 @@
 echo Starting lernOS Guide Generation ...
 
 REM Variables
-set filename="lernOS-Template-Guide-de"
-REM set chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Grundidee.md ./src/1-2-Lebenszyklus.md ./src/1-3-Inhaltsverzeichnis.md ./src/1-4-Inhalt.md ./src/1-5-Produktionskette.md ./src/2-Lernpfad.md ./src/3-Anhang.md"
-set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Grundidee.md ./src/1-2-Lebenszyklus.md ./src/1-3-Inhaltsverzeichnis.md ./src/1-4-Inhalt-Schreibstil.md ./src/1-5-Markdown-Syntax.md ./src/1-6-Produktionskette.md ./src/1-7-Github.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md
+set filename="lernOS-Change-Management-de"
+set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
