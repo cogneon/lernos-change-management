@@ -4,6 +4,7 @@
 
 Ein großer Dank an die vielen Projekte und Vorarbeiten, die die Erstellung dieses lernOS Leitfaden ermöglicht haben.
 Besonders:
+
 - Simon Dückert und Cogneon für lernOS
 
 ## Änderungshistorie
