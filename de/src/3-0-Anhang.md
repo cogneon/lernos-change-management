@@ -3,15 +3,19 @@
 ## Danksagungen
 
 Ein großer Dank an die vielen Projekte und Vorarbeiten, die die Erstellung dieses lernOS Leitfaden ermöglicht haben.
-Besonders:
+Besonders vielen Dank an
 
-- Simon Dückert und Cogneon für lernOS
+- das gesamte Team, dass die Inhalte für die erste Version des Leitfadens erstellt hat: Anja Lommatzsch, Marcel Kirchner, Rainer Bartl, Sylvia Keske Katrin Elsner, Conny Dettloff, Seyde Sosnovski, & Thomas Jenewein.
+- Jan Bretschneider an die Unterstützung rund um GitHub. 
+- Simon Dückert und Cogneon für lernOS.
 
 ## Änderungshistorie
 
 | Version | Bearbeitet von          | Beschreibung Änderung                                                 | Datum      |
 | ------- | ----------------------- | --------------------------------------------------------------------- | ---------- |
-| 0.1     | Thomas Jenewein et al.  | Erste Version des Leitfadens Change Management                        | TBD        |
+| beta    | Thomas Jenewein et al.  | Erste Version des Leitfadens Change Management                        | 05.04.2025 |
+
+**Dies ist die Betaversion nach initialem Feedbackloop und Korrekturlesen. Wir freuen uns auf weiteres Feedback!**
 
 ## lernOS Glossar
 
