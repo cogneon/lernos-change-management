@@ -9,11 +9,10 @@ nav:
     - Lernpfad: 2-0-Lernpfad.md
     - Anhang: 3-0-Anhang.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/change/blob/master/de/build/change-guide.pdf
-      - Word-Version: https://github.com/cogneon/change/blob/master/de/build/change-guide.docx
-      - HTML-Version: https://github.com/cogneon/change/blob/master/de/build/change-guide.html
-      - E-Book (epub): https://github.com/cogneon/change/blob/master/de/build/change-guide.epub
-      - E-Book (mobi): https://github.com/cogneon/change/blob/master/de/build/change-guide.mobi
+      - PDF-Version: https://github.com/cogneon/change/blob/master/de/build/change-management-guide-de.pdf
+      - Word-Version: https://github.com/cogneon/change/blob/master/de/build/change-management-guide-de.docx
+      - HTML-Version: https://github.com/cogneon/change/blob/master/de/build/change-management-guide-de.html
+      - E-Book (epub): https://github.com/cogneon/change/blob/master/de/build/change-management-guide-de.epub
     - Links:
       - lernos.org: https://lernos.org
       - CONNECT Community: https://community.cogneon.de
@@ -35,8 +34,8 @@ extra_css:
 extra_javascript:
   - javascripts/matomo.js
 
-repo_name: 'cogneon/lernos-template'
-repo_url: 'https://github.com/cogneon/lernos-template'
+repo_name: 'cogneon/lernos-change-management'
+repo_url: 'https://github.com/cogneon/lernos-change-management'
 
 extra:
     social:
