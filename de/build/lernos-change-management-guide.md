@@ -160,10 +160,6 @@ toc-own-page: true
 
 Herzlich willkommen im lernOS Change Management Leitfaden.
 
-Ziel des Leitfadens: TBD
-
-Zielgruppe: TBD
-
 # Über lernOS
 
 lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21.
