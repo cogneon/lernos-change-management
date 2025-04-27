@@ -5,9 +5,31 @@ site_dir: ../docs/de
 
 nav:
     - Willkommen: index.md
-    - Grundlagen: 1-0-Grundlagen.md
-    - Lernpfad: 2-0-Lernpfad.md
-    - Anhang: 3-0-Anhang.md
+    - Grundlagen: 
+       - Einführung in Change-Management: 1-1-introduction.md
+       - Rollen in Change-Management & Change Prozessen: 1-2-roles.md
+       - Stakeholder Management im Change-Management: 1-3-stakeholder.md
+       - Kommunikation im Change-Management: 1-4-communication.md
+       - Lernen & Weiterbildung im Change-Management: 1-5-learning.md
+       - Communities im Change-Management: 1-6-communities.md
+       - Analysen, Feedback, Monitoring & kontinuierliche Verbesserung: 1-7-improvement.md
+       - Die Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten: 1-8-it-projects.md
+       - Organisationskultur und Change-Management in IT-Reorganisationen: 1-9-culture.md
+    - Lernpfad:
+       - Kennenlernen und Organisation des Circles (Kata 0): 2-1-kata-0.md
+       - Einführung Change-Management - Warum, wie und Besonderheiten im IT-Bereich (Kata 1): 2-2-kata-1.md
+       - Rollen im Change-Management und in Change Prozessen (Kata 2): 2-3-kata-2.md
+       - Stakeholder Management (Kata 3): 2-4-kata-3.md
+       - Management & Widerstände im Change Management (Kata 4): 2-5-kata-4.md
+       - Reflexion der Lernergebnisse (Kata 5): 2-6-kata-5.md
+       - Kommunikation im Change Management (Kata 6): 2-7-kata-6.md
+       - Training, Wissenstransfer & Lernen (Kata 7): 2-8-kata-7.md
+       - Communities im Change Management (Kata 8): 2-9-kata-8.md
+       - Feedback, Monitoring & kontinuierliche Verbesserung (Kata 9): 2-10-kata-9.md
+       - Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten (Kata 10): 2-11-kata-10.md
+       - Organisationskultur und Change-Management in IT-Reorganisationen (Kata 11): 2-12-kata-11.md
+       - Review & lessons learned (Kata 12): 2-13-kata-12.md
+    - Anhang: 3-0-appendix.md
     - Download:
       - PDF-Version: https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.pdf
       - Word-Version: https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.docx
