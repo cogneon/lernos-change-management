@@ -1,6 +1,8 @@
 # Willkommen
 
-Herzlich willkommen im lernOS Change Management Leitfaden.
+Herzlich willkommen im lernOS Change Management Leitfaden. 
+Dieser Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um das Gestalten von Veränderungen - auch Change Management genannt - zu entwickeln. 
+
 
 # Über lernOS
 
