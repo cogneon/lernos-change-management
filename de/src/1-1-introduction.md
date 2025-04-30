@@ -121,5 +121,5 @@ Es gibt Modelle, die das Vorgehen beschreiben und solche, die eher die Art von I
 - Change Workout - Infoseite [https://change](https://change-workout.de/)[-](https://change-workout.de/)[workout.de/](https://change-workout.de/)
 - 70 Prozent aller Change-Vorhaben scheitern (n)immer [https://hrpepper.de/believe](https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer/)
 - Reflektion der Nutzung von Change Modellen  [https://blogs.sap.com/2022/10/31/vorgehensmodelle](https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management/)
-- Metatheorie der Veränderung <https://metatheorie>[-](https://metatheorie-der-veraenderung.info/)[der](https://metatheorie-der-veraenderung.info/)
+- Metatheorie der Veränderung [https://metatheorie](https://metatheorie-der-veraenderung.info/)
 - [Change Management auf Wikipedia](https://en.wikipedia.org/wiki/Change_management)
