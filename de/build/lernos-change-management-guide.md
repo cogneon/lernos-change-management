@@ -529,7 +529,7 @@ Einbindung und adaptives Vorgehen so wichtig.
 - Reflektion der Nutzung von Change Modellen
   [https://blogs.sap.com/2022/10/31/vorgehensmodelle](https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management/)
 - Metatheorie der Veränderung
-  <https://metatheorie>[-](https://metatheorie-der-veraenderung.info/)[der](https://metatheorie-der-veraenderung.info/)
+  [https://metatheorie](https://metatheorie-der-veraenderung.info/)
 - [Change Management auf
   Wikipedia](https://en.wikipedia.org/wiki/Change_management)
 
