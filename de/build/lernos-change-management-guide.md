@@ -18,142 +18,144 @@ toc-own-page: true
 ---
 
 - [[1]{.toc-section-number} Willkommen](#willkommen){#toc-willkommen}
-- [[2]{.toc-section-number} Über lernOS](#über-lernos){#toc-über-lernos}
-  - [[2.1]{.toc-section-number} WHY - Warum braucht es
+- [[2]{.toc-section-number} Die Zielgruppe des
+  Leitfadens](#die-zielgruppe-des-leitfadens){#toc-die-zielgruppe-des-leitfadens}
+- [[3]{.toc-section-number} Über lernOS](#über-lernos){#toc-über-lernos}
+  - [[3.1]{.toc-section-number} WHY - Warum braucht es
     lernOS?](#why---warum-braucht-es-lernos){#toc-why---warum-braucht-es-lernos}
-  - [[2.2]{.toc-section-number} WHAT - Was ist
+  - [[3.2]{.toc-section-number} WHAT - Was ist
     lernOS?](#what---was-ist-lernos){#toc-what---was-ist-lernos}
-  - [[2.3]{.toc-section-number} HOW - Wie kann ich
+  - [[3.3]{.toc-section-number} HOW - Wie kann ich
     anfangen?](#how---wie-kann-ich-anfangen){#toc-how---wie-kann-ich-anfangen}
-- [[3]{.toc-section-number} Grundlagen](#grundlagen){#toc-grundlagen}
-  - [[3.1]{.toc-section-number} Einführung in
+- [[4]{.toc-section-number} Grundlagen](#grundlagen){#toc-grundlagen}
+  - [[4.1]{.toc-section-number} Einführung in
     Change-Management](#einführung-in-change-management){#toc-einführung-in-change-management}
-    - [[3.1.1]{.toc-section-number} Agiles Change Management und
+    - [[4.1.1]{.toc-section-number} Agiles Change Management und
       Metatheorie der
       Veränderung](#agiles-change-management-und-metatheorie-der-veränderung){#toc-agiles-change-management-und-metatheorie-der-veränderung}
-    - [[3.1.2]{.toc-section-number} John P. Kotter -- Leading
+    - [[4.1.2]{.toc-section-number} John P. Kotter -- Leading
       Change](#john-p.-kotter-leading-change){#toc-john-p.-kotter-leading-change}
-    - [[3.1.3]{.toc-section-number} ADKAR von
+    - [[4.1.3]{.toc-section-number} ADKAR von
       Proscii](#adkar-von-proscii){#toc-adkar-von-proscii}
-    - [[3.1.4]{.toc-section-number} Die
+    - [[4.1.4]{.toc-section-number} Die
       Veränderungskurve](#die-veränderungskurve){#toc-die-veränderungskurve}
-    - [[3.1.5]{.toc-section-number} Das SAP OCM
+    - [[4.1.5]{.toc-section-number} Das SAP OCM
       Framework](#das-sap-ocm-framework){#toc-das-sap-ocm-framework}
-    - [[3.1.6]{.toc-section-number} Terminologie von Change in
+    - [[4.1.6]{.toc-section-number} Terminologie von Change in
       IT-Projekten](#terminologie-von-change-in-it-projekten){#toc-terminologie-von-change-in-it-projekten}
-    - [[3.1.7]{.toc-section-number} Fazit zu Methoden und
+    - [[4.1.7]{.toc-section-number} Fazit zu Methoden und
       Vorgehensweisen im
       Change-Management](#fazit-zu-methoden-und-vorgehensweisen-im-change-management){#toc-fazit-zu-methoden-und-vorgehensweisen-im-change-management}
-    - [[3.1.8]{.toc-section-number} Quellen und weitere
+    - [[4.1.8]{.toc-section-number} Quellen und weitere
       Informationen](#quellen-und-weitere-informationen){#toc-quellen-und-weitere-informationen}
-    - [[3.1.9]{.toc-section-number} Rollen im
+    - [[4.1.9]{.toc-section-number} Rollen im
       Veränderungsprojekt](#rollen-im-veränderungsprojekt){#toc-rollen-im-veränderungsprojekt}
-    - [[3.1.10]{.toc-section-number} Quellen und weitere
+    - [[4.1.10]{.toc-section-number} Quellen und weitere
       Informationen](#quellen-und-weitere-informationen-1){#toc-quellen-und-weitere-informationen-1}
-  - [[3.2]{.toc-section-number} Stakeholder Management im
+  - [[4.2]{.toc-section-number} Stakeholder Management im
     Change-Management: Mehr als nur
     Rollen](#stakeholder-management-im-change-management-mehr-als-nur-rollen){#toc-stakeholder-management-im-change-management-mehr-als-nur-rollen}
-    - [[3.2.1]{.toc-section-number} Die psychologische Rolle der
+    - [[4.2.1]{.toc-section-number} Die psychologische Rolle der
       Manager](#die-psychologische-rolle-der-manager){#toc-die-psychologische-rolle-der-manager}
-    - [[3.2.2]{.toc-section-number} Analyse der Stakeholder: Verstehen
+    - [[4.2.2]{.toc-section-number} Analyse der Stakeholder: Verstehen
       von Motivationen und
       Widerständen](#analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen){#toc-analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen}
-  - [[3.3]{.toc-section-number} Kommunikation im
+  - [[4.3]{.toc-section-number} Kommunikation im
     Change-Management](#kommunikation-im-change-management){#toc-kommunikation-im-change-management}
-    - [[3.3.1]{.toc-section-number} Why - Warum ist Kommunikation
+    - [[4.3.1]{.toc-section-number} Why - Warum ist Kommunikation
       wichtig im
       Change-Management?](#why---warum-ist-kommunikation-wichtig-im-change-management){#toc-why---warum-ist-kommunikation-wichtig-im-change-management}
-    - [[3.3.2]{.toc-section-number} What --
+    - [[4.3.2]{.toc-section-number} What --
       Kommunikationsplan](#what-kommunikationsplan){#toc-what-kommunikationsplan}
-    - [[3.3.3]{.toc-section-number} How -- Erstellung der
+    - [[4.3.3]{.toc-section-number} How -- Erstellung der
       Kommunikationspläne](#how-erstellung-der-kommunikationspläne){#toc-how-erstellung-der-kommunikationspläne}
-    - [[3.3.4]{.toc-section-number} Kommunikationsformate und
+    - [[4.3.4]{.toc-section-number} Kommunikationsformate und
       Materialien](#kommunikationsformate-und-materialien){#toc-kommunikationsformate-und-materialien}
-    - [[3.3.5]{.toc-section-number} Die Bedeutung von
+    - [[4.3.5]{.toc-section-number} Die Bedeutung von
       Storytelling](#die-bedeutung-von-storytelling){#toc-die-bedeutung-von-storytelling}
-    - [[3.3.6]{.toc-section-number} Tipps und Best Practices für die
+    - [[4.3.6]{.toc-section-number} Tipps und Best Practices für die
       Kommunikation in
       Projekten](#tipps-und-best-practices-für-die-kommunikation-in-projekten){#toc-tipps-und-best-practices-für-die-kommunikation-in-projekten}
-  - [[3.4]{.toc-section-number} Lernen & Weiterbildung im
+  - [[4.4]{.toc-section-number} Lernen & Weiterbildung im
     Change-Management -- von Lernbedarfsanalyse & Lernformaten bis zum
     regelmäßigen
     Lernen](#lernen-weiterbildung-im-change-management-von-lernbedarfsanalyse-lernformaten-bis-zum-regelmäßigen-lernen){#toc-lernen-weiterbildung-im-change-management-von-lernbedarfsanalyse-lernformaten-bis-zum-regelmäßigen-lernen}
-    - [[3.4.1]{.toc-section-number} Die Bedeutung von Lernen im
+    - [[4.4.1]{.toc-section-number} Die Bedeutung von Lernen im
       Change-Management](#die-bedeutung-von-lernen-im-change-management){#toc-die-bedeutung-von-lernen-im-change-management}
-    - [[3.4.2]{.toc-section-number} Durchführung von
+    - [[4.4.2]{.toc-section-number} Durchführung von
       Trainingsprojekten](#durchführung-von-trainingsprojekten){#toc-durchführung-von-trainingsprojekten}
-    - [[3.4.3]{.toc-section-number} Formate & Konzept incl. Train the
+    - [[4.4.3]{.toc-section-number} Formate & Konzept incl. Train the
       Trainer Ansatz
       (TTT)](#formate-konzept-incl.-train-the-trainer-ansatz-ttt){#toc-formate-konzept-incl.-train-the-trainer-ansatz-ttt}
-    - [[3.4.4]{.toc-section-number} Zwei Modelle zur
+    - [[4.4.4]{.toc-section-number} Zwei Modelle zur
       Methodenauswahl](#zwei-modelle-zur-methodenauswahl){#toc-zwei-modelle-zur-methodenauswahl}
-  - [[3.5]{.toc-section-number} Communities im
+  - [[4.5]{.toc-section-number} Communities im
     Change-Management](#communities-im-change-management){#toc-communities-im-change-management}
-    - [[3.5.1]{.toc-section-number} Was sind Change
+    - [[4.5.1]{.toc-section-number} Was sind Change
       Communities?](#was-sind-change-communities){#toc-was-sind-change-communities}
-    - [[3.5.2]{.toc-section-number} Besonderheiten von Change
+    - [[4.5.2]{.toc-section-number} Besonderheiten von Change
       Communities im Vergleich zu anderen internen
       Communities](#besonderheiten-von-change-communities-im-vergleich-zu-anderen-internen-communities){#toc-besonderheiten-von-change-communities-im-vergleich-zu-anderen-internen-communities}
-    - [[3.5.3]{.toc-section-number} Formate von (Change)
+    - [[4.5.3]{.toc-section-number} Formate von (Change)
       Communities](#formate-von-change-communities){#toc-formate-von-change-communities}
-    - [[3.5.4]{.toc-section-number} Wie Change Communities
+    - [[4.5.4]{.toc-section-number} Wie Change Communities
       funktionieren](#wie-change-communities-funktionieren){#toc-wie-change-communities-funktionieren}
-    - [[3.5.5]{.toc-section-number} Best Practices bei der
+    - [[4.5.5]{.toc-section-number} Best Practices bei der
       Implementierung von Change
       Communities](#best-practices-bei-der-implementierung-von-change-communities){#toc-best-practices-bei-der-implementierung-von-change-communities}
-  - [[3.6]{.toc-section-number} Analysen, Feedback, Monitoring &
+  - [[4.6]{.toc-section-number} Analysen, Feedback, Monitoring &
     kontinuierliche
     Verbesserung](#analysen-feedback-monitoring-kontinuierliche-verbesserung){#toc-analysen-feedback-monitoring-kontinuierliche-verbesserung}
-    - [[3.6.1]{.toc-section-number} Change Readiness
+    - [[4.6.1]{.toc-section-number} Change Readiness
       Analyse](#change-readiness-analyse){#toc-change-readiness-analyse}
-    - [[3.6.2]{.toc-section-number} Change Impact Analysen
+    - [[4.6.2]{.toc-section-number} Change Impact Analysen
       (CIA)](#change-impact-analysen-cia){#toc-change-impact-analysen-cia}
-    - [[3.6.3]{.toc-section-number} Sammlung von weiteren Analysen und
+    - [[4.6.3]{.toc-section-number} Sammlung von weiteren Analysen und
       Good
       Practices](#sammlung-von-weiteren-analysen-und-good-practices){#toc-sammlung-von-weiteren-analysen-und-good-practices}
-  - [[3.7]{.toc-section-number} Die Rolle organisatorischer
+  - [[4.7]{.toc-section-number} Die Rolle organisatorischer
     Veränderungen in IT- und
     Cloud-Projekten](#die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten){#toc-die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten}
-  - [[3.8]{.toc-section-number} Organisationskultur und
+  - [[4.8]{.toc-section-number} Organisationskultur und
     Change-Management in
     IT-Reorganisationen](#organisationskultur-und-change-management-in-it-reorganisationen){#toc-organisationskultur-und-change-management-in-it-reorganisationen}
-- [[4]{.toc-section-number} Lernpfad](#lernpfad){#toc-lernpfad}
-  - [[4.1]{.toc-section-number} Kata 0: Kennenlernen und Organisation
+- [[5]{.toc-section-number} Lernpfad](#lernpfad){#toc-lernpfad}
+  - [[5.1]{.toc-section-number} Kata 0: Kennenlernen und Organisation
     des
     Circles](#kata-0-kennenlernen-und-organisation-des-circles){#toc-kata-0-kennenlernen-und-organisation-des-circles}
-  - [[4.2]{.toc-section-number} Kata 9: Feedback, Monitoring &
+  - [[5.2]{.toc-section-number} Kata 9: Feedback, Monitoring &
     kontinuierliche
     Verbesserung](#kata-9-feedback-monitoring-kontinuierliche-verbesserung){#toc-kata-9-feedback-monitoring-kontinuierliche-verbesserung}
-  - [[4.3]{.toc-section-number} Kata 10: Rolle organisatorischer
+  - [[5.3]{.toc-section-number} Kata 10: Rolle organisatorischer
     Veränderungen in IT- und
     Cloud-Projekten](#kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten){#toc-kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten}
-  - [[4.4]{.toc-section-number} Kata 12: Review & lessons
+  - [[5.4]{.toc-section-number} Kata 12: Review & lessons
     learned](#kata-12-review-lessons-learned){#toc-kata-12-review-lessons-learned}
-  - [[4.5]{.toc-section-number} Kata 1: Einführung Change-Management:
+  - [[5.5]{.toc-section-number} Kata 1: Einführung Change-Management:
     Warum, wie und Besonderheiten im
     IT-Bereich](#kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich){#toc-kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich}
-  - [[4.6]{.toc-section-number} Kata 2: Rollen im Change-Management und
+  - [[5.6]{.toc-section-number} Kata 2: Rollen im Change-Management und
     in Change
     Prozessen](#kata-2-rollen-im-change-management-und-in-change-prozessen){#toc-kata-2-rollen-im-change-management-und-in-change-prozessen}
-  - [[4.7]{.toc-section-number} Kata 3: Stakeholder
+  - [[5.7]{.toc-section-number} Kata 3: Stakeholder
     Management](#kata-3-stakeholder-management){#toc-kata-3-stakeholder-management}
-  - [[4.8]{.toc-section-number} Kata 4: Management & Widerstände im
+  - [[5.8]{.toc-section-number} Kata 4: Management & Widerstände im
     Change
     Management](#kata-4-management-widerstände-im-change-management){#toc-kata-4-management-widerstände-im-change-management}
-  - [[4.9]{.toc-section-number} Kata 5: Reflexion der
+  - [[5.9]{.toc-section-number} Kata 5: Reflexion der
     Lernergebnisse](#kata-5-reflexion-der-lernergebnisse){#toc-kata-5-reflexion-der-lernergebnisse}
-  - [[4.10]{.toc-section-number} Kata 6: Kommunikation im Change
+  - [[5.10]{.toc-section-number} Kata 6: Kommunikation im Change
     Management](#kata-6-kommunikation-im-change-management){#toc-kata-6-kommunikation-im-change-management}
-  - [[4.11]{.toc-section-number} Kata 7: Training, Wissenstransfer &
+  - [[5.11]{.toc-section-number} Kata 7: Training, Wissenstransfer &
     Lernen](#kata-7-training-wissenstransfer-lernen){#toc-kata-7-training-wissenstransfer-lernen}
-  - [[4.12]{.toc-section-number} Kata 8: Communities im Change
+  - [[5.12]{.toc-section-number} Kata 8: Communities im Change
     Management](#kata-8-communities-im-change-management){#toc-kata-8-communities-im-change-management}
-- [[5]{.toc-section-number} Anhang](#anhang){#toc-anhang}
-  - [[5.1]{.toc-section-number}
+- [[6]{.toc-section-number} Anhang](#anhang){#toc-anhang}
+  - [[6.1]{.toc-section-number}
     Danksagungen](#danksagungen){#toc-danksagungen}
-  - [[5.2]{.toc-section-number}
+  - [[6.2]{.toc-section-number}
     Änderungshistorie](#änderungshistorie){#toc-änderungshistorie}
-  - [[5.3]{.toc-section-number} lernOS
+  - [[6.3]{.toc-section-number} lernOS
     Glossar](#lernos-glossar){#toc-lernos-glossar}
 
 # Willkommen
@@ -161,7 +163,17 @@ toc-own-page: true
 Herzlich willkommen im lernOS Change Management Leitfaden. Dieser
 Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um
 das Gestalten von Veränderungen - auch Change Management genannt - zu
-entwickeln.
+entwickeln. Wir gehen besonders auf das Begleitung von Veränderungen im
+IT Kontext ein. Jedoch sind viele Ansätze so universell, dass es
+eigentlich für alle Bereiche genutzt werden kann.
+
+# Die Zielgruppe des Leitfadens
+
+Dies sind sind alle, die sich für das Thema interessieren und die bei
+Veränderungen mitarbeiten. Das sind zum Beispiel Change Agents,
+Projektleiter, ManagerInnen. Da wir eher Grundlagen behandeln, sind die
+Inhalte eher zu basic für absolute Change Profis. Aber beim gemeinsamen
+Lernen lernen vielleicht auch Sie neue Dinge.
 
 # Über lernOS
 
