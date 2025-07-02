@@ -2299,14 +2299,12 @@ und was nicht?
 
 Ein großer Dank an die vielen Projekte und Vorarbeiten, die die
 Erstellung dieses lernOS Leitfaden ermöglicht haben. Besonders vielen
-Dank an
-
-- das gesamte Team, dass die Inhalte für die erste Version des
-  Leitfadens erstellt hat: Anja Lommatzsch, Marcel Kirchner, Rainer
-  Bartl, Sylvia Keske Katrin Elsner, Conny Dettloff, Seyde Sosnovski, &
-  Thomas Jenewein.
-- Jan Bretschneider an die Unterstützung rund um GitHub.
-- Simon Dückert und Cogneon für lernOS.
+Dank an das gesamte Team, dass die Inhalte für die erste Version des
+Leitfadens erstellt hat: Anja Lommatzsch, Marcel Kirchner, Rainer Bartl,
+Sylvia Keske Katrin Elsner, Conny Dettloff, Seyde Sosnovski, & Thomas
+Jenewein. Danke an Jan Bretschneider an die Unterstützung rund um
+GitHub. Und vielen Dank an Simon Dückert und das Cogneon Team sowie die
+Community and das Vorantreiben von lernOS.
 
 ## Änderungshistorie
 
