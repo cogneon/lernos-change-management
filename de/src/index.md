@@ -1,8 +1,10 @@
 # Willkommen
 
 Herzlich willkommen im lernOS Change Management Leitfaden. 
-Dieser Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um das Gestalten von Veränderungen - auch Change Management genannt - zu entwickeln. 
+Dieser Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um das Gestalten von Veränderungen - auch Change Management genannt - zu entwickeln. Wir gehen besonders auf das Begleitung von Veränderungen im IT Kontext ein. Jedoch sind viele Ansätze so universell, dass es eigentlich für alle Bereiche genutzt werden kann. 
 
+# Die Zielgruppe des Leitfadens 
+Dies sind sind alle, die sich für das Thema interessieren und die bei Veränderungen mitarbeiten. Das sind zum Beispiel Change Agents, Projektleiter, ManagerInnen. Da wir eher Grundlagen behandeln, sind die Inhalte eher zu basic für absolute Change Profis. Aber beim gemeinsamen Lernen lernen vielleicht auch Sie neue Dinge. 
 
 # Über lernOS
 
