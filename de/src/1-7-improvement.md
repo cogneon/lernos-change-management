@@ -74,6 +74,4 @@ Im zunehmenden und regelmäßigen Wandel, der meist mit Unsicherheit und Stress 
 **Quellen und weiterführende Informationen**
 
 - [Change Readiness](https://www.linkedin.com/pulse/insightsin2change-you-ready-change-changeinsight/)
-- [Stoffsammlung zu Messungen & Assessments im Change](https://www.linkedin.com/pulse/insightsin2change)
-- [Messen von Readiness, Impact und weiteren Dimensionen im Bereich Change und Training](https://blogs.sap.com/2023/02/17/messen)
-- Unterlagen [Change Impact Analysen im SAP Umfeld](https://go.support.sap.com/roadmapviewer/#/group/658F507A-D6F5-4B78-9EE1-0300C5F1E40F/roadmap/IMPS4HANACLDENMGMT:w6/node/395B1867C27D4B7AA847FF362F10F86F:w6/BB4657176DF1453F8BA60E02EC823D74:w6)
+- [Change Readiness Analysen in Wissenschaft und SAP-Praxis](https://community.sap.com/t5/sap-training-and-change-management/change-readiness-analysen-in-wissenschaft-und-sap-praxis/ba-p/13919564)
