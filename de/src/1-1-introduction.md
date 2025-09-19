@@ -84,7 +84,7 @@ Die **Change Strategie** gibt die Richtung der Change Aktivitäten für ein digi
 
 **Change Leadership und Steuerung** zielen darauf ab, geeignete Mechanismen für das Management betroffener Personen, Personas und Gruppen zu identifizieren und zu implementieren. Mit dem Begriff „Betroffene“ sind diejenigen gemeint, die von einem digitalen Transformationsprojekt wirklich betroffen sind oder die dessen Erfolg beeinflussen können. Das können bei SAP-Projekten viele Personen sein, weshalb man dann auch von Large Scale Change spricht.
 
-**Einbindung, Kommunikation, Befähigung & Empowerment** tragen dazu bei, eine gemeinsame positive Haltung gegenüber Veränderungen zu fördern. Das Alignment mit dem Top-Management ist dabei erfolgskritisch, sowie der Aus- und Aufbau eines Netzwerks von Change Agents.
+Einbindung, Kommunikation, Befähigung & Empowerment tragen dazu bei, eine gemeinsame positive Haltung gegenüber Veränderungen zu fördern. Das Alignment mit dem Top-Management ist dabei erfolgskritisch, sowie der Aus- und Aufbau eines Netzwerks von Change Agents.
 
 **Change Kommunikation** zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln. Es handelt sich um die systematische Planung, Durchführung, Überwachung und Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen Transformationsprojekts. 
 
