@@ -449,7 +449,7 @@ Transformationsprojekt wirklich betroffen sind oder die dessen Erfolg
 beeinflussen können. Das können bei SAP-Projekten viele Personen sein,
 weshalb man dann auch von Large Scale Change spricht.
 
-**Einbindung, Kommunikation, Befähigung & Empowerment** tragen dazu bei,
+Einbindung, Kommunikation, Befähigung & Empowerment tragen dazu bei,
 eine gemeinsame positive Haltung gegenüber Veränderungen zu fördern. Das
 Alignment mit dem Top-Management ist dabei erfolgskritisch, sowie der
 Aus- und Aufbau eines Netzwerks von Change Agents.
