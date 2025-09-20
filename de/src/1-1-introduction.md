@@ -13,7 +13,7 @@ Abbildung 1 illustriert die Schwerpunkte von Change-Management gegenüber Projek
 |Harte Faktoren im Projekt Management  |<p>Prozesse</p><p>Strukturen</p><p>Systeme</p>|<p>Aufgaben</p><p>Bereiche</p><p>Berichtslinien</p>|<p>Rollen</p><p>Verantwortlichkeiten</p><p>Skills</p>|
 |Softe Faktoren im Change  |<p>Kultur</p><p>Werte  </p><p>Normen</p>|<p>Führung</p><p>Gruppendynamik</p><p>Mikropolitik</p>|<p>Angst</p><p>Hoffnung</p><p>Begeisterung</p><p>Widerstand</p>|
 
-Je nach Größe und Set-up eines Projekts kann Change Management ein eigener Stream sein in einem Projekt, eine Stabstelle neben dem Projektleiter oder in kleinen Projekten eine Aufgabe der Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
+Je nach Größe und Set-up eines Projekts kann Change Management ein eigener Stream sein in einem Projekt, eine Stabstelle neben der Projektleitung oder in kleinen Projekten eine Aufgabe der Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
 
 Entscheidend für den Erfolg jeder Veränderung ist – einfach gesagt – das „Sollen”, „Können”, „Dürfen” und „Wollen”. Dies ist auch das wohl „einfachste” Modell des Change-Managements. 
 
@@ -22,13 +22,13 @@ Entscheidend für den Erfolg jeder Veränderung ist – einfach gesagt – das �
 - „**Dürfen**“ heißt, dass entsprechende Befugnisse und Freiräume vorhanden sind.
 - „**Wollen**“ bedeutet, dass Überzeugung und Akzeptanz vorherrschen.
 
-Anbei werden verschiedene Change Management Modelle vorgestellt. Einige sind schon älter und haben eine besondere Herkunft. Wir denken jedoch, dass es interessant ist von ihnen gehört zu haben. 
+Anbei werden verschiedene Change Management Modelle vorgestellt. Einige sind schon älter und haben eine besondere Herkunft. Wir denken jedoch, dass es interessant ist, von ihnen gehört zu haben. 
 
 ### Agiles Change Management und Metatheorie der Veränderung ###
 
 Agiles Change Management integriert agile Methoden, um Flexibilität und Anpassungsfähigkeit während des Veränderungsprozesses zu fördern. Gerade im IT Bereich eignen sich solche Ansätze, schließlich wurden agile Modelle in der Software-Entwicklung erfunden, um besser mit der zunehmenden Komplexität & Dynamik zurecht zu kommen. 
 
-Scrum und Kanban sind beispielsweise bewährte agile Ansätze, die in Change-Projekten eingesetzt werden können. Scrum ermöglicht es Teams, in kurzen Iterationen (Sprints) zu arbeiten, wodurch regelmäßiges Feedback und schnelle Anpassungen an den Veränderungsbedarf möglich sind. Kanban hingegen visualisiert den Arbeitsfluss und hilft, Engpässe zu identifizieren, was die Effizienz steigert und eine kontinuierliche Verbesserung fördert. Beide Methoden unterstützen iterative Ansätze, bei denen man kontinuierlich lernt und sich anpasst, um die Akzeptanz der Veränderungen zu erhöhen und die Mitarbeiter besser einzubinden. Zudem können Methoden wie Retrospektiven und unterschiedliche Ansätze aus dem Design Thinking auch sehr hilfreich im Change Management sein.
+Scrum und Kanban sind beispielsweise bewährte agile Ansätze, die in Change-Projekten eingesetzt werden können. Scrum ermöglicht es Teams, in kurzen Iterationen (Sprints) zu arbeiten, wodurch regelmäßiges Feedback und schnelle Anpassungen an den Veränderungsbedarf möglich sind. Kanban hingegen visualisiert den Arbeitsfluss und hilft, Engpässe zu identifizieren, was die Effizienz steigert und eine kontinuierliche Verbesserung fördert. Beide Methoden unterstützen iterative Ansätze, bei denen man kontinuierlich lernt und sich anpasst, um die Akzeptanz der Veränderungen zu erhöhen und die Mitarbeitenden besser einzubinden. Zudem können Methoden wie Retrospektiven und unterschiedliche Ansätze aus dem Design Thinking auch sehr hilfreich im Change Management sein.
 
 Es gibt viele weitere aktuelle Strömungen, von Lean Change Management bis hin zur Metatheorie der Veränderung von Klaus Eidenschink. Diese legt den Fokus auf Selbstorganisationsprozesse und eine prozessorientierte Sichtweise. Im Change-Management kann dies bedeuten, dass statt einer starren Planung, die oft auf Prognosen und Annahmen basiert, eine flexiblere Herangehensweise gewählt wird, die auf aktuellen Prozessen und Dynamiken basiert und damit eher dem agilen Paradigma folgt.
 
@@ -58,7 +58,7 @@ Das ADKAR-Modell ist ein Change-Management-Werkzeug, das von Prosci entwickelt w
 
 **Awareness (Bewusstsein):** Verständnis für die Notwendigkeit der Veränderung. Beispiel: Kommunikation über Marktveränderungen, die eine neue IT-Strategie erfordern.
 
-**Desire (Wunsch):** Engagement und Bereitschaft, sich auf die Veränderung einzulassen. Beispiel: Demonstration der Vorteile der neuen IT-Strategie für einzelne Mitarbeiter und das Unternehmen insgesamt.
+**Desire (Wunsch):** Engagement und Bereitschaft, sich auf die Veränderung einzulassen. Beispiel: Demonstration der Vorteile der neuen IT-Strategie für einzelne Mitarbeitende und das Unternehmen insgesamt.
 
 **Knowledge (Wissen):** Verständnis darüber, wie die Veränderung umgesetzt wird. Beispiel: Schulungen und Workshops zur neuen Software oder Prozessen.
 
@@ -88,9 +88,9 @@ Einbindung, Kommunikation, Befähigung & Empowerment tragen dazu bei, eine gemei
 
 **Change Kommunikation** zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln. Es handelt sich um die systematische Planung, Durchführung, Überwachung und Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen Transformationsprojekts. 
 
-**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei meist direkt an. 
+**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder\*innen-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei meist direkt an. 
 
-**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Experten sowie für die User. Zuerst werden üblicherweise das Projektteam und Management geschult, später die User.
+**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Expert\*innen sowie für die User. Zuerst werden üblicherweise das Projektteam und Management geschult, später die User.
 
 **Change Effectiveness** umfasst die Aktivitäten, die zur Messung der Effektivität von OCM-Aktivitäten zur Unterstützung der digitalen Transformation eingesetzt werden können. Sie konzentriert sich auf Kriterien wie organisatorische Bereitschaft, Benutzerakzeptanz und -zufriedenheit sowie das Benutzerverhalten nach dem Go-Live. Awareness, Commitment, Empowerment, Enablement und Akzeptanz sind dabei Faktoren die gewöhnlich gemessen werden, sei es mit Systemdaten oder Befragungen.
 
