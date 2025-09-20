@@ -19,12 +19,12 @@ Die **Change Readiness Analyse** ist in IT-Projekten ein wichtiges Instrument, u
 - **Stakeholder-Identifikation**: Es ist entscheidend zu wissen, wer von der Veränderung betroffen ist und wer als Schlüsselfigur fungieren kann, um die Veränderung zu unterstützen oder zu behindern.
 - **Erhebungsinstrumente**: Diese können Workshops, Interviews oder Umfragen umfassen. Wichtig ist, die allgemeine Bereitschaft und Einstellung zur Veränderung zu messen.
 - Sie umfasst typischerweise Sentiments wie:
-  - **Bewusstsein & Awareness**: Verstehen die Mitarbeiter die Notwendigkeit der Veränderung?
+  - **Bewusstsein & Awareness**: Verstehen die Mitarbeitenden die Notwendigkeit der Veränderung?
   - **Verständnis**: Haben sie ein klares Bild von den Veränderungen und ihrer Rolle dabei?
   - **Akzeptanz**: Wird die Veränderung positiv bewertet und unterstützt?
-  - **Fähigkeit**: Fühlen sich die Mitarbeiter in der Lage, die Veränderung umzusetzen, und verfügen sie über die notwendigen Ressourcen?
-  - **Engagement & Commitment**: Sind die Mitarbeiter bereit, aktiv an der Umsetzung mitzuwirken und fühlen sich in ihren Bemühungen anerkannt?
-  - **Empowerment**: Haben die Mitarbeiter die nötige Unterstützung und Erlaubnis, um Veränderungen erfolgreich umzusetzen? Sind die Ressourcen für die Veränderung vorhanden?
+  - **Fähigkeit**: Fühlen sich die Mitarbeitenden in der Lage, die Veränderung umzusetzen, und verfügen sie über die notwendigen Ressourcen?
+  - **Engagement & Commitment**: Sind die Mitarbeitenden bereit, aktiv an der Umsetzung mitzuwirken und fühlen sich in ihren Bemühungen anerkannt?
+  - **Empowerment**: Haben die Mitarbeitenden die nötige Unterstützung und Erlaubnis, um Veränderungen erfolgreich umzusetzen? Sind die Ressourcen für die Veränderung vorhanden?
 
 Es ist wichtig zu beachten, dass eine Change Readiness-Analyse kein einmaliges Ereignis ist, sondern ein fortlaufender Prozess, der während des gesamten Change-Managements durchgeführt werden sollte, um die fortlaufende Bereitschaft und mögliche Veränderungen im Laufe der Zeit zu überwachen. 
 
@@ -42,13 +42,13 @@ Das Vorgehen bei einer Change Impact Analyse umfasst im Allgemeinen die folgende
 - Bewertung der Auswirkungen: Wie groß ist die Auswirkung jeder Änderung? Wer wird davon betroffen sein und in welchem Ausmaß?
 - Entwicklung von Maßnahmen zur Bewältigung der Auswirkungen: Was kann getan werden, um die negativen Auswirkungen zu minimieren und die positiven zu maximieren? Welche Ressourcen werden dafür benötigt?
 
-Eine Change Impact Analyse wird am besten in einem Workshop durchgeführt, bei dem Experten aus verschiedenen organisatorischen Einheiten und mit unterschiedlichen Hintergründen teilnehmen. Dieser kollaborative Ansatz fördert ein gemeinsames Verständnis der bevorstehenden Herausforderungen unter den Projektbeteiligten. Nach der Bewertung ist es wichtig, die identifizierten Handlungsfelder mit geeigneten Aktivitäten anzugehen.
+Eine Change Impact Analyse wird am besten in einem Workshop durchgeführt, bei dem Expert\*innen aus verschiedenen organisatorischen Einheiten und mit unterschiedlichen Hintergründen teilnehmen. Dieser kollaborative Ansatz fördert ein gemeinsames Verständnis der bevorstehenden Herausforderungen unter den Projektbeteiligten. Nach der Bewertung ist es wichtig, die identifizierten Handlungsfelder mit geeigneten Aktivitäten anzugehen.
 
 Im SAP-Bereich wird dies gewöhnlich im Rahmen der Fit-to-Standard Workshops durchgeführt. Dabei wird geklärt, wie die Standardsoftware den Anforderungen des Unternehmens entspricht (Fit) und wo Anpassungen oder Änderungen notwendig sein könnten (Gap). 
 
 ` `Gerade diese Anpassungen und Änderungen sind die Änderungen, die in der Change Impact Analyse weiter geprüft werden.  
 
-Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem Level incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer. Toolseitig kann dies effektiv durch Prozess-Management Software wie SAP Signavio unterstützt werden.
+Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem Level incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer\*innen. Toolseitig kann dies effektiv durch Prozess-Management Software wie SAP Signavio unterstützt werden.
 
 ### Sammlung von weiteren Analysen und Good Practices ###
 
@@ -67,7 +67,7 @@ Als Methoden werden meist Instrumente aus der Sozialforschung sowie dem Design T
 
 Kontinuierliche Verbesserung für die Verankerung der Veränderungen z.B. nach Go-Live bedarf weiterer Analysen. So können regelmäßig Pulse-Checks zu den oben genannten Change-Sentinents durchgeführt werden. Nach großen Systemeinführungen folgen gewöhnlich kleine, regelmäßige Updates. 
 
-Auch hier bedarf es Kommunikation und Weiterbildung. Wichtig ist, dass es weiter Prozesse und Ressourcen gibt, die sich darum kümmern. Zum Beispiel um das Updaten der Dokumentation, der Enduser Trainings. Dies können Key-User sein oder eine Community aus Change Agents. 
+Auch hier bedarf es Kommunikation und Weiterbildung. Wichtig ist, dass es weiter Prozesse und Ressourcen gibt, die sich darum kümmern. Zum Beispiel um das Updaten der Dokumentation, der Enduser\*innen Trainings. Dies können Key-User\*innen sein oder eine Community aus Change Agents. 
 
 Im zunehmenden und regelmäßigen Wandel, der meist mit Unsicherheit und Stress verbunden ist, ist Resilienz von zunehmender Bedeutung. Eine resiliente stressresistente Belegschaft kann schneller und nachhaltiger auf Veränderungen reagieren, was die Wahrscheinlichkeit des Erfolgs von Change-Initiativen erhöht. Auch hier helfen bereits genannte Ansätze wie verfügbare Ressourcen, unterstützende kulturelle Werte wie psychologische Sicherheit oder Feedback Mechanismen.
 
