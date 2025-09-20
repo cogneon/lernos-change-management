@@ -283,10 +283,10 @@ Projekt-Management
 
 Je nach Größe und Set-up eines Projekts kann Change Management ein
 eigener Stream sein in einem Projekt, eine Stabstelle neben dem
-Projektleiter oder in kleinen Projekten einfach eine Aufgabe der
-Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant
-werden und es neben Zeit, Qualität & Kosten auch entsprechend im
-Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
+Projektleiter oder in kleinen Projekten eine Aufgabe der Projektleitung.
+Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es
+neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im
+Reporting & Monitoring berücksichtigt wird.
 
 Entscheidend für den Erfolg jeder Veränderung ist -- einfach gesagt --
 das „Sollen", „Können", „Dürfen" und „Wollen". Dies ist auch das wohl
@@ -300,9 +300,9 @@ das „Sollen", „Können", „Dürfen" und „Wollen". Dies ist auch das wohl
   vorhanden sind.
 - „**Wollen**" bedeutet, dass Überzeugung und Akzeptanz vorherrschen.
 
-Anbei werden verschiedene Modelle vorgestellt. Einige sind schon älter
-und haben eine spezielle Herkunft. Wir denken jedoch, dass es
-interessant ist von ihnen gehört zu haben.
+Anbei werden verschiedene Change Management Modelle vorgestellt. Einige
+sind schon älter und haben eine besondere Herkunft. Wir denken jedoch,
+dass es interessant ist von ihnen gehört zu haben.
 
 ### Agiles Change Management und Metatheorie der Veränderung
 
@@ -465,13 +465,13 @@ mit einer digitalen Transformation verbundenen Veränderungen bei den
 relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills,
 Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert
 einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen,
-kontinuierliche Verbesserungen und Anpassungen sind inzwischen meist
-anschließend.
+kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei
+meist direkt an.
 
 **Change Enablement** bietet während des Transformationsprozesses
-umfassende Schulungen und Lernangebote für Experten sowie für die
-Nutzer. Zuerst werden üblicherweise das Projektteam und Management
-geschult, später die Nutzer.
+umfassende Schulungen und Lernangebote für Experten sowie für die User.
+Zuerst werden üblicherweise das Projektteam und Management geschult,
+später die User.
 
 **Change Effectiveness** umfasst die Aktivitäten, die zur Messung der
 Effektivität von OCM-Aktivitäten zur Unterstützung der digitalen
