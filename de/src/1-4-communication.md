@@ -2,7 +2,7 @@
 
 ### Why - Warum ist Kommunikation wichtig im Change-Management? ###
 
-Kommunikationsmaßnahmen für verschiedene Stakeholder Gruppen (siehe auch Kapitel 3.3) bezwecken, dass die Mitarbeitenden die Veränderungen verstehen, akzeptieren, konstruktiv und im besten Fall motiviert daran teilhaben können. 
+Kommunikationsmaßnahmen für verschiedene Stakeholder Gruppen bezwecken, dass die Mitarbeitenden die Veränderungen verstehen, akzeptieren, konstruktiv und im besten Fall motiviert daran teilhaben können. 
 
 Kommunikation ist also weit mehr als Information: Change Kommunikation zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln (WAS, WANN, FÜR WEN). Es handelt sich um die systematische Planung, Durchführung, Überwachung und Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen Transformationsprojekts gegenüber den Projektbeteiligten. Soweit die gängige Praxis. Jedoch sollten wir uns nicht nur auf eine Übermittlung nach dem Sender-Empfänger Prinzip beschränken. Denn: 
 
@@ -17,9 +17,9 @@ Das heißt, dass das alleinige Senden nicht reicht, z.B. via E-Mail. Wir sollten
 
 Visionen und Zielsetzungen sind zentral beim Change-Management. Sie bieten Orientierung und motivieren die Beteiligten. Eine Vision ist das große, inspirierende Ziel, beispielsweise "Marktführerschaft in der digitalen Innovation". Dies ist auch zentral für die Kommunikation.
 
-Zielsetzungen sind konkrete, messbare Schritte zur Erreichung der Vision, wie "Einführung einer neuen Software bis Quartal 4". Sie sind entscheidend, um den Fortschritt zu messen und die Mitarbeiter auf dem Weg zur Veränderung zu führen. Ohne klare Vision und Ziele kann der Veränderungsprozess unkoordiniert und ineffektiv werden. 
+Zielsetzungen sind konkrete, messbare Schritte zur Erreichung der Vision, wie "Einführung einer neuen Software bis Quartal 4". Sie sind entscheidend, um den Fortschritt zu messen und die Mitarbeitenden auf dem Weg zur Veränderung zu führen. Ohne klare Vision und Ziele kann der Veränderungsprozess unkoordiniert und ineffektiv werden. 
 
-Gerade zu Beginn kann das noch allgemein gehalten sein. Wichtig ist, dass das Management und die relevanten Stakeholder sich darauf einigen. Es hilft auch der Link zur allgemeinen Strategie der Firma dabei, sowie ein motivierendes, emotional ansprechendes Motto. Beispielsweise ist die Strategie von Hugo Boss die führende digitale Modeplattform im Premium-Bereich zu sein. Das Motto der SAP S/4HANA Einführung ist dafür sprechend"ItS4HugoBoss". Optimal ist eine Change Story den Bezug zum Erleben in der Gegenwart und    der erwünschten Zukunft darstellt.
+Gerade zu Beginn kann das noch allgemein gehalten sein. Wichtig ist, dass das Management und die relevanten Stakeholder sich darauf einigen. Es hilft auch der Link zur allgemeinen Strategie der Firma dabei, sowie ein motivierendes, emotional ansprechendes Motto. Beispielsweise ist die Strategie von Hugo Boss die führende digitale Modeplattform im Premium-Bereich zu sein. Das Motto der SAP S/4HANA Einführung ist dafür sprechend"ItS4HugoBoss". Optimal ist eine Change Story, die den Bezug zum Erleben in der Gegenwart und der erwünschten Zukunft darstellt.
 
 ### What – Kommunikationsplan ###
 
@@ -49,17 +49,17 @@ Abbildung 2: Kommunikationsplan nach Stolzenberg & Heberle
 
 Es gibt verschiedene Wege, um einen Kommunikationsplan zu gestalten. Insbesondere Interviews oder Workshops können für die Erstellung des Plans sehr hilfreich sein, da die direkt betroffenen Personen aktiv in die Planung eingebunden werden. Individuellen Bedürfnisse und genaue Anforderungen bezüglich der zu vermittelnden Informationen können erfasst und im Kommunikationsplan gebündelt werden. Analysen am Beginn des Projekts – zum Beispiel die Readiness Analysen bieten hilfreiche Impulse für den Kommunikationsplan. 
 
-Abhängig von der Größe des Veränderungsprojekts ist es möglicherweise nicht machbar, alle Beteiligten zu befragen oder in den Workshop einzubeziehen. Daher ist es entscheidend, dass die Teilnehmer die Vielfalt der Stakeholder bestmöglich repräsentieren.
+Abhängig von der Größe des Veränderungsprojekts ist es möglicherweise nicht machbar, alle Beteiligten zu befragen oder in den Workshop einzubeziehen. Daher ist es entscheidend, dass die Teilnehmenden die Vielfalt der Stakeholder bestmöglich repräsentieren.
 
 Kommunikationspläne können auch je nach Change-Management-Modell, welches verwendet wird, unterschiedlich sein. Jedes Modell hat seine eigene Herangehensweise an Veränderungen und setzt den Fokus auf verschiedene Aspekte des Wandels, zum Beispiel wie Informationen präsentiert werden, welche Botschaften betont werden und wie die Mitarbeitenden während des Wandels unterstützt werden.  
 
-Das Ziel bleibt, die Akzeptanz, das Verständnis und Wünsche (Desire) für die Veränderungen zu fördern bzw. die verschiedenen Ebenen abzubilden. Schön zeigt dies auch das ADKAR Modell (s. Kapitel 3.1.2) wo u.a. zwischen Awareness, Desire, Wissen und Fertigkeit unterschieden wird. Hier gilt es pro Ebene unterschiedlich zu kommunizieren.
+Das Ziel bleibt, die Akzeptanz, das Verständnis und Wünsche (Desire) für die Veränderungen zu fördern bzw. die verschiedenen Ebenen abzubilden. Schön zeigt dies auch das ADKAR Modell (s. Kapitel 1.1.) wo u.a. zwischen Awareness, Desire, Wissen und Fertigkeit unterschieden wird. Hier gilt es pro Ebene unterschiedlich zu kommunizieren.
 
 Konkret kann ein Kommunikationsplan entlang folgender Schritte erstellt werden:
 
 - Definiere die Ziele der Kommunikation.
-- Bestimme, wer die Hauptzielgruppen sind – IT-Teams, Abteilungsleiter, Endnutzer usw. Jede Gruppe hat unterschiedliche Informationsbedürfnisse.
-- Entscheide, welche Kommunikationsmittel am effektivsten sind: E-Mails, Meetings, Newsletter, Intranet, Chats, Präsentationen, Workshops, Videomeetings usw. Nutze mehrere Kanäle für verschiedene Botschaften (mehr dazu in Kapitel Kommunikationsformate und -materialien).
+- Bestimme, wer die Hauptzielgruppen sind – IT-Teams, Abteilungsleiter\*innen, Endnuser usw. Jede Gruppe hat unterschiedliche Informationsbedürfnisse.
+- Entscheide, welche Kommunikationsmittel am effektivsten sind: E-Mails, Meetings, Newsletter, Intranet, Chats, Präsentationen, Workshops, Videomeetings usw. Nutze mehrere Kanäle für verschiedene Botschaften (mehr dazu in Abschnitt Kommunikationsformate und -materialien).
 - Erstelle eine Liste mit den Informationen, die kommuniziert werden müssen. Das kann den Projektfortschritt, Meilensteine, Zeitpläne, Risiken und Änderungen beinhalten.
 - Entwickle einen Zeitplan, der angibt, wann und wie oft du mit den verschiedenen Zielgruppen kommunizieren wirst. Berücksichtige auch dringende oder regelmäßige Updates.
 - Weise Verantwortlichkeiten für die Kommunikation klar zu. Wer wird welche Nachrichten verfassen, genehmigen, senden und überwachen?
@@ -74,14 +74,14 @@ Es empfiehlt sich, verschiedene Kommunikationsformate zu nutzen.
 
 **Synchrone & asynchrone Formate**
 
-Kommunikation kann synchron (alle Kommunikationspartner kommunizieren zur selben Zeit miteinander) und asynchron (die Kommunikation findet zeitversetzt statt) stattfinden. Beide Kommunikationsformen haben Vor- und Nachteile. Im Kommunikationsplan wird entsprechend der Zielsetzung und der Zielgruppe der jeweils passende Kommunikationskanal und das passende Format festgelegt.
+Kommunikation kann synchron (alle Kommunikationspartner\*innen kommunizieren zur selben Zeit miteinander) und asynchron (die Kommunikation findet zeitversetzt statt) stattfinden. Beide Kommunikationsformen haben Vor- und Nachteile. Im Kommunikationsplan wird entsprechend der Zielsetzung und der Zielgruppe der jeweils passende Kommunikationskanal und das passende Format festgelegt.
 
 **Beispiele für synchrone Formate** 
 
-- Town-Hall-Meetings oder All-Hands-Meetings: Diese Meetings ermöglichen es Führungskräften, die Vision und Ziele des Wandels zu kommunizieren, Fragen zu beantworten und im direkten Kontakt mit den Mitarbeitenden, Fragen zu beantworten. Das kann auch virtuell stattfinden. 
+- Town-Hall-Meetings oder All-Hands-Meetings: Diese Meetings ermöglichen es Führungskräften, die Vision und Ziele des Wandels zu kommunizieren und im direkten Kontakt mit den Mitarbeitenden, Fragen zu beantworten. Das kann auch virtuell stattfinden. 
 - Change-Workshops oder Schulungen: Durch interaktive Workshops oder Schulungen können Mitarbeitende in den Change Prozess eingebunden werden. Sie erhalten die Möglichkeit, das Verständnis für den Wandel zu vertiefen, Fähigkeiten zu entwickeln und ihre Bedenken zu äußern. 
 - Regelmäßige Projekt-Meetings: Kurze, regelmäßige Besprechungen oder Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen zu beantworten und direktes Feedback von den Mitarbeitenden zu erhalten. 
-- Einbeziehung von Teamleitern und direkten Vorgesetzten: Die Einbeziehung von Teamleitern und direkten Vorgesetzten ist entscheidend, da sie oft die wichtigsten Ansprechpartner für Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft des Wandels unterstützen und ihre Teams effektiv informieren können (siehe auch unter Kapitel Projektrollen / Führungskräfte). 
+- Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten: Die Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten ist entscheidend, da sie oft die wichtigsten Ansprechpartner für Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft des Wandels unterstützen und ihre Teams effektiv informieren können (siehe auch unter Kapitel Projektrollen / Führungskräfte). 
 - Kommunikation durch Führungskräfte: Regelmäßige Kommunikation und offene Gespräche seitens der Führungskräfte, sei es durch persönliche Gespräche, bestehende Meetings, Newsletter oder E-Mails, um die Unterstützung für den Wandel zu demonstrieren und den Mitarbeitenden Orientierung zu bieten (siehe auch unter Kapitel Projektrollen / Führungskräfte).
 
 **Beispiele für asynchrone Formate**
