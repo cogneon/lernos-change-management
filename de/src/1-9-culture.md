@@ -41,4 +41,4 @@ Der Erfolg von IT- und Cloud-Projekten hängt maßgeblich von der Fähigkeit der
 **Quellen und weitere Informationen**
 
 - lernOS für Organisationen: Kapitel [Veränderung von Organisationen](mailto:https://cogneon.github.io/lernos-for-organizations/de/3-2-Veraenderung-von-Organisation/) sowie [Eine Lernende Organisation kultivieren](mailto:https://cogneon.github.io/lernos-for-organizations/de/3-4-Eine-Lernende-Organisation-kultivieren/) 
-- [Quelle: e-Book Resttrukturierung](https://www.emergize.org/restrukturierung/)
+- [Quelle: e-Book Restrukturierung](https://www.emergize.org/restrukturierung/)
