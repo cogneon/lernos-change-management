@@ -106,22 +106,22 @@ Storytelling spielt in Change-Projekten eine entscheidende Rolle, da es eine kra
 Beim Erzählen von Geschichten in Change-Projekten ist es wichtig, auf einige Schlüsselfaktoren zu achten:
 
 - Relevanz und Authentizität
-- Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig ist und welche Vorteile bringt er.
-- Einbeziehung der Zuhörer incl. der Ermutigung, sich in die Geschichte hineinzuversetzen oder sich mit Charakteren zu identifizieren.
-- Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung erzeugt und die Aufmerksamkeit der Zuhörer aufrechterhält, ist wirkungsvoller.
+- Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig  und welche Vorteile bringt er.
+- Einbeziehung der Zuhörenden inkl. der Ermutigung, sich in die Geschichte hineinzuversetzen oder sich mit Charakteren zu identifizieren.
+- Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung erzeugt und die Aufmerksamkeit der Zuhörenden aufrechterhält, ist wirkungsvoller.
 
-Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und Unterstützung für den Wandel wesentlich verbessern. Wichtig ist dabei auch das sog. Storylistening. Sprich durch Zuhören das aktive Erleben bzgl. Gegenwart und Zukunft zu verstehen um daraus.
+Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und Unterstützung für den Wandel wesentlich verbessern. 
 
 ### Tipps und Best Practices für die Kommunikation in Projekten ###
 
 - Kontinuierliche Kommunikation: Wiederholen wichtiger Informationen und des Fortschritts. Rituale helfen dabei wie monatliche AMA (Ask me anything) Sessions oder monatliche Newsletter.
 - Vielfalt der Kanäle: Damit werden unterschiedliche Präferenzen angesprochen.  
 - Einbeziehung von Meinungen und Feedback: Das ist ein zentrales Element – ob in Diskussionsforen oder offenen Sprechstunden.
-- Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeiter und verschiedene Abteilungen haben unterschiedliche Perspektiven und Bedürfnisse. 
-- Messbare Ziele und Fortschritt anzeigen: Visualisieren von Erfolgen und Meilensteine, um das Engagement und die Motivation aufrechtzuerhalten.
-- Verschiedene Perspektiven herausarbeiten (auch für Endnutzer\*innen): IT-Lösungen werden oft vom Management eingekauft. Der Mehrwert und die Änderungen für Mitarbeitende und Nutzer\*innen ist oft nicht klar - dies gilt es, z.B. anhand Personas, herauszuarbeiten. In sogenannten Change Impact Messungen kann dann eingeschätzt werden, wie stark die Änderungen für die jeweilige Persona oder Rolle sind. Gerade bei hohem Change Impact ist es wichtig ausreichend bzw.  mehr zu kommunizieren. 
+- Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeitende und verschiedene Abteilungen haben unterschiedliche Perspektiven und Bedürfnisse. 
+- Messbare Ziele und Fortschritt anzeigen: Visualisieren von Erfolgen und Meilensteinen, um das Engagement und die Motivation aufrechtzuerhalten.
+- Verschiedene Perspektiven herausarbeiten (auch für Endnutzer\*innen): IT-Lösungen werden oft vom Management eingekauft. Der Mehrwert und die Änderungen für Mitarbeitende und Nutzer\*innen ist oft nicht klar - dies gilt es z.B. anhand Personas herauszuarbeiten. In sogenannten Change Impact Analysen kann dann eingeschätzt werden, wie stark die Änderungen für die jeweilige Persona oder Rolle sind. Gerade bei hohem Change Impact ist es wichtig ausreichend bzw.  mehrmals zu kommunizieren. 
 - Timing: Zu früh zu viel zu kommunizieren weckt evtl. Erwartungen, die noch nicht bedient werden können. Zu spät oder zu wenig zu kommunizieren ist u.U. ebenso suboptimal. Daher ist es wichtig, den Detailgrad zeitlich entsprechend zu kommunizieren und dabei transparent zu sein. Das bedeutet, klar zu kommunizieren, welche Schritte noch unklar sind und wie das Fortschreiten kommuniziert wird.** 
-- Nutzen von Multiplikatoren und bestehenden Kanälen: Eigene Change Netzwerke oder bestehende Netzwerke wie Assistent\*innen, Azubis, Führungskräfte-Meetings können zur Kommunikation genutzt werden. 
+- Nutzen von Multiplikator\*innen und bestehenden Kanälen: Eigene Change Netzwerke oder bestehende Netzwerke wie Assistent\*innen, Azubis, Führungskräfte-Meetings können zur Kommunikation genutzt werden. 
 
 **Weitere Ressourcen**:
 
