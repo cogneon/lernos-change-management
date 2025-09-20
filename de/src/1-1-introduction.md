@@ -13,7 +13,7 @@ Abbildung 1 illustriert die Schwerpunkte von Change-Management gegenüber Projek
 |Harte Faktoren im Projekt Management  |<p>Prozesse</p><p>Strukturen</p><p>Systeme</p>|<p>Aufgaben</p><p>Bereiche</p><p>Berichtslinien</p>|<p>Rollen</p><p>Verantwortlichkeiten</p><p>Skills</p>|
 |Softe Faktoren im Change  |<p>Kultur</p><p>Werte  </p><p>Normen</p>|<p>Führung</p><p>Gruppendynamik</p><p>Mikropolitik</p>|<p>Angst</p><p>Hoffnung</p><p>Begeisterung</p><p>Widerstand</p>|
 
-Je nach Größe und Set-up eines Projekts kann Change Management ein eigener Stream sein in einem Projekt, eine Stabstelle neben dem Projektleiter oder in kleinen Projekten einfach eine Aufgabe der Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
+Je nach Größe und Set-up eines Projekts kann Change Management ein eigener Stream sein in einem Projekt, eine Stabstelle neben dem Projektleiter oder in kleinen Projekten eine Aufgabe der Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
 
 Entscheidend für den Erfolg jeder Veränderung ist – einfach gesagt – das „Sollen”, „Können”, „Dürfen” und „Wollen”. Dies ist auch das wohl „einfachste” Modell des Change-Managements. 
 
@@ -22,7 +22,7 @@ Entscheidend für den Erfolg jeder Veränderung ist – einfach gesagt – das �
 - „**Dürfen**“ heißt, dass entsprechende Befugnisse und Freiräume vorhanden sind.
 - „**Wollen**“ bedeutet, dass Überzeugung und Akzeptanz vorherrschen.
 
-Anbei werden verschiedene Modelle vorgestellt. Einige sind schon älter und haben eine spezielle Herkunft. Wir denken jedoch, dass es interessant ist von ihnen gehört zu haben. 
+Anbei werden verschiedene Change Management Modelle vorgestellt. Einige sind schon älter und haben eine besondere Herkunft. Wir denken jedoch, dass es interessant ist von ihnen gehört zu haben. 
 
 ### Agiles Change Management und Metatheorie der Veränderung ###
 
@@ -88,9 +88,9 @@ Einbindung, Kommunikation, Befähigung & Empowerment tragen dazu bei, eine gemei
 
 **Change Kommunikation** zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln. Es handelt sich um die systematische Planung, Durchführung, Überwachung und Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen Transformationsprojekts. 
 
-**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen sind inzwischen meist anschließend. 
+**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei meist direkt an. 
 
-**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Experten sowie für die Nutzer. Zuerst werden üblicherweise das Projektteam und Management geschult, später die Nutzer.
+**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Experten sowie für die User. Zuerst werden üblicherweise das Projektteam und Management geschult, später die User.
 
 **Change Effectiveness** umfasst die Aktivitäten, die zur Messung der Effektivität von OCM-Aktivitäten zur Unterstützung der digitalen Transformation eingesetzt werden können. Sie konzentriert sich auf Kriterien wie organisatorische Bereitschaft, Benutzerakzeptanz und -zufriedenheit sowie das Benutzerverhalten nach dem Go-Live. Awareness, Commitment, Empowerment, Enablement und Akzeptanz sind dabei Faktoren die gewöhnlich gemessen werden, sei es mit Systemdaten oder Befragungen.
 
