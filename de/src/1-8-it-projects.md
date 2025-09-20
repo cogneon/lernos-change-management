@@ -6,7 +6,7 @@ Die Digitalisierung stellt Organisationen vor fundamentale Herausforderungen und
 
 Viele Unternehmen kämpfen mit veralteten "Legacy-Systemen", die modernen digitalen Anforderungen nicht mehr gerecht werden. Diese Systeme behindern oft die Einführung neuer Technologien. Zudem führt Pfadabhängigkeit dazu, dass etablierte Prozesse und Fähigkeiten den notwendigen Wandel blockieren.
 
-Forschungsergebnisse zeigen, dass erfolgreiche IT-Transformationen eine ganzheitliche Betrachtung von Technologie, Prozessen und Mitarbeitern erfordern. So können digitalen Transformationsprojekte an mangelnder Berücksichtigung organisatorischer Aspekte scheitern.
+Forschungsergebnisse zeigen, dass erfolgreiche IT-Transformationen eine ganzheitliche Betrachtung von Technologie, Prozessen und Mitarbeitenden erfordern. So können digitalen Transformationsprojekte an mangelnder Berücksichtigung organisatorischer Aspekte scheitern.
 
 Neue Führungs- und Zusammenarbeitsmodelle
 
@@ -16,8 +16,8 @@ Bei Outsourcing- und Insourcing-Entscheidungen sollte strategisch vorgegangen we
 
 Die Rolle der IT in Restrukturierungen sollte differenziert betrachtet werden:
 
-- IT als Befähiger des Business
-- IT als Treiber neuer Wertschöpfungspotenziale
+- IT als Befähigerin des Business
+- IT als Treiberin neuer Wertschöpfungspotenziale
 - Zentralisierung vs. Dezentralisierung je nach Funktion (Back-Office vs. kundennahe Prozesse)
 
 **Notwendigkeit neuer Fähigkeiten und Überwindung alter Statusbilder**
