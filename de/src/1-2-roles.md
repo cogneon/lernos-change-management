@@ -101,5 +101,4 @@ Im Englischen werden diese Rollen mit dem Akronym CLARC® beschrieben:
 ### Quellen und weitere Informationen
 
 - [Rollen und Verantwortlichkeiten im Änderungsmanagement | Atlassian](https://www.atlassian.com/de/itsm/change-management/roles-and-responsibilities)
-- [Das Change-Management CLARC-Modell und die Rolle von Führungskräften im Change |Tiba](https://www.tiba.de/clarc-modell/)
-- [Agile Change Canvas Vorlagen ](https://www.business-wissen.de/produkt/8208/agile-change-canvas-vorlagen/)[–](https://www.business-wissen.de/produkt/8208/agile-change-canvas-vorlagen/)
+- [CLARC: Die Rolle von Personalmanagern im Change Management |](https://www.prosci.com/de/blog/clarc-die-rolle-von-personalmanagern-im-change-management)
