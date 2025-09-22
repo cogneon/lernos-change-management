@@ -56,7 +56,7 @@ toc-own-page: true
     Change-Management: Mehr als nur
     Rollen](#stakeholder-management-im-change-management-mehr-als-nur-rollen){#toc-stakeholder-management-im-change-management-mehr-als-nur-rollen}
     - [[4.2.1]{.toc-section-number} Die psychologische Rolle der
-      Manager](#die-psychologische-rolle-der-manager){#toc-die-psychologische-rolle-der-manager}
+      Manager\*in](#die-psychologische-rolle-der-managerin){#toc-die-psychologische-rolle-der-managerin}
     - [[4.2.2]{.toc-section-number} Analyse der Stakeholder: Verstehen
       von Motivationen und
       Widerständen](#analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen){#toc-analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen}
@@ -282,11 +282,11 @@ Projekt-Management
   -----------------------------------------------------------------------
 
 Je nach Größe und Set-up eines Projekts kann Change Management ein
-eigener Stream sein in einem Projekt, eine Stabstelle neben dem
-Projektleiter oder in kleinen Projekten eine Aufgabe der Projektleitung.
-Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant werden und es
-neben Zeit, Qualität & Kosten auch entsprechend im Projektalltag wie im
-Reporting & Monitoring berücksichtigt wird.
+eigener Stream sein in einem Projekt, eine Stabstelle neben der
+Projektleitung oder in kleinen Projekten eine Aufgabe der
+Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant
+werden und es neben Zeit, Qualität & Kosten auch entsprechend im
+Projektalltag wie im Reporting & Monitoring berücksichtigt wird.
 
 Entscheidend für den Erfolg jeder Veränderung ist -- einfach gesagt --
 das „Sollen", „Können", „Dürfen" und „Wollen". Dies ist auch das wohl
@@ -302,7 +302,7 @@ das „Sollen", „Können", „Dürfen" und „Wollen". Dies ist auch das wohl
 
 Anbei werden verschiedene Change Management Modelle vorgestellt. Einige
 sind schon älter und haben eine besondere Herkunft. Wir denken jedoch,
-dass es interessant ist von ihnen gehört zu haben.
+dass es interessant ist, von ihnen gehört zu haben.
 
 ### Agiles Change Management und Metatheorie der Veränderung
 
@@ -320,9 +320,9 @@ hingegen visualisiert den Arbeitsfluss und hilft, Engpässe zu
 identifizieren, was die Effizienz steigert und eine kontinuierliche
 Verbesserung fördert. Beide Methoden unterstützen iterative Ansätze, bei
 denen man kontinuierlich lernt und sich anpasst, um die Akzeptanz der
-Veränderungen zu erhöhen und die Mitarbeiter besser einzubinden. Zudem
-können Methoden wie Retrospektiven und unterschiedliche Ansätze aus dem
-Design Thinking auch sehr hilfreich im Change Management sein.
+Veränderungen zu erhöhen und die Mitarbeitenden besser einzubinden.
+Zudem können Methoden wie Retrospektiven und unterschiedliche Ansätze
+aus dem Design Thinking auch sehr hilfreich im Change Management sein.
 
 Es gibt viele weitere aktuelle Strömungen, von Lean Change Management
 bis hin zur Metatheorie der Veränderung von Klaus Eidenschink. Diese
@@ -386,7 +386,7 @@ neue IT-Strategie erfordern.
 
 **Desire (Wunsch):** Engagement und Bereitschaft, sich auf die
 Veränderung einzulassen. Beispiel: Demonstration der Vorteile der neuen
-IT-Strategie für einzelne Mitarbeiter und das Unternehmen insgesamt.
+IT-Strategie für einzelne Mitarbeitende und das Unternehmen insgesamt.
 
 **Knowledge (Wissen):** Verständnis darüber, wie die Veränderung
 umgesetzt wird. Beispiel: Schulungen und Workshops zur neuen Software
@@ -462,16 +462,16 @@ Transformationsprojekts.
 
 **Change Umsetzung** umfasst die Identifikation und das Management der
 mit einer digitalen Transformation verbundenen Veränderungen bei den
-relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills,
-Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert
-einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen,
-kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei
-meist direkt an.
+relevanten Stakeholder\*innen-Gruppen (z.B. in Bezug auf Kompetenzen,
+Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies
+fördert einen Übergang vom aktuellen zum zukünftigen Status-quo.
+Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen
+sich dabei meist direkt an.
 
 **Change Enablement** bietet während des Transformationsprozesses
-umfassende Schulungen und Lernangebote für Experten sowie für die User.
-Zuerst werden üblicherweise das Projektteam und Management geschult,
-später die User.
+umfassende Schulungen und Lernangebote für Expert\*innen sowie für die
+User. Zuerst werden üblicherweise das Projektteam und Management
+geschult, später die User.
 
 **Change Effectiveness** umfasst die Aktivitäten, die zur Messung der
 Effektivität von OCM-Aktivitäten zur Unterstützung der digitalen
@@ -550,19 +550,19 @@ Einbindung und adaptives Vorgehen so wichtig.
 
 ### Rollen im Veränderungsprojekt
 
-#### Projektsponsor / Auftraggeber in Change Projekten
+#### Projektsponsor in / Auftraggeber in in Change Projekten
 
-Der Projektsponsor ist ein besonderer Stakeholder mit speziellem
+Ein e Projektsponsor in ist ein besonderer Stakeholder mit speziellem
 Einfluss auf den Erfolg eines Projekts.
 
-Es gibt verschiedene Möglichkeiten für den Projektsponsor, das Projekt
-effektiv zu unterstützen: dabei trägt der Projektsponsor vor allem die
-Verantwortung für die unternehmerische Zielsetzung, also den Beitrag zum
-Geschäftsergebnis, die das Projektergebnis liefern soll. Insofern
-definiert er die Vision, die Ziele und die Strategie, die das Projekt
-verfolgen soll.
+Es gibt verschiedene Möglichkeiten für eine n Projektsponsor in, das
+Projekt effektiv zu unterstützen: dabei trägt der die Projektsponsor in
+vor allem die Verantwortung für die unternehmerische Zielsetzung, also
+den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll.
+Insofern definiert der-die Projektsponsor in die Vision, die Ziele und
+die Strategie, die das Projekt verfolgen soll.
 
-Zudem ist der Sponsor für den Risikomanagement des Projekts
+Zudem ist derdie Projektsponsor in für das Risikomanagement des Projekts
 verantwortlich.
 
 Ein Risiko bei klassischen Projektmanagement -- Ansätzen ist
@@ -571,20 +571,21 @@ haben kann, aber iterative Anpassungen der Pläne oder nachträgliche
 Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen
 sind.
 
-Der Sponsor zeigt in der Innen- und Außenkommunikation, dass er
-uneingeschränkt hinter diesem Projekt und seinem Projektleiter steht und
-Unterstützung von allen Beteiligten einfordert. Damit legitimiert er das
-Projekt und verleiht seinem Projektleiter die erforderliche Autorität.
+Der-die Projektsponsor in zeigt in der Innen- und Außenkommunikation,
+dass er-sie uneingeschränkt hinter diesem Projekt und dem-der
+Projektleiter in steht und Unterstützung von allen Beteiligten
+einfordert. Damit wird das Projekt legitimiert und dem-der Projektleiter
+in die erforderliche Autorität verliehen.
 
-Ein guter Projektsponsor unterstützt den Projektleiter in kritischen
-Situationen und stärkt ihm den Rücken. Viele Projektleiter sind im Sinne
-eines guten Leaderships häufig sehr dankbar, wenn der Projektsponsor für
-sie auch die Rolle eines Mentors übernimmt.
+Gute Projektsponsor innen unterstützt den Projektleiter in in kritischen
+Situationen und stärkt den Rücken. Viele Projektleiter innen sind im
+Sinne eines guten Leaderships häufig sehr dankbar, wenn derdie
+Projektsponsor in für sie auch die Rolle eines Mentors übernimmt.
 
 Die Überwachung und Steuerung des Projekts auf übergeordneter Ebene ggf.
-zusammen mit dem Projektsteuerkreis/Projektlenkungsausschuss sind
+zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind
 wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen.
-Ein Projektsponsor sollte sich dem Erfolg des Projekts verpflichtet
+Projektsponsor innen sollten sich dem Erfolg des Projekts verpflichtet
 fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind.
 
 #### Projektleitung in Change Projekten
@@ -598,12 +599,12 @@ dieser Organisationseinheit ist primär das
 kleineren Projekten wird die Projektleitung durch den
 [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) gebildet,
 in größeren Projekten steht dieser einer Gruppe von Personen und
-eventuell zusätzlich mehreren Teilprojektleitern vor.
+eventuell zusätzlich mehreren Teilprojektleiter innen vor.
 
 Bei modernen Organisationskonzepten besteht die Projektleitung
-umfangreicher Projekte aus mehreren Projektleitern, die die Entscheidung
-im Konsens bzw. nach vorbestimmten Richtlinien und Regeln treffen.
-Aufgaben sind dabei
+umfangreicher Projekte aus mehreren Projektleiter innen, die die
+Entscheidung im Konsens bzw. nach vorbestimmten Richtlinien und Regeln
+treffen. Aufgaben sind dabei
 
 - Festlegung der Projektziele
 - Planung des Projektes
@@ -613,30 +614,30 @@ Aufgaben sind dabei
   Fachabteilungen koordinieren, Verantwortlichkeiten festlegen)
 - Treffen von Entscheidungen
 - Verwaltung des Budgets (Finanzierung / Liquiditätssicherung, Erfassung
-  aller Mitarbeiterkosten)
+  aller Mitarbeitendenkosten)
 - Durchsetzen der erforderlichen Maßnahmen und Vollzug der Verträge
 - Führen von Verhandlungen
 - Projektergebnisse vorstellen und argumentativ vertreten
-- Abschlussbericht für Auftraggeber
+- Abschlussbericht für Auftraggeber innen
 - Dokumentation des Projektes
 
 #### Projektmitglieder in Change Projekten
 
-Die Begriffe "Projektmitglieder" oder "Projektteilnehmer" können als
-Oberbegriff für die Mitglieder des Projektteams und der
-Projektmitarbeiter verstanden werden. Sie sind in keiner Norm oder
+Die Begriffe "Projektmitglieder innen" oder "Projektteilnehmende" können
+als Oberbegriff für die Mitglieder innen des Projektteams und der
+Projektmitarbeitenden verstanden werden. Sie sind in keiner Norm oder
 Handreichung definiert. Gegenüber dem Ausdruck "Projektbeteiligte" sind
-sie dadurch abzugrenzen, dass die Projektmitglieder oder
-Projektteilnehmer direkt einen Beitrag zum Projektergebnis leisten.
+sie dadurch abzugrenzen, dass die Projektmitglieder innen oder
+Projektteilnehmenden direkt einen Beitrag zum Projektergebnis leisten.
 Personen oder Organisationen, die nur von den Auswirkungen des Projekts
 betroffen sind, aber keine Mitwirkung am Projekt haben, zählen somit
-nicht zu den Projektmitgliedern oder Projektteilnehmern.
+nicht zu den Projektmitglieder innen oder Projektteilnehmenden.
 
-Da die Projektmitglieder die Personen sind, die am meisten mit den
+Da die Projektmitglieder innen die Personen sind, die am meisten mit den
 Stakeholdern / Betroffenen einer Veränderung in Kontakt stehen, sollten
 sie ausreichend Change-Management Kompetenz haben.
 
-#### Change Manager in Change Projekten
+#### Change Manager in in Change Projekten
 
 Aufgaben des Change-Managements sind
 
@@ -655,12 +656,12 @@ In Change Projekten haben Change Agents die Verantwortung für die
 erfolgreiche Umsetzung der Veränderung. Daher sind sie auch für die
 Planung und die Umsetzung konkreter Maßnahmen zur Akzeptanzsteigerung in
 der Belegschaft zuständig. Die Rolle von Change Agents können sowohl
-externe Berater\*innen als auch interne Mitarbeiter\*innen wahrnehmen.
+externe Berater innen als auch interne Mitarbeiter innen wahrnehmen.
 Wichtig ist jedoch, dass die Change Agents neben ihren projektbezogenen
 Kenntnissen und Fähigkeiten
 
-- von allen Mitarbeitenden als Vertrauensperson und lokale\*r
-  Ansprechpartner\*in und somit als Kontaktpunkt zum Projektteam
+- von allen Mitarbeitenden als Vertrauensperson und lokale r
+  Ansprechpartner in und somit als Kontaktpunkt zum Projektteam
   wahrgenommen und respektiert werden.
 - optional eine Historie von Erfolgen im Unternehmen erreicht haben.
 - starke Kommunikations- und Präsentationsfähigkeiten haben.
@@ -668,20 +669,20 @@ Kenntnissen und Fähigkeiten
 - optional das Potential besitzen andere Menschen coachen zu können.
 - sowohl die Bedürfnisse und Ängste der Mitarbeitenden als auch den
   Unternehmenserfolg im Auge behalten.
-- Teamplayer\*innen sind.
+- Teamplayer innen sind.
 - nicht zu sehr verschiedenen Parteien im Unternehmen verpflichtet sind.
 - ein gutes Verständnis der Organisation haben.
 
-Change Agents sind Vertrauenspersonen und Ansprechpartner\*innen: Sie
-sensibilisieren und informieren Kolleg\*innen in Hinblick auf die
+Change Agents sind Vertrauenspersonen und Ansprechpartner innen: Sie
+sensibilisieren und informieren Kolleg innen in Hinblick auf die
 anstehende Veränderung. Das bedeutet zum Beispiel, dass sie auf
 Trainingsangebote hinweisen oder diese selbst organisieren. Sie haben
-ein offenes Ohr für die Bedürfnisse Mitarbeitenden, die sich vielleicht
-eine gewisse Form der Change Begleitung wünschen und nicht mit ihren
-Zweifeln, Wünschen und Hoffnungen alleine bleiben wollen. Dies teilen
-sie den Projekt- & Change Managern mit und sorgen somit auch für den
-beiderseitigen Austausch vom Projekt-team und und betroffenen
-Mitarbeitern wie End-Nutzer.
+ein offenes Ohr für die Bedürfnisse der Mitarbeitenden, die sich
+vielleicht eine gewisse Form der Change Begleitung wünschen und nicht
+mit ihren Zweifeln, Wünschen und Hoffnungen alleine bleiben wollen. Dies
+teilen sie den Projekt- & Change Managern mit und sorgen somit auch für
+den beiderseitigen Austausch vom Projektteam und und betroffenen
+Mitarbeitenden wie End-Usern.
 
 Change Agents sind Vorbilder: Als Vorbilder motivieren Change Agents zur
 Mitwirkung und Teilnahme an Personalentwicklungsgesprächen, an
@@ -693,31 +694,31 @@ Agents aufgebaut ist, desto besser stehen die Chancen auf einen
 reibungslosen Veränderungsprozess. Daher sollte die Rolle der Change
 Agents im Change-Management-Prozess an allen Standorten des Unternehmens
 besetzt werden, evtl. auch pro Fachbereich. Die erfolgreiche Umsetzung
-von Veränderungen hängt nämlich stark mit den Fürsprecher\*innen und
-Treiber\*innen im Unternehmen ab, die für die Umsetzung der
+von Veränderungen hängt nämlich stark mit den Fürsprecher innen und
+Treiber innen im Unternehmen ab, die für die Umsetzung der
 Veränderungsmaßnahmen einstehen. Je besser vorbereitet diese Individuen
 sind, desto besser ist es für den Erfolg des Veränderungsprojekts.
 
-Change Agents sind ein Netzwerk an Veränderungsexpert\*innen: Sie
+Change Agents sind ein Netzwerk an Veränderungsexpert innen: Sie
 organisieren sich im Netzwerk und tauschen sich über Erfolge, Sorgen und
 Best Practices aus. Durch ein gemeinsames Onboarding, Schulungen und
 Workshops gelingt es, dass Change Agents frühzeitig ihre Kräfte bündeln
 und sich einfacher eine einheitliche Kommunikation nach außen etablieren
 lässt. Dabei können Change Agents auf die Nutzung von Methoden wie z.B.
 zielgruppengerechte Kommunikationsmittel und -kanäle sowie geeignete
-Informationsmaterialien zurückgreifen um ihre Kolleg\*innen zu
+Informationsmaterialien zurückgreifen, um ihre Kolleg innen zu
 informieren.
 
-**Abgrenzung: Change Agents vs. Key-User**
+Abgrenzung: Change Agents vs. Key-User
 
-- **Change Agents:** Sie sind die frühen Anwender und Multiplikatoren in
-  ihren Abteilungen, die speziell im Umgang mit Veränderungen geschult
-  sind und das Erlernte an andere weitergeben. Ihre Rolle ist oft
-  freiwillig und intrinsisch motiviert.
-- **Key-User:** Im Gegensatz dazu konzentrieren sich Key-User stärker
-  auf das technische Know-how und die Unterstützung anderer
-  Mitarbeitender, insbesondere im Rahmen von IT-Projekten. Sie sind oft
-  in ihrer Job-Rolle verankert und bieten (First-Level-) Support.
+- Change Agents: Sie sind die frühen Anwender innen und Multiplikator
+  innen in ihren Abteilungen, die speziell im Umgang mit Veränderungen
+  geschult sind und das Erlernte an andere weitergeben. Ihre Rolle ist
+  oft freiwillig und intrinsisch motiviert.
+- Key-User: Im Gegensatz dazu konzentrieren sich Key-User stärker auf
+  das technische Know-how und die Unterstützung anderer Mitarbeitenden,
+  insbesondere im Rahmen von IT-Projekten. Sie sind oft in ihrer
+  Job-Rolle verankert und bieten (First-Level-) Support.
 
 Hinweis: In manchen Unternehmen wird es ggf. anders gehandhabt und eine
 klare Differenzierung ist nicht immer möglich (bzw. nötig). Key-User
@@ -730,14 +731,14 @@ Um Veränderungsinitiativen erfolgreich zu machen, hat Prosci diverse
 Studien durchgeführt und konkrete Maßnahmen für Führungskräfte
 identifiziert, die als Erfolgsfaktor für gelungene Veränderungen gelten:
 
-- Kommunikation mit den direkten Mitarbeitern über die Veränderung
+- Kommunikation mit den direkten Mitarbeitenden über die Veränderung
 - Unterstützung für die Veränderung demonstrieren
-- Mitarbeitern durch den Change helfen, bzw. coachen
-- Verbindung zwischen ihren Mitarbeitern und dem Projektteam
+- Mitarbeitende durch den Change helfen, bzw. coachen
+- Verbindung zwischen ihren Mitarbeitenden und dem Projektteam
   sicherstellen
 - Widerstände erkennen und mindern
 
-Im Englischen werden diese Rollen mit dem Akronym CLARC® beschrieben:
+Im Englischen werden diese Rollen mit dem Akronym CLARC beschrieben:
 
 - Communicator
 - Liaison
@@ -749,48 +750,47 @@ Im Englischen werden diese Rollen mit dem Akronym CLARC® beschrieben:
 
 - [Rollen und Verantwortlichkeiten im Änderungsmanagement \|
   Atlassian](https://www.atlassian.com/de/itsm/change-management/roles-and-responsibilities)
-- [Das Change-Management CLARC-Modell und die Rolle von Führungskräften
-  im Change \|Tiba](https://www.tiba.de/clarc-modell/)
-- [Agile Change Canvas
-  Vorlagen](https://www.business-wissen.de/produkt/8208/agile-change-canvas-vorlagen/)[--](https://www.business-wissen.de/produkt/8208/agile-change-canvas-vorlagen/)
+- [CLARC: Die Rolle von Personalmanagern im Change Management
+  \|](https://www.prosci.com/de/blog/clarc-die-rolle-von-personalmanagern-im-change-management)
 
 ## Stakeholder Management im Change-Management: Mehr als nur Rollen
 
 In IT-Change-Management-Projekten sind Stakeholder nicht nur Rollen, die
 bestimmte Aufgaben erfüllen. Sie sind Menschen mit unterschiedlichen
 Perspektiven, Bedürfnissen, Emotionen, Zielen und Interessen. Sie sind
-außerdem Personen, die Interessen Rechte & Pflichten im Projekt haben
+außerdem Personen, die Interessen, Rechte & Pflichten im Projekt haben
 (Betriebsrat, Politik etc.) oder Personen, die von den Veränderungen im
 Unternehmen betroffen sind.
 
-Dazu gehören Projektmanager, IT-Teams, Einkauf, Fachabteilungen,
-Personalbereich, Geschäftsführer, Endbenutzer und weitere interne
-Stakeholder wie Betriebsräte und auch Datenschutzbeauftragte.
+Dazu gehören Projektmanager\*innen, IT-Teams, Einkauf, Fachabteilungen,
+Personalbereich, Geschäftsführer\*innen, Enduser und weitere interne
+Stakeholder wie Betriebsräte\*innen und auch
+Datenschutzbeauftragt\*innen.
 
 Je nach Projekt können auch externe Stakeholder eine Rolle spielen. Von
-Partnern wie IT-Anbietern oder Implementierungspartnern bis hin zur
-Politik bzw. Gesetzgeber oder Verbände bei großen Veränderungen.
+Partner\*innen wie IT-Anbietern oder Implementierungspartnern bis hin
+zur Politik bzw. Gesetzgeber oder Verbände bei großen Veränderungen.
 
 Jeder dieser Stakeholder bringt eine eigene Sichtweise, seine eigenen
 Erfahrungen und sein eigenes Verständnis des Projekts mit.
 
-### Die psychologische Rolle der Manager
+### Die psychologische Rolle der Manager\*in
 
-Manager spielen eine entscheidende Rolle in
-IT-Change-Management-Projekten. Sie sind nicht nur Entscheidungsträger
-und Ressourcenbereitsteller, sondern auch Führungskräfte, die das Team
-motivieren, koordinieren, inspirieren und moderieren müssen. Sie sind
-auch Vermittler zwischen verschiedenen Stakeholdern und müssen Konflikte
-managen und Konsens herstellen. Wenn sie nicht überzeugt sind oder die
-entsprechenden Änderungen nicht mittragen, hat es die beste Software und
-jede Veränderung schwer. Auch müssen Sie das Sollen mit definieren --
-sprich das Zielbild, Vision, die nötigen Änderungen - sowie den Rahmen
-(Dürfen) ermöglichen (sh. auch 3.1).
+Manager\*innen spielen eine entscheidende Rolle in
+IT-Change-Management-Projekten. Sie sind nicht nur
+Entscheidungsträger\*innen und Ressourcenbereitsteller\*innen, sondern
+auch Führungskräfte, die das Team motivieren, koordinieren, inspirieren
+und moderieren müssen. Sie sind auch Vermittler zwischen verschiedenen
+Stakeholdern und müssen Konflikte managen und Konsens herstellen. Wenn
+sie nicht überzeugt sind oder die entsprechenden Änderungen nicht
+mittragen, hat es die beste Software und jede Veränderung schwer. Auch
+müssen sie das Sollen mit definieren -- sprich das Zielbild, Vision, die
+nötigen Änderungen - sowie den Rahmen (Dürfen) ermöglichen.
 
-Aus Forschung rund um Veränderungskompetenz wissen wir auch, dass es
-nicht nur um Persönlichkeit (wie Offenheit, Adaptivität), individuelle
+Aus Forschung rund um Veränderungskompetenz wissen wir, dass es nicht
+nur um Persönlichkeit (wie Offenheit, Adaptivität), individuelle
 Methodenkompetenz oder Motivation geht, sondern auch um den Rahmen
-(Ressourcen, Ziele, Verantwortung bis hin zu Anweisungen)-- den eben das
+(Ressourcen, Ziele, Verantwortung bis hin zu Anweisungen)-- den das
 Management mit definieren muss.
 
 Denn wenn Mitarbeitende glauben, dass eine Veränderung notwendig,
@@ -799,38 +799,38 @@ die Veränderung freuen und sie als positiv und wünschenswert empfinden
 (positive Emotionen), sind sie eher bereit, die Veränderung zu
 unterstützen und sich dafür einzusetzen.
 
-Um Manager auf diese Aufgaben im Rahmen des Change-Prozesses
+Um Manager\*innen auf diese Aufgaben im Rahmen des Change-Prozesses
 vorzubereiten, sind Trainings sinnvoll: Führungskräfte sollten in den
 Grundlagen des Change-Managements geschult werden, um die
 psychologischen und organisatorischen Aspekte des Wandels zu verstehen
 und effektiv zu managen.
 
-**Wie Manager Überzeugungen und positive Emotionen über Veränderungen
-mitgestalten können**
+**Wie Manager\*innen Überzeugungen und positive Emotionen über
+Veränderungen mitgestalten können**
 
-**Kommunikation**: Manager kommunizieren die Gründe für die Veränderung
-klar und überzeugend, um kognitive Überzeugungen zu stärken. Sie heben
-die Vorteile und positiven Aspekte der Veränderung hervor, um positive
-Emotionen zu fördern. Das beutetet, dass sie die Kommunikation nicht
-komplett delegieren, sondern selbst aktiv sind.
+**Kommunikation**: Manager\*innen kommunizieren die Gründe für die
+Veränderung klar und überzeugend, um kognitive Überzeugungen zu stärken.
+Sie heben die Vorteile und positiven Aspekte der Veränderung hervor, um
+positive Emotionen zu fördern. Das beutetet, dass sie die Kommunikation
+nicht komplett delegieren, sondern selbst aktiv sind.
 
-**Beteiligung**: Manager beziehen die Mitarbeitenden in den
+**Beteiligung**: Manager\*innen beziehen die Mitarbeitenden in den
 Change-Prozess ein, um ihre kognitiven Überzeugungen und positiven
 Emotionen zu stärken. Wenn die Mitarbeitenden das Gefühl haben, dass sie
 einen Beitrag leisten und Einfluss nehmen können, sind sie eher bereit,
 die Veränderung zu unterstützen.
 
-**Unterstützung**: Manager stellen den Mitarbeitenden die notwendige
-Unterstützung und Ressourcen zur Verfügung, um die Veränderung zu
-bewältigen. Dies kann dazu beitragen, ihre kognitiven Überzeugungen und
-positiven Emotionen zu stärken.
+**Unterstützung**: Manager\*innen stellen den Mitarbeitenden die
+notwendige Unterstützung und Ressourcen zur Verfügung, um die
+Veränderung zu bewältigen. Dies kann dazu beitragen, ihre kognitiven
+Überzeugungen und positiven Emotionen zu stärken.
 
-**Vorbildfunktion**: Manager dienen als Vorbilder für Veränderungen und
-fördern durch ihr eigenes Verhalten und ihre eigene Einstellung positive
-Emotionen und kognitive Überzeugungen.
+**Vorbildfunktion**: Manager\*innen dienen als Vorbilder für
+Veränderungen und fördern durch ihr eigenes Verhalten und ihre eigene
+Einstellung positive Emotionen und kognitive Überzeugungen.
 
-**Anerkennung und Belohnung**: Manager anerkennen und belohnen die
-Bemühungen und Erfolge der Mitarbeiter im Zusammenhang mit der
+**Anerkennung und Belohnung**: Manager\*innen anerkennen und belohnen
+die Bemühungen und Erfolge der Mitarbeitenden im Zusammenhang mit der
 Veränderung. Dies trägt dazu bei, die positiven Emotionen und kognitiven
 Überzeugungen der Mitarbeitenden zu stärken.
 
@@ -895,7 +895,7 @@ Maßnahmen**
 
 Auf der Grundlage der Stakeholder-Analyse und der Kraftfeldanalyse
 können Interventionen entwickelt werden, um das Projekt voranzutreiben
-und Widerstände zu verstehen und mindern bzw. positiv zu nutzen. Diese
+und Widerstände zu verstehen, zu mindern bzw. positiv zu nutzen. Diese
 Interventionen können eine Reihe von Strategien umfassen, wie zum
 Beispiel zur Kommunikation, Weiterbildung, Teambuilding, Einbindung oder
 weitere Veränderungsmanagement-Initiativen.
@@ -908,7 +908,7 @@ Entscheidungen eingebunden werden.
 Die Interventionen sollten darauf abzielen, die treibenden Kräfte zu
 stärken und die hemmenden Kräfte zu mindern oder zu nutzen, zum Beispiel
 zum Verständnis der Ängste und Widerstände. Vor allem sollte immer
-wieder auf die Stakeholder geschaut werden.
+wieder auf die Stakeholder geachtet werden.
 
 Je nach Projektphase werden andere Stakeholder wichtig. Besonders bei
 Reorganisationen oder Jobwechsel von Führungskräften muss immer wieder
@@ -962,13 +962,13 @@ Es gibt vielfältige Formen von Widerständen, die es zu erkennen gilt:
 **Tipps für die Umsetzung:**
 
 - Gründliche Stakeholder-Analyse und kontinuierliches
-  Stakeholdermanagement incl. Blick auf das System, nicht nur auf die
+  Stakeholdermanagement inkl. Blick auf das System, nicht nur auf die
   Individuen
 - Stärken der Leadership-Rolle und des Involvements der Stakeholder
 - Offene Haltung gegenüber Widerständen - Gründe ernsthaft ergründen
 - Ausreichend Raum für Übergangs- und Reflexionsphasen einplanen
-- Individuelle Begleitung von Schlüsselpersonen die Wissensträger sind
-  und hohen Einfluss haben
+- Individuelle Begleitung von Schlüsselpersonen die Wissensträger\*innen
+  sind und hohen Einfluss haben
 - Strukturgebende Maßnahmen wie Rituale und Meetings zur Orientierung
 - Rollen so gestalten, dass sie sich mit den Bedürfnissen und
   Erwartungen der Organisation decken, ohne das Individuum emotional zu
@@ -997,10 +997,9 @@ Es gibt vielfältige Formen von Widerständen, die es zu erkennen gilt:
 
 ### Why - Warum ist Kommunikation wichtig im Change-Management?
 
-Kommunikationsmaßnahmen für verschiedene Stakeholder Gruppen (siehe auch
-Kapitel 3.3) bezwecken, dass die Mitarbeitenden die Veränderungen
-verstehen, akzeptieren, konstruktiv und im besten Fall motiviert daran
-teilhaben können.
+Kommunikationsmaßnahmen für verschiedene Stakeholder Gruppen bezwecken,
+dass die Mitarbeitenden die Veränderungen verstehen, akzeptieren,
+konstruktiv und im besten Fall motiviert daran teilhaben können.
 
 Kommunikation ist also weit mehr als Information: Change Kommunikation
 zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die
@@ -1028,8 +1027,8 @@ digitalen Innovation". Dies ist auch zentral für die Kommunikation.
 
 Zielsetzungen sind konkrete, messbare Schritte zur Erreichung der
 Vision, wie "Einführung einer neuen Software bis Quartal 4". Sie sind
-entscheidend, um den Fortschritt zu messen und die Mitarbeiter auf dem
-Weg zur Veränderung zu führen. Ohne klare Vision und Ziele kann der
+entscheidend, um den Fortschritt zu messen und die Mitarbeitenden auf
+dem Weg zur Veränderung zu führen. Ohne klare Vision und Ziele kann der
 Veränderungsprozess unkoordiniert und ineffektiv werden.
 
 Gerade zu Beginn kann das noch allgemein gehalten sein. Wichtig ist,
@@ -1038,8 +1037,8 @@ Es hilft auch der Link zur allgemeinen Strategie der Firma dabei, sowie
 ein motivierendes, emotional ansprechendes Motto. Beispielsweise ist die
 Strategie von Hugo Boss die führende digitale Modeplattform im
 Premium-Bereich zu sein. Das Motto der SAP S/4HANA Einführung ist dafür
-sprechend"ItS4HugoBoss". Optimal ist eine Change Story den Bezug zum
-Erleben in der Gegenwart und der erwünschten Zukunft darstellt.
+sprechend"ItS4HugoBoss". Optimal ist eine Change Story, die den Bezug
+zum Erleben in der Gegenwart und der erwünschten Zukunft darstellt.
 
 ### What -- Kommunikationsplan
 
@@ -1107,7 +1106,7 @@ Impulse für den Kommunikationsplan.
 
 Abhängig von der Größe des Veränderungsprojekts ist es möglicherweise
 nicht machbar, alle Beteiligten zu befragen oder in den Workshop
-einzubeziehen. Daher ist es entscheidend, dass die Teilnehmer die
+einzubeziehen. Daher ist es entscheidend, dass die Teilnehmenden die
 Vielfalt der Stakeholder bestmöglich repräsentieren.
 
 Kommunikationspläne können auch je nach Change-Management-Modell,
@@ -1119,7 +1118,7 @@ Mitarbeitenden während des Wandels unterstützt werden.
 
 Das Ziel bleibt, die Akzeptanz, das Verständnis und Wünsche (Desire) für
 die Veränderungen zu fördern bzw. die verschiedenen Ebenen abzubilden.
-Schön zeigt dies auch das ADKAR Modell (s. Kapitel 3.1.2) wo u.a.
+Schön zeigt dies auch das ADKAR Modell (s. Kapitel 1.1.) wo u.a.
 zwischen Awareness, Desire, Wissen und Fertigkeit unterschieden wird.
 Hier gilt es pro Ebene unterschiedlich zu kommunizieren.
 
@@ -1127,13 +1126,13 @@ Konkret kann ein Kommunikationsplan entlang folgender Schritte erstellt
 werden:
 
 - Definiere die Ziele der Kommunikation.
-- Bestimme, wer die Hauptzielgruppen sind -- IT-Teams, Abteilungsleiter,
-  Endnutzer usw. Jede Gruppe hat unterschiedliche
-  Informationsbedürfnisse.
+- Bestimme, wer die Hauptzielgruppen sind -- IT-Teams,
+  Abteilungsleiter\*innen, Endnuser usw. Jede Gruppe hat
+  unterschiedliche Informationsbedürfnisse.
 - Entscheide, welche Kommunikationsmittel am effektivsten sind: E-Mails,
   Meetings, Newsletter, Intranet, Chats, Präsentationen, Workshops,
   Videomeetings usw. Nutze mehrere Kanäle für verschiedene Botschaften
-  (mehr dazu in Kapitel Kommunikationsformate und -materialien).
+  (mehr dazu in Abschnitt Kommunikationsformate und -materialien).
 - Erstelle eine Liste mit den Informationen, die kommuniziert werden
   müssen. Das kann den Projektfortschritt, Meilensteine, Zeitpläne,
   Risiken und Änderungen beinhalten.
@@ -1161,19 +1160,19 @@ Es empfiehlt sich, verschiedene Kommunikationsformate zu nutzen.
 
 **Synchrone & asynchrone Formate**
 
-Kommunikation kann synchron (alle Kommunikationspartner kommunizieren
-zur selben Zeit miteinander) und asynchron (die Kommunikation findet
-zeitversetzt statt) stattfinden. Beide Kommunikationsformen haben Vor-
-und Nachteile. Im Kommunikationsplan wird entsprechend der Zielsetzung
-und der Zielgruppe der jeweils passende Kommunikationskanal und das
-passende Format festgelegt.
+Kommunikation kann synchron (alle Kommunikationspartner\*innen
+kommunizieren zur selben Zeit miteinander) und asynchron (die
+Kommunikation findet zeitversetzt statt) stattfinden. Beide
+Kommunikationsformen haben Vor- und Nachteile. Im Kommunikationsplan
+wird entsprechend der Zielsetzung und der Zielgruppe der jeweils
+passende Kommunikationskanal und das passende Format festgelegt.
 
 **Beispiele für synchrone Formate**
 
 - Town-Hall-Meetings oder All-Hands-Meetings: Diese Meetings ermöglichen
-  es Führungskräften, die Vision und Ziele des Wandels zu kommunizieren,
-  Fragen zu beantworten und im direkten Kontakt mit den Mitarbeitenden,
-  Fragen zu beantworten. Das kann auch virtuell stattfinden.
+  es Führungskräften, die Vision und Ziele des Wandels zu kommunizieren
+  und im direkten Kontakt mit den Mitarbeitenden, Fragen zu beantworten.
+  Das kann auch virtuell stattfinden.
 - Change-Workshops oder Schulungen: Durch interaktive Workshops oder
   Schulungen können Mitarbeitende in den Change Prozess eingebunden
   werden. Sie erhalten die Möglichkeit, das Verständnis für den Wandel
@@ -1182,8 +1181,8 @@ passende Format festgelegt.
   Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen
   zu beantworten und direktes Feedback von den Mitarbeitenden zu
   erhalten.
-- Einbeziehung von Teamleitern und direkten Vorgesetzten: Die
-  Einbeziehung von Teamleitern und direkten Vorgesetzten ist
+- Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten: Die
+  Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten ist
   entscheidend, da sie oft die wichtigsten Ansprechpartner für
   Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft
   des Wandels unterstützen und ihre Teams effektiv informieren können
@@ -1247,18 +1246,17 @@ Beim Erzählen von Geschichten in Change-Projekten ist es wichtig, auf
 einige Schlüsselfaktoren zu achten:
 
 - Relevanz und Authentizität
-- Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig ist und
+- Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig und
   welche Vorteile bringt er.
-- Einbeziehung der Zuhörer incl. der Ermutigung, sich in die Geschichte
-  hineinzuversetzen oder sich mit Charakteren zu identifizieren.
+- Einbeziehung der Zuhörenden inkl. der Ermutigung, sich in die
+  Geschichte hineinzuversetzen oder sich mit Charakteren zu
+  identifizieren.
 - Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung
-  erzeugt und die Aufmerksamkeit der Zuhörer aufrechterhält, ist
+  erzeugt und die Aufmerksamkeit der Zuhörenden aufrechterhält, ist
   wirkungsvoller.
 
 Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und
-Unterstützung für den Wandel wesentlich verbessern. Wichtig ist dabei
-auch das sog. Storylistening. Sprich durch Zuhören das aktive Erleben
-bzgl. Gegenwart und Zukunft zu verstehen um daraus.
+Unterstützung für den Wandel wesentlich verbessern.
 
 ### Tipps und Best Practices für die Kommunikation in Projekten
 
@@ -1269,19 +1267,20 @@ bzgl. Gegenwart und Zukunft zu verstehen um daraus.
   angesprochen.\
 - Einbeziehung von Meinungen und Feedback: Das ist ein zentrales Element
   -- ob in Diskussionsforen oder offenen Sprechstunden.
-- Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeiter und
+- Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeitende und
   verschiedene Abteilungen haben unterschiedliche Perspektiven und
   Bedürfnisse.
 - Messbare Ziele und Fortschritt anzeigen: Visualisieren von Erfolgen
-  und Meilensteine, um das Engagement und die Motivation
+  und Meilensteinen, um das Engagement und die Motivation
   aufrechtzuerhalten.
 - Verschiedene Perspektiven herausarbeiten (auch für Endnutzer\*innen):
   IT-Lösungen werden oft vom Management eingekauft. Der Mehrwert und die
   Änderungen für Mitarbeitende und Nutzer\*innen ist oft nicht klar -
-  dies gilt es, z.B. anhand Personas, herauszuarbeiten. In sogenannten
-  Change Impact Messungen kann dann eingeschätzt werden, wie stark die
+  dies gilt es z.B. anhand Personas herauszuarbeiten. In sogenannten
+  Change Impact Analysen kann dann eingeschätzt werden, wie stark die
   Änderungen für die jeweilige Persona oder Rolle sind. Gerade bei hohem
-  Change Impact ist es wichtig ausreichend bzw. mehr zu kommunizieren.
+  Change Impact ist es wichtig ausreichend bzw. mehrmals zu
+  kommunizieren.
 - Timing: Zu früh zu viel zu kommunizieren weckt evtl. Erwartungen, die
   noch nicht bedient werden können. Zu spät oder zu wenig zu
   kommunizieren ist u.U. ebenso suboptimal. Daher ist es wichtig, den
@@ -1289,7 +1288,7 @@ bzgl. Gegenwart und Zukunft zu verstehen um daraus.
   transparent zu sein. Das bedeutet, klar zu kommunizieren, welche
   Schritte noch unklar sind und wie das Fortschreiten kommuniziert
   wird.\*\*
-- Nutzen von Multiplikatoren und bestehenden Kanälen: Eigene Change
+- Nutzen von Multiplikator\*innen und bestehenden Kanälen: Eigene Change
   Netzwerke oder bestehende Netzwerke wie Assistent\*innen, Azubis,
   Führungskräfte-Meetings können zur Kommunikation genutzt werden.
 
@@ -1309,16 +1308,16 @@ von Veränderungen. Denn natürlich müssen die Betroffenen neue Prozesse,
 Aufgaben und letztendlich Software und IT verstehen und anwenden können.
 
 Üblicherweise wird im Trainingsbereich zwischen verschiedenen
-Zielgruppen bzw. Personas unterschieden. Das sind gewöhnlich Experten,
-die ein IT-System einführen und als erste mehr Details benötigen. Nutzer
-bedienen die Systeme oder Software, Manager und andere Stakeholder
-benötigen eher Überblickswissen bzgl. der Ziele, Vorteile oder des
-Impacts.
+Zielgruppen bzw. Personas unterschieden. Das sind gewöhnlich
+Expert\*innen, die ein IT-System einführen und als erste mehr Details
+benötigen. Nutzer\*innen bedienen die Systeme oder Software,
+Manager\*innen und andere Stakeholdergruppen benötigen eher
+Überblickswissen bzgl. der Ziele, Vorteile oder des Impacts.
 
 Im Sinne der erfolgreichen Kompetenzentwicklung gilt es, allen vom
 Wandel Betroffenen Lernressourcen und Räume zur Verfügung zu stellen --
-also nicht nur von Training zu sprechen im Sinne des Trainer-Schüler
-Narrativs.
+also nicht nur von Training zu sprechen im Sinne des
+Trainer\*innen-Schüler\*innen Narrativs.
 
 ### Durchführung von Trainingsprojekten
 
@@ -1358,7 +1357,7 @@ Schulungen, externe Schulungsanbieter oder Online-Lernplattformen
 erfolgen.
 
 **Evaluation**: Nach Abschluss der Schulungsmaßnahmen wird ihre
-Effektivität bewertet. Das kann durch Tests, Feedback der Teilnehmer
+Effektivität bewertet. Das kann durch Tests, Feedback der Teilnehmenden
 oder Leistungsbeobachtungen erfolgen. Die Ergebnisse der Evaluation
 fließen in die zukünftige Planung von Schulungsmaßnahmen ein. Kennzahlen
 wie geschätzter Transfer in den Arbeitsalltag, Lernstunden,
@@ -1370,26 +1369,26 @@ zu finden.
 
 Tipps:
 
-- Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender und
-  Experten, sondern an alle Stakeholder, wie z.B. Manager. Denn Lernen
-  und Training sind ein starkes Element der Einbindung und Motivation.
+- Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender\*innen und
+  Experten\*innen, sondern an alle Stakeholder, wie z.B. Manager\*innen.
+  Denn Lernen und Training sind ein starkes Element der Einbindung und
+  Motivation.
 - Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte Performance
-  -- nicht auf Top-Talents oder extreme Experten -- das ist meist zu
-  viel und komplex.\
+  -- nicht auf Top-Talents oder extreme Expert\*innen -- das ist meist
+  zu viel und komplex.\
 - Ob bei Design oder Evaluation: achtet auf den Transfer in den
   Arbeitsalltag.
 
 ### Formate & Konzept incl. Train the Trainer Ansatz (TTT)
 
-Klassisch sind hier sicher Workshops & Trainings in Präsenz oder
-virtuell. Inzwischen hat sich ein Methoden Mix durchgesetzt -- auch
-Blended Learning genannt. Hier wechseln sich Lernphasen des
-individuellen selbstgesteuerten Lernens -- wie z.B. E-Learning oder
-Videos -- mit Trainer-geführtem Lernen in Gruppen incl. Fragen &
-Anleitungen sowie Austausch & Reflexion ab. Kurze Einstufungstests zu
-Beginn helfen zur Personalisierung des Lernens. Während des Lernens und
-am Ende dienen Tests und Fragen der Reflektion und Festigung des
-Lernens.
+Klassische Formate sind sicher Workshops & Trainings in Präsenz oder
+virtuell. Inzwischen hat sich ein Methoden Mix etabliert -- auch Blended
+Learning genannt. Hier wechseln sich Lernphasen des individuellen
+selbstgesteuerten Lernens -- wie z.B. E-Learning oder Videos -- mit
+Trainer\*innen-geführtem Lernen in Gruppen incl. Fragen & Anleitungen
+sowie Austausch & Reflexion ab. Kurze Einstufungstests zu Beginn helfen
+zur Personalisierung des Lernens. Während des Lernens und am Ende dienen
+Tests und Fragen der Reflektion und Festigung des Lernens.
 
 Neben formellen Angeboten wie E-Learning macht im Change vor allem
 erfahrungsbasiertes, experimentelles Lernen Sinn -- zum Beispiel
@@ -1414,11 +1413,11 @@ benötigt es vor allem eine gute Suche und kuratierte Lernportale (oft
 wird Sharepoint benutzt).
 
 Ein Klassiker im IT-Kontext sind Train the Trainer Ansätze (TTT). Oft
-sind Experten aus Beratungen, vom Hersteller oder der Inhouse-IT die
-sog. Head-Trainer, welche die Multiplikatoren ausbilden. Diese sind oft
-die Keyuser, die später auch die IT-Lösungen supporten. Dieses
-Multiplikatoren-System vereinfacht die Skalierung der Vermittlung der
-Lerninhalte und des Transfers.
+sind Expert\*innen aus Beratungen, vom Hersteller oder der Inhouse-IT
+die sog. Head-Trainer\*innen, welche die Multiplikator\*innen ausbilden.
+Diese sind oft die Keyuser\*innen, die später auch die IT-Lösungen
+supporten. Dieses Multiplikatoren-System vereinfacht die Skalierung der
+Vermittlung der Lerninhalte und des Transfers.
 
 Unabhängig vom Format ist es wichtig, sicher zu stellen, dass die
 jeweiligen Zielgruppen zum richtigen Zeitpunkt das benötigte Wissen und
@@ -1485,11 +1484,11 @@ kognitives formelles Lernen wichtig ist.
    ](https://joint-research-centre.ec.europa.eu/digcomp_en)sowie die
   europäische Skill & Job Datenbank [ESCO](https://esco.ec.europa.eu/)
   als Anker interessant.
-- [Learning Design
-  Canvas](https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a)
-- How modern learners learn -- learn more about the 4 D´s outlined by
-  Jane Hart:
-  <https://www.modernworkplacelearning.com/cild/mwl/5features-of-ow-modern-professionals-learn/>
+- [Learning Design Canvas vom internen SAP Learning
+  Team](https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a)
+- [Generative Künstliche Intelligenz im Corporate Learning: Use Cases,
+  Beispiele und Tips (Artikel von T.
+  Jenewein)](https://community.sap.com/t5/sap-training-and-change-management/generative-k%C3%BCnstliche-intelligenz-im-corporate-learning-use-cases-beispiele/ba-p/13767754)/\>
 
 ## Communities im Change-Management
 
@@ -1509,23 +1508,24 @@ in die eigene Selbstwirksamkeit gestärkt und die Motivation zur Nutzung
 der neuen Technologien / Systeme erhöht wird.
 
 Sie fördern damit einen aktiven Wissensaustausch und führen so zu einem
-größeren Engagement der Beteiligten. Die Mitglieder lernen voneinander,
-experimentieren mit Anwendungsfällen zur Nutzung der neuen Technologien
-/ Systeme und generieren eigene Ideen zur Weiterentwicklung dieser
-Themen.
+größeren Engagement der Beteiligten. Die Mitglieder\*innen lernen
+voneinander, experimentieren mit Anwendungsfällen zur Nutzung der neuen
+Technologien / Systeme und generieren eigene Ideen zur Weiterentwicklung
+dieser Themen.
 
 ### Besonderheiten von Change Communities im Vergleich zu anderen internen Communities
 
 - **Einbindung in Veränderungsinitiativen:** Change Communities sind
   tief in die Planung, Umsetzung und Evaluierung von Change-Projekten
-  involviert. Sie arbeiten eng mit Change-Sponsoren und anderen
+  involviert. Sie arbeiten eng mit Change-Sponsor\*innen und anderen
   Stakeholdern zusammen, um die praktischen Aspekte der Veränderung
   erfolgreich zu gestalten.
 - **Organisationsstruktur und Rollen:** Im Gegensatz zu allgemeinen
   internen Communities verfügen Change Communities über klar definierte
-  Rollen und Verantwortlichkeiten. Die aktiven Mitglieder sind oft
-  intrinsisch motivierte Individuen, die als Change Agents fungieren und
-  als Ansprechpartner und Mentoren für andere Mitarbeitende dienen.
+  Rollen und Verantwortlichkeiten. Die aktiven Mitglieder\*innen sind
+  oft intrinsisch motivierte Individuen, die als Change Agents fungieren
+  und als Ansprechpartner\*innen und Mentor\*innen für andere
+  Mitarbeitende dienen.
 - **Fokus auf Veränderungsinhalte:** Change Communities sind darauf
   ausgerichtet, Wissen und Erfahrungen in Bezug auf bestehende
   Veränderungsinitiativen, Organisationsentwicklung und
@@ -1536,12 +1536,13 @@ Themen.
   zurück und gewährleistet durch den Roll-in & Rollout bessere
   Transparenz für Betroffene, Change Programm & Management.
 - **Fokus auf Kompetenzentwicklung:** Change Communities sind darauf
-  ausgelegt, die Veränderungskompetenz ihrer Mitglieder zu entwickeln zu
-  verbessern und an andere Mitarbeitende der Organisation weiterzugeben.
-  Dazu sammelt die Change-Community bewährte Praktiken und organisiert
-  den Austausch von Erfahrungen, Weiterbildung, Peer-Learning und
-  praktische Übungen, um sicherzustellen, dass die Community Mitglieder
-  in der Lage sind, effektiv auf Veränderungen zu reagieren.
+  ausgelegt, die Veränderungskompetenz ihrer Mitglieder\*innen zu
+  entwickeln zu verbessern und an andere Mitarbeitende der Organisation
+  weiterzugeben. Dazu sammelt die Change-Community bewährte Praktiken
+  und organisiert den Austausch von Erfahrungen, Weiterbildung,
+  Peer-Learning und praktische Übungen, um sicherzustellen, dass die
+  Community Mitglieder\*innen in der Lage sind, effektiv auf
+  Veränderungen zu reagieren.
 
 ### Formate von (Change) Communities
 
@@ -1568,23 +1569,24 @@ Damit Change Communities effektiv sind, benötigen sie bestimmte
 Strukturen und Mechanismen:
 
 - Regelmäßige Interaktion: Regelmäßige Treffen und Diskussionen fördern
-  das Vertrauen und die Bindung der Mitglieder.
+  das Vertrauen und die Bindung der Mitglieder\*innen.
 - Klare Zielsetzungen und Vision: Eine klare Vision und spezifische
   Ziele leiten die Aktivitäten der Community und halten sie auf Kurs.
 - Verantwortlichkeiten und Rollenverteilung: Klare Rollen, wie Community
-  Manager oder Moderatoren, helfen, das Engagement zu fördern.
+  Manager\*innen oder Moderator\*innen, helfen, das Engagement zu
+  fördern.
 - Wissensmanagement und Dokumentation: Effektive Communities
   dokumentieren relevante Informationen und machen sie für die
-  Mitglieder zugänglich.
+  Mitglieder\*innen zugänglich.
 - Feedback- und Anpassungsmechanismen: Regelmäßige Feedback-Schleifen
   ermöglichen es, Prozesse zu überprüfen und anzupassen.
 - Peer Learning und Mentoring: Fördert den Austausch von Wissen und
-  Erfahrungen zwischen den Mitgliedern.
+  Erfahrungen zwischen den Mitglieder\*innen.
 - Technische Infrastruktur: Die richtige technische Plattform ist
   entscheidend und sollte Tools für Kommunikation, Kollaboration und
   Wissensaustausch bieten.
 - Engagement-Strategien: Spezielle Aktivitäten und Anreize erhöhen das
-  Engagement der Mitglieder und den Mehrwert der Community.
+  Engagement der Mitglieder\*innen und den Mehrwert der Community.
 
 ### Best Practices bei der Implementierung von Change Communities
 
@@ -1599,11 +1601,12 @@ Strukturen und Mechanismen:
 
 **Weiterführende Links**
 
-- [Community Gruppe auf
-  LinkedIn](https://www.linkedin.com/groups/8682361/)[](https://events.sap.com/de/sap-change-training/de/home)[--](https://events.sap.com/de/sap-change-training/de/home)
+- [Community Gruppe auf LinkedIn von SAP zu Change
+  Management](https://www.linkedin.com/groups/8682361/)[](https://events.sap.com/de/sap-change-training/de/home)[--](https://events.sap.com/de/sap-change-training/de/home)
   kommt dazu bei Interesse!
 - [Kaffee](https://events.sap.com/de/sap-change-training/de/home)[-](https://events.sap.com/de/sap-change-training/de/home)[Ecke
-  (AMA)](https://events.sap.com/de/sap-change-training/de/home)[](https://events.sap.com/de/sap-change-training/de/home)\
+  (AMA) zu Change
+  Themen](https://events.sap.com/de/sap-change-training/de/home)[](https://events.sap.com/de/sap-change-training/de/home)\
 - [Blog zu Engagement in
   Communities](https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/)[](https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/)
 - [lernOS Leitfaden für Community
@@ -1669,20 +1672,20 @@ Change Readiness Analyse beinhaltet in der Regel folgende Punkte:
   Umfragen umfassen. Wichtig ist, die allgemeine Bereitschaft und
   Einstellung zur Veränderung zu messen.
 - Sie umfasst typischerweise Sentiments wie:
-  - **Bewusstsein & Awareness**: Verstehen die Mitarbeiter die
+  - **Bewusstsein & Awareness**: Verstehen die Mitarbeitenden die
     Notwendigkeit der Veränderung?
   - **Verständnis**: Haben sie ein klares Bild von den Veränderungen und
     ihrer Rolle dabei?
   - **Akzeptanz**: Wird die Veränderung positiv bewertet und
     unterstützt?
-  - **Fähigkeit**: Fühlen sich die Mitarbeiter in der Lage, die
+  - **Fähigkeit**: Fühlen sich die Mitarbeitenden in der Lage, die
     Veränderung umzusetzen, und verfügen sie über die notwendigen
     Ressourcen?
-  - **Engagement & Commitment**: Sind die Mitarbeiter bereit, aktiv an
-    der Umsetzung mitzuwirken und fühlen sich in ihren Bemühungen
+  - **Engagement & Commitment**: Sind die Mitarbeitenden bereit, aktiv
+    an der Umsetzung mitzuwirken und fühlen sich in ihren Bemühungen
     anerkannt?
-  - **Empowerment**: Haben die Mitarbeiter die nötige Unterstützung und
-    Erlaubnis, um Veränderungen erfolgreich umzusetzen? Sind die
+  - **Empowerment**: Haben die Mitarbeitenden die nötige Unterstützung
+    und Erlaubnis, um Veränderungen erfolgreich umzusetzen? Sind die
     Ressourcen für die Veränderung vorhanden?
 
 Es ist wichtig zu beachten, dass eine Change Readiness-Analyse kein
@@ -1725,7 +1728,7 @@ folgenden Schritte:
   positiven zu maximieren? Welche Ressourcen werden dafür benötigt?
 
 Eine Change Impact Analyse wird am besten in einem Workshop
-durchgeführt, bei dem Experten aus verschiedenen organisatorischen
+durchgeführt, bei dem Expert\*innen aus verschiedenen organisatorischen
 Einheiten und mit unterschiedlichen Hintergründen teilnehmen. Dieser
 kollaborative Ansatz fördert ein gemeinsames Verständnis der
 bevorstehenden Herausforderungen unter den Projektbeteiligten. Nach der
@@ -1741,9 +1744,9 @@ Anforderungen des Unternehmens entspricht (Fit) und wo Anpassungen oder
 der Change Impact Analyse weiter geprüft werden.
 
 Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem Level
-incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer. Toolseitig
-kann dies effektiv durch Prozess-Management Software wie SAP Signavio
-unterstützt werden.
+incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer\*innen.
+Toolseitig kann dies effektiv durch Prozess-Management Software wie SAP
+Signavio unterstützt werden.
 
 ### Sammlung von weiteren Analysen und Good Practices
 
@@ -1781,8 +1784,8 @@ Systemeinführungen folgen gewöhnlich kleine, regelmäßige Updates.
 
 Auch hier bedarf es Kommunikation und Weiterbildung. Wichtig ist, dass
 es weiter Prozesse und Ressourcen gibt, die sich darum kümmern. Zum
-Beispiel um das Updaten der Dokumentation, der Enduser Trainings. Dies
-können Key-User sein oder eine Community aus Change Agents.
+Beispiel um das Updaten der Dokumentation, der Enduser\*innen Trainings.
+Dies können Key-User\*innen sein oder eine Community aus Change Agents.
 
 Im zunehmenden und regelmäßigen Wandel, der meist mit Unsicherheit und
 Stress verbunden ist, ist Resilienz von zunehmender Bedeutung. Eine
@@ -1817,7 +1820,7 @@ Pfadabhängigkeit dazu, dass etablierte Prozesse und Fähigkeiten den
 notwendigen Wandel blockieren.
 
 Forschungsergebnisse zeigen, dass erfolgreiche IT-Transformationen eine
-ganzheitliche Betrachtung von Technologie, Prozessen und Mitarbeitern
+ganzheitliche Betrachtung von Technologie, Prozessen und Mitarbeitenden
 erfordern. So können digitalen Transformationsprojekte an mangelnder
 Berücksichtigung organisatorischer Aspekte scheitern.
 
@@ -1837,8 +1840,8 @@ Cloud-Strategie notwendig sein, um Wettbewerbsvorteile zu sichern.
 Die Rolle der IT in Restrukturierungen sollte differenziert betrachtet
 werden:
 
-- IT als Befähiger des Business
-- IT als Treiber neuer Wertschöpfungspotenziale
+- IT als Befähigerin des Business
+- IT als Treiberin neuer Wertschöpfungspotenziale
 - Zentralisierung vs. Dezentralisierung je nach Funktion (Back-Office
   vs. kundennahe Prozesse)
 
@@ -1930,11 +1933,11 @@ berücksichtigt.
 **Quellen und weitere Informationen**
 
 - lernOS für Organisationen: Kapitel [Veränderung von
-  Organisationen](mailto:https://cogneon.github.io/lernos-for-organizations/de/3-2-Veraenderung-von-Organisation/)
+  Organisationen](https://cogneon.github.io/lernos-for-organizations/de/3-2-Veraenderung-von-Organisation/)
   sowie [Eine Lernende Organisation
-  kultivieren](mailto:https://cogneon.github.io/lernos-for-organizations/de/3-4-Eine-Lernende-Organisation-kultivieren/)
+  kultivieren](https://cogneon.github.io/lernos-for-organizations/de/3-4-Eine-Lernende-Organisation-kultivieren/)
 - [Quelle: e-Book
-  Resttrukturierung](https://www.emergize.org/restrukturierung/)
+  Restrukturierung](https://www.emergize.org/restrukturierung/)
 
 # Lernpfad
 
