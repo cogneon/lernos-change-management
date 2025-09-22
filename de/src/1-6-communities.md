@@ -46,8 +46,8 @@ Damit Change Communities effektiv sind, benötigen sie bestimmte Strukturen und 
 
 **Weiterführende Links**
 
-- [Community Gruppe auf LinkedIn](https://www.linkedin.com/groups/8682361/)[ ](https://events.sap.com/de/sap-change-training/de/home)[–](https://events.sap.com/de/sap-change-training/de/home) kommt dazu bei Interesse!
-- [Kaffee](https://events.sap.com/de/sap-change-training/de/home)[-](https://events.sap.com/de/sap-change-training/de/home)[Ecke (AMA)](https://events.sap.com/de/sap-change-training/de/home)[  ](https://events.sap.com/de/sap-change-training/de/home)  
+- [Community Gruppe auf LinkedIn von SAP zu Change Management](https://www.linkedin.com/groups/8682361/)[ ](https://events.sap.com/de/sap-change-training/de/home)[–](https://events.sap.com/de/sap-change-training/de/home) kommt dazu bei Interesse!
+- [Kaffee](https://events.sap.com/de/sap-change-training/de/home)[-](https://events.sap.com/de/sap-change-training/de/home)[Ecke (AMA) zu Change Themen](https://events.sap.com/de/sap-change-training/de/home)[  ](https://events.sap.com/de/sap-change-training/de/home)  
 - [Blog zu Engagement in Communities](https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/)[ ](https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/)
 - [lernOS Leitfaden für Community Management](https://cogneon.github.io/lernos-cmgmt/de/)
 - [Website zu Communities](https://www.communitymanagement.de/community-canvas/) (Tanja Laub)
