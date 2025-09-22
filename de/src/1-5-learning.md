@@ -77,5 +77,5 @@ Wie immer macht es der Mix – das Modell zeigt auf, dass nicht nur kognitives f
 
 - [Austausch zu Lernen im Unternehmen: Corporate Learning Community ](https://colearn.de/)
 - Für allgemeine Kompetenz-Bewertungen sind z.B. das digitale Rahmenmodell der EU [DigiComp  ](https://joint-research-centre.ec.europa.eu/digcomp_en)sowie die europäische Skill & Job Datenbank [ESCO](https://esco.ec.europa.eu/) als Anker interessant.
-- [Learning Design Canvas](https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a)
-- How modern learners learn – learn more about the 4 D´s outlined by Jane Hart: <https://www.modernworkplacelearning.com/cild/mwl/5features-of-ow-modern-professionals-learn/>
+- [Learning Design Canvas vom internen SAP Learning Team](https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a)
+- Generative Künstliche Intelligenz im Corporate Learning: Use Cases, Beispiele und Tips (Artikel von T. Jenewein): <[https://www.modernworkplacelearning.com/cild/mwl/5features-of-ow-modern-professionals-learn](https://community.sap.com/t5/sap-training-and-change-management/generative-k%C3%BCnstliche-intelligenz-im-corporate-learning-use-cases-beispiele/ba-p/13767754)/>
