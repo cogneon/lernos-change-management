@@ -12,7 +12,7 @@ lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhun
 
 lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+![](./images/CC-BY.png)
 
 ## WHY - Warum braucht es lernOS?
 

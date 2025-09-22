@@ -59,9 +59,7 @@ Nach Mosher & Gottfiedson, [weitere Infos hier](https://www.5momentsofneed.de/5-
 1. Probleme bei der Anwendung lösen
 1. Auf Veränderungen reagieren können
 
-Zu Beginn macht eher formelles Lernen Sinn wie unter Formaten & Konzept beschrieben, danach immer mehr informelles Lernen in kleinen Einheiten, nah am Arbeitsprozess. 
-
-![](Aspose.Words.aa81e342-f40c-45a5-9b3f-e922ae6b33ac.001.png)
+Zu Beginn macht eher formelles Lernen Sinn wie unter Formaten & Konzept beschrieben, danach immer mehr informelles Lernen in kleinen Einheiten, nah am Arbeitsprozess.
 
 **70:20:10 Modell**
 

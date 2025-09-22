@@ -54,8 +54,6 @@ Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem Level incl. Au
 
 Anbei eine weitere Sammlung verschiedener Analysen aus einer Community Session.
 
-![](Aspose.Words.aa81e342-f40c-45a5-9b3f-e922ae6b33ac.002.jpeg)
-
 Retrospektiven finden regelmäßig während des Projekts statt und geben Teams die Möglichkeit, ihre Arbeitsweise zu reflektieren und Verbesserungen zu identifizieren. Sie fördern eine offene Kommunikation und kontinuierliche Verbesserung. Man kann Sie zum Beispiel nach wichtigen Phasen bzw. Meilensteinen durchführen. Feedbackschleifen sorgen dafür, dass Informationen und Erkenntnisse aus der Arbeit direkt in den Prozess zurückfließen.  
 
 Evaluationen hingegen sind umfassendere Überprüfungen am Ende eines Projekts (summativ) oder während einer Projektphase. Sie messen den Erfolg und ziehen Lehren für zukünftige Projekte. 

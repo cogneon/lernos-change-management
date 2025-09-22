@@ -1,0 +1,2765 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Thomas Jenewein et. al." />
+  <title>lernOS Change Management Leitfaden</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">lernOS Change Management Leitfaden</h1>
+<p class="subtitle">Veränderungen in Organisationen gestalten</p>
+<p class="author">Thomas Jenewein et. al.</p>
+<p class="date">Version 0.1 (05.04.2025)</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#willkommen" id="toc-willkommen"><span
+class="toc-section-number">1</span> Willkommen</a></li>
+<li><a href="#die-zielgruppe-des-leitfadens"
+id="toc-die-zielgruppe-des-leitfadens"><span
+class="toc-section-number">2</span> Die Zielgruppe des
+Leitfadens</a></li>
+<li><a href="#über-lernos" id="toc-über-lernos"><span
+class="toc-section-number">3</span> Über lernOS</a>
+<ul>
+<li><a href="#why---warum-braucht-es-lernos"
+id="toc-why---warum-braucht-es-lernos"><span
+class="toc-section-number">3.1</span> WHY - Warum braucht es
+lernOS?</a></li>
+<li><a href="#what---was-ist-lernos"
+id="toc-what---was-ist-lernos"><span
+class="toc-section-number">3.2</span> WHAT - Was ist lernOS?</a></li>
+<li><a href="#how---wie-kann-ich-anfangen"
+id="toc-how---wie-kann-ich-anfangen"><span
+class="toc-section-number">3.3</span> HOW - Wie kann ich
+anfangen?</a></li>
+</ul></li>
+<li><a href="#grundlagen" id="toc-grundlagen"><span
+class="toc-section-number">4</span> Grundlagen</a>
+<ul>
+<li><a href="#einführung-in-change-management"
+id="toc-einführung-in-change-management"><span
+class="toc-section-number">4.1</span> Einführung in
+Change-Management</a>
+<ul>
+<li><a href="#agiles-change-management-und-metatheorie-der-veränderung"
+id="toc-agiles-change-management-und-metatheorie-der-veränderung"><span
+class="toc-section-number">4.1.1</span> Agiles Change Management und
+Metatheorie der Veränderung</a></li>
+<li><a href="#john-p.-kotter-leading-change"
+id="toc-john-p.-kotter-leading-change"><span
+class="toc-section-number">4.1.2</span> John P. Kotter – Leading
+Change</a></li>
+<li><a href="#adkar-von-proscii" id="toc-adkar-von-proscii"><span
+class="toc-section-number">4.1.3</span> ADKAR von Proscii</a></li>
+<li><a href="#die-veränderungskurve"
+id="toc-die-veränderungskurve"><span
+class="toc-section-number">4.1.4</span> Die Veränderungskurve</a></li>
+<li><a href="#das-sap-ocm-framework"
+id="toc-das-sap-ocm-framework"><span
+class="toc-section-number">4.1.5</span> Das SAP OCM Framework</a></li>
+<li><a href="#terminologie-von-change-in-it-projekten"
+id="toc-terminologie-von-change-in-it-projekten"><span
+class="toc-section-number">4.1.6</span> Terminologie von Change in
+IT-Projekten</a></li>
+<li><a
+href="#fazit-zu-methoden-und-vorgehensweisen-im-change-management"
+id="toc-fazit-zu-methoden-und-vorgehensweisen-im-change-management"><span
+class="toc-section-number">4.1.7</span> Fazit zu Methoden und
+Vorgehensweisen im Change-Management</a></li>
+<li><a href="#quellen-und-weitere-informationen"
+id="toc-quellen-und-weitere-informationen"><span
+class="toc-section-number">4.1.8</span> Quellen und weitere
+Informationen</a></li>
+<li><a href="#rollen-im-veränderungsprojekt"
+id="toc-rollen-im-veränderungsprojekt"><span
+class="toc-section-number">4.1.9</span> Rollen im
+Veränderungsprojekt</a></li>
+<li><a href="#quellen-und-weitere-informationen-1"
+id="toc-quellen-und-weitere-informationen-1"><span
+class="toc-section-number">4.1.10</span> Quellen und weitere
+Informationen</a></li>
+</ul></li>
+<li><a
+href="#stakeholder-management-im-change-management-mehr-als-nur-rollen"
+id="toc-stakeholder-management-im-change-management-mehr-als-nur-rollen"><span
+class="toc-section-number">4.2</span> Stakeholder Management im
+Change-Management: Mehr als nur Rollen</a>
+<ul>
+<li><a href="#die-psychologische-rolle-der-managerin"
+id="toc-die-psychologische-rolle-der-managerin"><span
+class="toc-section-number">4.2.1</span> Die psychologische Rolle der
+Manager*in</a></li>
+<li><a
+href="#analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen"
+id="toc-analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen"><span
+class="toc-section-number">4.2.2</span> Analyse der Stakeholder:
+Verstehen von Motivationen und Widerständen</a></li>
+</ul></li>
+<li><a href="#kommunikation-im-change-management"
+id="toc-kommunikation-im-change-management"><span
+class="toc-section-number">4.3</span> Kommunikation im
+Change-Management</a>
+<ul>
+<li><a
+href="#why---warum-ist-kommunikation-wichtig-im-change-management"
+id="toc-why---warum-ist-kommunikation-wichtig-im-change-management"><span
+class="toc-section-number">4.3.1</span> Why - Warum ist Kommunikation
+wichtig im Change-Management?</a></li>
+<li><a href="#what-kommunikationsplan"
+id="toc-what-kommunikationsplan"><span
+class="toc-section-number">4.3.2</span> What –
+Kommunikationsplan</a></li>
+<li><a href="#how-erstellung-der-kommunikationspläne"
+id="toc-how-erstellung-der-kommunikationspläne"><span
+class="toc-section-number">4.3.3</span> How – Erstellung der
+Kommunikationspläne</a></li>
+<li><a href="#kommunikationsformate-und-materialien"
+id="toc-kommunikationsformate-und-materialien"><span
+class="toc-section-number">4.3.4</span> Kommunikationsformate und
+Materialien</a></li>
+<li><a href="#die-bedeutung-von-storytelling"
+id="toc-die-bedeutung-von-storytelling"><span
+class="toc-section-number">4.3.5</span> Die Bedeutung von
+Storytelling</a></li>
+<li><a
+href="#tipps-und-best-practices-für-die-kommunikation-in-projekten"
+id="toc-tipps-und-best-practices-für-die-kommunikation-in-projekten"><span
+class="toc-section-number">4.3.6</span> Tipps und Best Practices für die
+Kommunikation in Projekten</a></li>
+</ul></li>
+<li><a
+href="#lernen-weiterbildung-im-change-management-von-lernbedarfsanalyse-lernformaten-bis-zum-regelmäßigen-lernen"
+id="toc-lernen-weiterbildung-im-change-management-von-lernbedarfsanalyse-lernformaten-bis-zum-regelmäßigen-lernen"><span
+class="toc-section-number">4.4</span> Lernen &amp; Weiterbildung im
+Change-Management – von Lernbedarfsanalyse &amp; Lernformaten bis zum
+regelmäßigen Lernen</a>
+<ul>
+<li><a href="#die-bedeutung-von-lernen-im-change-management"
+id="toc-die-bedeutung-von-lernen-im-change-management"><span
+class="toc-section-number">4.4.1</span> Die Bedeutung von Lernen im
+Change-Management</a></li>
+<li><a href="#durchführung-von-trainingsprojekten"
+id="toc-durchführung-von-trainingsprojekten"><span
+class="toc-section-number">4.4.2</span> Durchführung von
+Trainingsprojekten</a></li>
+<li><a href="#formate-konzept-incl.-train-the-trainer-ansatz-ttt"
+id="toc-formate-konzept-incl.-train-the-trainer-ansatz-ttt"><span
+class="toc-section-number">4.4.3</span> Formate &amp; Konzept
+incl. Train the Trainer Ansatz (TTT)</a></li>
+<li><a href="#zwei-modelle-zur-methodenauswahl"
+id="toc-zwei-modelle-zur-methodenauswahl"><span
+class="toc-section-number">4.4.4</span> Zwei Modelle zur
+Methodenauswahl</a></li>
+</ul></li>
+<li><a href="#communities-im-change-management"
+id="toc-communities-im-change-management"><span
+class="toc-section-number">4.5</span> Communities im
+Change-Management</a>
+<ul>
+<li><a href="#was-sind-change-communities"
+id="toc-was-sind-change-communities"><span
+class="toc-section-number">4.5.1</span> Was sind Change
+Communities?</a></li>
+<li><a
+href="#besonderheiten-von-change-communities-im-vergleich-zu-anderen-internen-communities"
+id="toc-besonderheiten-von-change-communities-im-vergleich-zu-anderen-internen-communities"><span
+class="toc-section-number">4.5.2</span> Besonderheiten von Change
+Communities im Vergleich zu anderen internen Communities</a></li>
+<li><a href="#formate-von-change-communities"
+id="toc-formate-von-change-communities"><span
+class="toc-section-number">4.5.3</span> Formate von (Change)
+Communities</a></li>
+<li><a href="#wie-change-communities-funktionieren"
+id="toc-wie-change-communities-funktionieren"><span
+class="toc-section-number">4.5.4</span> Wie Change Communities
+funktionieren</a></li>
+<li><a
+href="#best-practices-bei-der-implementierung-von-change-communities"
+id="toc-best-practices-bei-der-implementierung-von-change-communities"><span
+class="toc-section-number">4.5.5</span> Best Practices bei der
+Implementierung von Change Communities</a></li>
+</ul></li>
+<li><a href="#analysen-feedback-monitoring-kontinuierliche-verbesserung"
+id="toc-analysen-feedback-monitoring-kontinuierliche-verbesserung"><span
+class="toc-section-number">4.6</span> Analysen, Feedback, Monitoring
+&amp; kontinuierliche Verbesserung</a>
+<ul>
+<li><a href="#change-readiness-analyse"
+id="toc-change-readiness-analyse"><span
+class="toc-section-number">4.6.1</span> Change Readiness
+Analyse</a></li>
+<li><a href="#change-impact-analysen-cia"
+id="toc-change-impact-analysen-cia"><span
+class="toc-section-number">4.6.2</span> Change Impact Analysen
+(CIA)</a></li>
+<li><a href="#sammlung-von-weiteren-analysen-und-good-practices"
+id="toc-sammlung-von-weiteren-analysen-und-good-practices"><span
+class="toc-section-number">4.6.3</span> Sammlung von weiteren Analysen
+und Good Practices</a></li>
+</ul></li>
+<li><a
+href="#die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"
+id="toc-die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"><span
+class="toc-section-number">4.7</span> Die Rolle organisatorischer
+Veränderungen in IT- und Cloud-Projekten</a></li>
+<li><a
+href="#organisationskultur-und-change-management-in-it-reorganisationen"
+id="toc-organisationskultur-und-change-management-in-it-reorganisationen"><span
+class="toc-section-number">4.8</span> Organisationskultur und
+Change-Management in IT-Reorganisationen</a></li>
+</ul></li>
+<li><a href="#lernpfad" id="toc-lernpfad"><span
+class="toc-section-number">5</span> Lernpfad</a>
+<ul>
+<li><a href="#kata-0-kennenlernen-und-organisation-des-circles"
+id="toc-kata-0-kennenlernen-und-organisation-des-circles"><span
+class="toc-section-number">5.1</span> Kata 0: Kennenlernen und
+Organisation des Circles</a></li>
+<li><a href="#kata-9-feedback-monitoring-kontinuierliche-verbesserung"
+id="toc-kata-9-feedback-monitoring-kontinuierliche-verbesserung"><span
+class="toc-section-number">5.2</span> Kata 9: Feedback, Monitoring &amp;
+kontinuierliche Verbesserung</a></li>
+<li><a
+href="#kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"
+id="toc-kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"><span
+class="toc-section-number">5.3</span> Kata 10: Rolle organisatorischer
+Veränderungen in IT- und Cloud-Projekten</a></li>
+<li><a href="#kata-12-review-lessons-learned"
+id="toc-kata-12-review-lessons-learned"><span
+class="toc-section-number">5.4</span> Kata 12: Review &amp; lessons
+learned</a></li>
+<li><a
+href="#kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich"
+id="toc-kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich"><span
+class="toc-section-number">5.5</span> Kata 1: Einführung
+Change-Management: Warum, wie und Besonderheiten im IT-Bereich</a></li>
+<li><a
+href="#kata-2-rollen-im-change-management-und-in-change-prozessen"
+id="toc-kata-2-rollen-im-change-management-und-in-change-prozessen"><span
+class="toc-section-number">5.6</span> Kata 2: Rollen im
+Change-Management und in Change Prozessen</a></li>
+<li><a href="#kata-3-stakeholder-management"
+id="toc-kata-3-stakeholder-management"><span
+class="toc-section-number">5.7</span> Kata 3: Stakeholder
+Management</a></li>
+<li><a href="#kata-4-management-widerstände-im-change-management"
+id="toc-kata-4-management-widerstände-im-change-management"><span
+class="toc-section-number">5.8</span> Kata 4: Management &amp;
+Widerstände im Change Management</a></li>
+<li><a href="#kata-5-reflexion-der-lernergebnisse"
+id="toc-kata-5-reflexion-der-lernergebnisse"><span
+class="toc-section-number">5.9</span> Kata 5: Reflexion der
+Lernergebnisse</a></li>
+<li><a href="#kata-6-kommunikation-im-change-management"
+id="toc-kata-6-kommunikation-im-change-management"><span
+class="toc-section-number">5.10</span> Kata 6: Kommunikation im Change
+Management</a></li>
+<li><a href="#kata-7-training-wissenstransfer-lernen"
+id="toc-kata-7-training-wissenstransfer-lernen"><span
+class="toc-section-number">5.11</span> Kata 7: Training, Wissenstransfer
+&amp; Lernen</a></li>
+<li><a href="#kata-8-communities-im-change-management"
+id="toc-kata-8-communities-im-change-management"><span
+class="toc-section-number">5.12</span> Kata 8: Communities im Change
+Management</a></li>
+</ul></li>
+<li><a href="#anhang" id="toc-anhang"><span
+class="toc-section-number">6</span> Anhang</a>
+<ul>
+<li><a href="#danksagungen" id="toc-danksagungen"><span
+class="toc-section-number">6.1</span> Danksagungen</a></li>
+<li><a href="#änderungshistorie" id="toc-änderungshistorie"><span
+class="toc-section-number">6.2</span> Änderungshistorie</a></li>
+<li><a href="#lernos-glossar" id="toc-lernos-glossar"><span
+class="toc-section-number">6.3</span> lernOS Glossar</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1 data-number="1" id="willkommen"><span
+class="header-section-number">1</span> Willkommen</h1>
+<p>Herzlich willkommen im lernOS Change Management Leitfaden. Dieser
+Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um
+das Gestalten von Veränderungen - auch Change Management genannt - zu
+entwickeln. Wir gehen besonders auf das Begleitung von Veränderungen im
+IT Kontext ein. Jedoch sind viele Ansätze so universell, dass es
+eigentlich für alle Bereiche genutzt werden kann.</p>
+<h1 data-number="2" id="die-zielgruppe-des-leitfadens"><span
+class="header-section-number">2</span> Die Zielgruppe des
+Leitfadens</h1>
+<p>Dies sind sind alle, die sich für das Thema interessieren und die bei
+Veränderungen mitarbeiten. Das sind zum Beispiel Change Agents,
+Projektleiter, ManagerInnen. Da wir eher Grundlagen behandeln, sind die
+Inhalte eher zu basic für absolute Change Profis. Aber beim gemeinsamen
+Lernen lernen vielleicht auch Sie neue Dinge.</p>
+<h1 data-number="3" id="über-lernos"><span
+class="header-section-number">3</span> Über lernOS</h1>
+<p>lernOS ist eine Methode zur Selbstorganisation für Menschen, die im
+21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss
+man ständig lernen, sich organisieren und weiterentwickeln. Niemand
+sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum
+kümmern (selbstgesteuertes, lebenslanges Lernen).</p>
+<p>lernOS Leitfäden stehen unter der Lizenz <a
+href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative
+Commons Namensnennung 4.0 International</a> (CC BY 4.0):</p>
+<p><img src="./images/CC-BY.png" /></p>
+<h2 data-number="3.1" id="why---warum-braucht-es-lernos"><span
+class="header-section-number">3.1</span> WHY - Warum braucht es
+lernOS?</h2>
+<p><strong>Ständige Veränderung</strong> und unser <strong>zukünftiges
+Wohlergehen</strong> erfordern <strong>kontinuierliches,
+selbstorganisiertes Lernen</strong> (s.a. <a
+href="https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf">OECD
+Learning Compass 2030</a>). Die Auswirkungen der digital-vernetzten
+<strong>Wissensgesellschaften</strong> können wir alle täglich spüren
+(Informationsflut, Leistungsdruck, Geschwindigkeit technischer
+Innovation).</p>
+<h2 data-number="3.2" id="what---was-ist-lernos"><span
+class="header-section-number">3.2</span> WHAT - Was ist lernOS?</h2>
+<p>Das Wort <strong>lernOS</strong> stammt aus dem Esperanto und ist
+dort die Zukunftsform von Lernen: <strong>ich/wir werde/n
+lernen</strong>. Die Grundidee von lernOS ist es also, Einzelpersonen,
+Teams und Organisationen moderne Methoden des Lernens und Arbeitens
+beizubringen. Dafür stellt lernOS Leitfäden und Lernpfade bereit, mit
+denen eine moderne Haltung (<strong>Mindset</strong>), die richtigen
+Fähigkeiten (<strong>Skillset</strong>) und zeitgemäße Werkzeuge
+(<strong>Toolset</strong>) erlernt werden können.</p>
+<h2 data-number="3.3" id="how---wie-kann-ich-anfangen"><span
+class="header-section-number">3.3</span> HOW - Wie kann ich
+anfangen?</h2>
+<p>Viele Wege führen zu lernOS. Ein Vorschlag:</p>
+<ol type="1">
+<li>Wähle als ersten Schritt einen der <a
+href="https://lernos.org/de/0-about/guides">lernOS Leitfäden</a> – den
+hast Du/ habt Ihr bereits erledigt.</li>
+<li>Wähle einen <strong>Zeitraum</strong>, in dem du den Lernpfad des
+Leitfadens durchlaufen möchtest.</li>
+<li>Entscheide dich, ob Du <strong>allein</strong>, als
+<strong>Lerntandem</strong> oder im <strong>Circle</strong> mit 4-5
+Personen lernen möchtest. Zum Start empfehlen wir dir das Lernen im
+Circle.</li>
+<li>Verwende dein <strong>persönliches
+Netzwerk</strong>, <strong>soziale Medien</strong> oder den <a
+href="https://web.peerfinder.app/de">Peerfinder</a>, um Mit-Lernende zu
+finden.</li>
+<li><strong>Stop talking, start doing! :-)</strong></li>
+</ol>
+<p>Weitere Informationen zur kostenfreien Lizenzierung über <a
+href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative
+Commons Namensnennung 4.0 International</a> (CC BY) findet ihr auf der
+<a href="https://lernos.org/de/">LernOS Start Seite</a>. Dort findet Ihr
+auch weitere Informationen und Details.</p>
+<p><strong>Du darfst:</strong></p>
+<ul>
+<li><strong>Teilen</strong> - das Material in jedwedem Format oder
+Medium vervielfältigen und weiterverbreiten.</li>
+<li><strong>Bearbeiten</strong> - das Material remixen, verändern und
+darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</li>
+</ul>
+<p><strong>Unter folgenden Bedingungen:</strong></p>
+<ul>
+<li><strong>Namensnennung</strong> - Du musst angemessene Urheber- und
+Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob
+Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder
+angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der
+Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre
+Nutzung besonders.</li>
+<li><strong>Keine weiteren Einschränkungen</strong> - Du darst keine
+zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</li>
+</ul>
+<h1 data-number="4" id="grundlagen"><span
+class="header-section-number">4</span> Grundlagen</h1>
+<h2 data-number="4.1" id="einführung-in-change-management"><span
+class="header-section-number">4.1</span> Einführung in
+Change-Management</h2>
+<p>70% aller Change Projekte scheitern. Man hört solche Aussagen immer
+wieder, auch wenn es keine wirkliche Evidenz dafür gibt.</p>
+<p>Was klar ist: Change-Management ist wichtig, denn es versucht, den
+Menschen bei Veränderungen zu berücksichtigen.</p>
+<p>Das Ziel von Change-Management besteht darin, sicherzustellen, dass
+Veränderungen effektiv umgesetzt werden, um die Leistung und Effizienz
+der Organisation zu verbessern. Der Fokus liegt dabei auf der
+menschlichen Seite. Verglichen mit Projekt Management stehen dort eher
+die Aufgaben, Prozesse, Verantwortlichkeiten oder zeitliche
+Abhängigkeiten im Vordergrund, um ein Vorhaben umzusetzen.</p>
+<p>Abbildung 1 illustriert die Schwerpunkte von Change-Management
+gegenüber Projekt-Management</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Organisation</th>
+<th style="text-align: left;">Gruppe</th>
+<th style="text-align: left;">Individuum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Harte Faktoren im Projekt Management</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Softe Faktoren im Change</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Je nach Größe und Set-up eines Projekts kann Change Management ein
+eigener Stream sein in einem Projekt, eine Stabstelle neben der
+Projektleitung oder in kleinen Projekten eine Aufgabe der
+Projektleitung. Wichtig ist jedenfalls, dass Ressourcen dafür eingeplant
+werden und es neben Zeit, Qualität &amp; Kosten auch entsprechend im
+Projektalltag wie im Reporting &amp; Monitoring berücksichtigt wird.</p>
+<p>Entscheidend für den Erfolg jeder Veränderung ist – einfach gesagt –
+das „Sollen”, „Können”, „Dürfen” und „Wollen”. Dies ist auch das wohl
+„einfachste” Modell des Change-Managements.</p>
+<ul>
+<li>„<strong>Sollen</strong>” meint eine klare Strategie und ein Ziel,
+wie ein Erfolg genau definiert wird.</li>
+<li>„<strong>Können</strong>” bedeutet, die jeweiligen Kompetenzen sind
+bei allen vorhanden – oder können entwickelt werden.</li>
+<li>„<strong>Dürfen</strong>“ heißt, dass entsprechende Befugnisse und
+Freiräume vorhanden sind.</li>
+<li>„<strong>Wollen</strong>“ bedeutet, dass Überzeugung und Akzeptanz
+vorherrschen.</li>
+</ul>
+<p>Anbei werden verschiedene Change Management Modelle vorgestellt.
+Einige sind schon älter und haben eine besondere Herkunft. Wir denken
+jedoch, dass es interessant ist, von ihnen gehört zu haben.</p>
+<h3 data-number="4.1.1"
+id="agiles-change-management-und-metatheorie-der-veränderung"><span
+class="header-section-number">4.1.1</span> Agiles Change Management und
+Metatheorie der Veränderung</h3>
+<p>Agiles Change Management integriert agile Methoden, um Flexibilität
+und Anpassungsfähigkeit während des Veränderungsprozesses zu fördern.
+Gerade im IT Bereich eignen sich solche Ansätze, schließlich wurden
+agile Modelle in der Software-Entwicklung erfunden, um besser mit der
+zunehmenden Komplexität &amp; Dynamik zurecht zu kommen.</p>
+<p>Scrum und Kanban sind beispielsweise bewährte agile Ansätze, die in
+Change-Projekten eingesetzt werden können. Scrum ermöglicht es Teams, in
+kurzen Iterationen (Sprints) zu arbeiten, wodurch regelmäßiges Feedback
+und schnelle Anpassungen an den Veränderungsbedarf möglich sind. Kanban
+hingegen visualisiert den Arbeitsfluss und hilft, Engpässe zu
+identifizieren, was die Effizienz steigert und eine kontinuierliche
+Verbesserung fördert. Beide Methoden unterstützen iterative Ansätze, bei
+denen man kontinuierlich lernt und sich anpasst, um die Akzeptanz der
+Veränderungen zu erhöhen und die Mitarbeitenden besser einzubinden.
+Zudem können Methoden wie Retrospektiven und unterschiedliche Ansätze
+aus dem Design Thinking auch sehr hilfreich im Change Management
+sein.</p>
+<p>Es gibt viele weitere aktuelle Strömungen, von Lean Change Management
+bis hin zur Metatheorie der Veränderung von Klaus Eidenschink. Diese
+legt den Fokus auf Selbstorganisationsprozesse und eine
+prozessorientierte Sichtweise. Im Change-Management kann dies bedeuten,
+dass statt einer starren Planung, die oft auf Prognosen und Annahmen
+basiert, eine flexiblere Herangehensweise gewählt wird, die auf
+aktuellen Prozessen und Dynamiken basiert und damit eher dem agilen
+Paradigma folgt.</p>
+<h3 data-number="4.1.2" id="john-p.-kotter-leading-change"><span
+class="header-section-number">4.1.2</span> John P. Kotter – Leading
+Change</h3>
+<p>John P. Kotter, Professor an der Harvard Business School, entwickelte
+ein <a
+href="https://de.wikipedia.org/wiki/8-Stufen-Modell_eines_Ver%C3%A4nderungsprozesses_nach_J._P._Kotter">Modell
+für Veränderungsprozesse</a>, das acht Stufen umfasst und ein guter
+Einstieg ins Thema ist. Anbei eine vereinfachte Darstellung, die
+inzwischen schon überarbeitet wurde:</p>
+<p><strong>Dringlichkeit erzeugen:</strong> Das Team muss erkennen,
+warum eine Änderung dringend notwendig ist. Ein Gefühl der Dringlichkeit
+hilft, die Motivation zum Handeln zu steigern.</p>
+<p><strong>Führungsteam &amp; Koalition bilden:</strong> Es ist wichtig,
+ein starkes Team aus Führungskräften zu bilden, die an der Veränderung
+beteiligt sind und sie unterstützen.</p>
+<p><strong>Vision und Strategie entwickeln:</strong> Die Vision sollte
+klar, verständlich und attraktiv sein. Sie dient als Leitfaden für die
+Veränderung. Die Strategie zeigt auf, wie die Vision erreicht werden
+kann.</p>
+<p><strong>Veränderungs-Vision kommunizieren:</strong> Die Vision und
+die Strategie müssen effektiv an alle Beteiligten kommuniziert werden,
+um Akzeptanz und Engagement zu fördern.</p>
+<p><strong>Hindernisse beseitigen &amp; Mitarbeitende
+befähigen:</strong> Alle Hindernisse, die die Umsetzung der Veränderung
+behindern könnten, müssen identifiziert und beseitigt werden.</p>
+<p><strong>Kurzfristige Erfolge schaffen:</strong> Es ist wichtig,
+schnell sichtbare Erfolge zu erzielen und zu feiern, um die Motivation
+hochzuhalten und den Glauben an die Veränderung zu stärken.</p>
+<p><strong>Veränderungen konsolidieren:</strong> Alle erreichten Erfolge
+sollten genutzt werden, um weitere Veränderungen zu fördern und die
+neuen Ansätze in der Kultur des Unternehmens zu verankern.</p>
+<p><strong>Veränderungen in der Kultur verankern:</strong> Schließlich
+sollten die Veränderungen so tief in der Kultur des Unternehmens
+verankert werden, dass sie auch nach einem Führungswechsel bestehen
+bleiben.</p>
+<h3 data-number="4.1.3" id="adkar-von-proscii"><span
+class="header-section-number">4.1.3</span> ADKAR von Proscii</h3>
+<p>Das ADKAR-Modell ist ein Change-Management-Werkzeug, das von Prosci
+entwickelt wurde und in vielen IT-Projekten angewandt wird. ADKAR ist
+ein Akronym, das für die fünf Phasen des Veränderungsprozesses
+steht:</p>
+<p><strong>Awareness (Bewusstsein):</strong> Verständnis für die
+Notwendigkeit der Veränderung. Beispiel: Kommunikation über
+Marktveränderungen, die eine neue IT-Strategie erfordern.</p>
+<p><strong>Desire (Wunsch):</strong> Engagement und Bereitschaft, sich
+auf die Veränderung einzulassen. Beispiel: Demonstration der Vorteile
+der neuen IT-Strategie für einzelne Mitarbeitende und das Unternehmen
+insgesamt.</p>
+<p><strong>Knowledge (Wissen):</strong> Verständnis darüber, wie die
+Veränderung umgesetzt wird. Beispiel: Schulungen und Workshops zur neuen
+Software oder Prozessen.</p>
+<p><strong>Ability (Fähigkeit):</strong> Die Fertigkeiten und
+Verhaltensweisen, die notwendig sind, um die Veränderung umzusetzen.
+Beispiel: Praktische Übungen und Unterstützung am Arbeitsplatz, um die
+Anwendung der neuen Software zu üben.</p>
+<p><strong>Reinforcement (Verstärkung):</strong> Maßnahmen, die
+sicherstellen, dass die Veränderung beibehalten wird. Beispiel: Feedback
+und Anerkennung für die erfolgreiche Anwendung der neuen Prozesse,
+kontinuierliche Verbesserung und Anpassung basierend auf
+Rückmeldungen.</p>
+<p>Jede Phase muss betrachtet werden, bevor die nächste beginnen kann,
+und jede ist entscheidend für den Erfolg des Change-Managements. Gut ist
+hier aufgezeigt, dass Awareness oder „nur“ Wissen nicht ausreicht,
+sondern alle Bereiche wichtig sind.</p>
+<h3 data-number="4.1.4" id="die-veränderungskurve"><span
+class="header-section-number">4.1.4</span> Die Veränderungskurve</h3>
+<p>Die Kübler-Ross-Kurve, auch bekannt als das Modell der fünf Phasen
+der Trauer, wurde ursprünglich entwickelt, um die emotionalen Phasen zu
+beschreiben, die Menschen durchlaufen, wenn sie mit dem Tod konfrontiert
+sind. Im Change-Management wird es oft verwendet, um die emotionalen
+Reaktionen der Mitarbeitenden auf Veränderungen in der Organisation zu
+verstehen.</p>
+<p>Die fünf Phasen sind: Verleugnung, Wut, Verhandlung, Depression und
+Akzeptanz.</p>
+<p>Das Modell kann hilfreich sein, um einige der emotionalen Reaktionen
+auf Veränderungen zu verstehen. Ein Hauptkritikpunkt ist jedoch, dass es
+ursprünglich entwickelt wurde, um die Reaktionen auf den Tod i.S. von
+Trauer und nicht auf Veränderungen im Arbeitsumfeld zu beschreiben.
+Daher kann es nicht alle Aspekte des Change-Managements abdecken. Zudem
+verlaufen Veränderung nie linear und in der vorgegebenen Reihenfolge
+oder Kurve wie das Modell suggeriert. Mitarbeitende können
+unterschiedliche Phasen gleichzeitig oder in unterschiedlicher
+Reihenfolge und vor allem in unterschiedlicher Geschwindigkeit
+durchlaufen.</p>
+<h3 data-number="4.1.5" id="das-sap-ocm-framework"><span
+class="header-section-number">4.1.5</span> Das SAP OCM Framework</h3>
+<p>Der SAP OCM-Rahmen (Organizational Change-Management-Rahmen) besteht
+aus sechs Dimensionen mit verschiedenen Arbeitspaketen entlang von SAP
+IT-Projekten.</p>
+<p>Die <strong>Change Strategie</strong> gibt die Richtung der Change
+Aktivitäten für ein digitales Transformationsprojekt vor. Sie liefert
+die Blaupause für das Management komplexer Veränderungen über mehrere
+Einheiten, verschiedene Standorte und/oder Länder hinweg.</p>
+<p><strong>Change Leadership und Steuerung</strong> zielen darauf ab,
+geeignete Mechanismen für das Management betroffener Personen, Personas
+und Gruppen zu identifizieren und zu implementieren. Mit dem Begriff
+„Betroffene“ sind diejenigen gemeint, die von einem digitalen
+Transformationsprojekt wirklich betroffen sind oder die dessen Erfolg
+beeinflussen können. Das können bei SAP-Projekten viele Personen sein,
+weshalb man dann auch von Large Scale Change spricht.</p>
+<p>Einbindung, Kommunikation, Befähigung &amp; Empowerment tragen dazu
+bei, eine gemeinsame positive Haltung gegenüber Veränderungen zu
+fördern. Das Alignment mit dem Top-Management ist dabei erfolgskritisch,
+sowie der Aus- und Aufbau eines Netzwerks von Change Agents.</p>
+<p><strong>Change Kommunikation</strong> zielt darauf ab, die richtige
+Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln.
+Es handelt sich um die systematische Planung, Durchführung, Überwachung
+und Überprüfung aller Kommunikationsaktivitäten innerhalb eines
+digitalen Transformationsprojekts.</p>
+<p><strong>Change Umsetzung</strong> umfasst die Identifikation und das
+Management der mit einer digitalen Transformation verbundenen
+Veränderungen bei den relevanten Stakeholder-Gruppen (z.B. in Bezug auf
+Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und
+Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen
+Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen
+schliessen sich dabei meist direkt an.</p>
+<p><strong>Change Enablement</strong> bietet während des
+Transformationsprozesses umfassende Schulungen und Lernangebote für
+Expertinnen sowie für die User. Zuerst werden üblicherweise das
+Projektteam und Management geschult, später die User.</p>
+<p><strong>Change Effectiveness</strong> umfasst die Aktivitäten, die
+zur Messung der Effektivität von OCM-Aktivitäten zur Unterstützung der
+digitalen Transformation eingesetzt werden können. Sie konzentriert sich
+auf Kriterien wie organisatorische Bereitschaft, Benutzerakzeptanz und
+-zufriedenheit sowie das Benutzerverhalten nach dem Go-Live. Awareness,
+Commitment, Empowerment, Enablement und Akzeptanz sind dabei Faktoren
+die gewöhnlich gemessen werden, sei es mit Systemdaten oder
+Befragungen.</p>
+<h3 data-number="4.1.6"
+id="terminologie-von-change-in-it-projekten"><span
+class="header-section-number">4.1.6</span> Terminologie von Change in
+IT-Projekten</h3>
+<p>Wird ein IT-Projekt auf der „grünen Wiese“ begonnen und das System
+frisch, incl. der Prozesse, neu aufgesetzt spricht man von einem
+<strong>Greenfield</strong>-Ansatz.</p>
+<p>Wird die neue Software auf bestehender Struktur, Nutzung der Daten,
+Einstellungen und Prozesse aufgebaut, wird von einem
+<strong>Brownfield</strong>-Ansatz gesprochen.</p>
+<p><strong>Bluefield</strong> ist ein Mittelweg: ausgewählte Daten
+werden mit genommen, jedoch reduziert und vereinfacht, um
+Geschäftsprozesse zu optimieren.</p>
+<p><strong>Transformation</strong>: Während Transformationen umfassende,
+strategische Veränderungen in der gesamten Organisation anstoßen,
+konzentrieren sich Change-Projekte auf spezifische Initiativen, Projekte
+und Programme.</p>
+<p><strong>Disruptive Innovationen</strong> wie das iPhone oder
+generative KI mit starken neuem Kundennutzer der etablierte Angebote
+verdrängt erfordern eine proaktive Haltung und eine Innovationskultur,
+die Veränderung annimmt und experimentierfreudig ist um eben nicht
+disruptiert zu werden.</p>
+<h3 data-number="4.1.7"
+id="fazit-zu-methoden-und-vorgehensweisen-im-change-management"><span
+class="header-section-number">4.1.7</span> Fazit zu Methoden und
+Vorgehensweisen im Change-Management</h3>
+<p>Viele Software-Anbieter und Beratungshäuser haben ihre eigenen
+Methoden. So nutzt SAP beispielsweise das <a
+href="https://community.sap.com/topics/activate">SAP
+Activate</a>Prozessmodell und stellt im Bereich “Solution Adoption”
+viele Templates und Informationen rund um Change-Management kostenfrei
+zur Verfügung. Andere Firmen wie Microsoft orientieren sich an
+allgemeinen Rahmenwerken wie ADKAR (s.o.). Es gibt nicht den „richtigen“
+Ansatz.</p>
+<p>Letztendlich sollte man ein Modell und Vorgehen nutzen, das auch gut
+zur Firmenkultur passt. Sofern ein Modell bereits im Unternehmen im
+Einsatz ist, kann es hilfreich sein, dieses Modell zu nutzen, da es
+bereits etabliert ist. Grundsätzlich sollte ein Modell immer als
+Sammlung von Prinzipien verstanden werden und nicht als verbindliches
+Regelwerk, das man befolgen und abhaken muss.</p>
+<p>Es gibt Modelle, die das Vorgehen beschreiben und solche, die eher
+die Art von Interventionen zusammenfassen. Beides zu nutzen macht Sinn
+im Mix mit agilen Praktiken und Methoden, sofern agil gearbeitet wird.
+Zudem ist Emergenz bei Veränderungen zu berücksichtigen. Komplexe
+Systeme wie Unternehmen bringen durch Veränderungen neue Eigenschaften
+und Lösungen hervor, die nicht vorhersehbar sind oder zentral planbar
+sind. Daher sind Rückkopplungen, Feedbackmechanismen, gezielte
+Einbindung und adaptives Vorgehen so wichtig.</p>
+<h3 data-number="4.1.8" id="quellen-und-weitere-informationen"><span
+class="header-section-number">4.1.8</span> Quellen und weitere
+Informationen</h3>
+<ul>
+<li>Definition of <a
+href="https://www.prosci.com/resources/articles/definition-of-change-management">Change
+management</a></li>
+<li><a
+href="https://armintrost-aop.podigee.io/34-change-management">Podcast
+von Prof. Trost zu Change Management</a></li>
+<li><a href="https://change-workout.de/">Change Workout -
+Infoseite</a></li>
+<li><a
+href="https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer">70
+Prozent aller Change-Vorhaben scheitern n-immer</a></li>
+<li><a
+href="https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management">Reflektion
+der Nutzung von Change Modellen</a></li>
+<li><a href="https://metatheorie-der-veraenderung.info">Metatheorie der
+Veränderung Infoseite</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Change_management">Change
+Management auf Wikipedia</a></li>
+</ul>
+<h3 data-number="4.1.9" id="rollen-im-veränderungsprojekt"><span
+class="header-section-number">4.1.9</span> Rollen im
+Veränderungsprojekt</h3>
+<h4 data-number="4.1.9.1"
+id="projektsponsor-in-auftraggeber-in-in-change-projekten"><span
+class="header-section-number">4.1.9.1</span> Projektsponsor in /
+Auftraggeber in in Change Projekten</h4>
+<p>Ein e Projektsponsor in ist ein besonderer Stakeholder mit speziellem
+Einfluss auf den Erfolg eines Projekts.</p>
+<p>Es gibt verschiedene Möglichkeiten für eine n Projektsponsor in, das
+Projekt effektiv zu unterstützen: dabei trägt der die Projektsponsor in
+vor allem die Verantwortung für die unternehmerische Zielsetzung, also
+den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll.
+Insofern definiert der-die Projektsponsor in die Vision, die Ziele und
+die Strategie, die das Projekt verfolgen soll.</p>
+<p>Zudem ist derdie Projektsponsor in für das Risikomanagement des
+Projekts verantwortlich.</p>
+<p>Ein Risiko bei klassischen Projektmanagement – Ansätzen ist
+beispielsweise, dass die Gesamt-Situation sich zwischenzeitlich geändert
+haben kann, aber iterative Anpassungen der Pläne oder nachträgliche
+Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen
+sind.</p>
+<p>Der-die Projektsponsor in zeigt in der Innen- und Außenkommunikation,
+dass er-sie uneingeschränkt hinter diesem Projekt und dem-der
+Projektleiter in steht und Unterstützung von allen Beteiligten
+einfordert. Damit wird das Projekt legitimiert und dem-der Projektleiter
+in die erforderliche Autorität verliehen.</p>
+<p>Gute Projektsponsor innen unterstützt den Projektleiter in in
+kritischen Situationen und stärkt den Rücken. Viele Projektleiter innen
+sind im Sinne eines guten Leaderships häufig sehr dankbar, wenn derdie
+Projektsponsor in für sie auch die Rolle eines Mentors übernimmt.</p>
+<p>Die Überwachung und Steuerung des Projekts auf übergeordneter Ebene
+ggf. zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind
+wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen.
+Projektsponsor innen sollten sich dem Erfolg des Projekts verpflichtet
+fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind.</p>
+<h4 data-number="4.1.9.2" id="projektleitung-in-change-projekten"><span
+class="header-section-number">4.1.9.2</span> Projektleitung in Change
+Projekten</h4>
+<p>Die Projektleitung ist im Rahmen der <a
+href="https://de.wikipedia.org/wiki/Projektorganisation">Projektorganisation</a>
+die organisatorische Stelle, der die operative Kontrolle eines <a
+href="https://de.wikipedia.org/wiki/Projekt">Projektes</a> unterliegt.
+Aufgabe dieser Organisationseinheit ist primär das <a
+href="https://de.wikipedia.org/wiki/Projektmanagement">Projektmanagement</a>;
+in kleineren Projekten wird die Projektleitung durch den <a
+href="https://de.wikipedia.org/wiki/Projektleiter">Projektleiter</a>
+gebildet, in größeren Projekten steht dieser einer Gruppe von Personen
+und eventuell zusätzlich mehreren Teilprojektleiter innen vor.</p>
+<p>Bei modernen Organisationskonzepten besteht die Projektleitung
+umfangreicher Projekte aus mehreren Projektleiter innen, die die
+Entscheidung im Konsens bzw. nach vorbestimmten Richtlinien und Regeln
+treffen. Aufgaben sind dabei</p>
+<ul>
+<li>Festlegung der Projektziele</li>
+<li>Planung des Projektes</li>
+<li>Zusammenstellung des Projektteams</li>
+<li>Steuerung, Sicherung des Informationsflusses und Kontrolle des
+Projektes (Termine vereinbaren, Zusammenarbeit mit anderen
+Fachabteilungen koordinieren, Verantwortlichkeiten festlegen)</li>
+<li>Treffen von Entscheidungen</li>
+<li>Verwaltung des Budgets (Finanzierung / Liquiditätssicherung,
+Erfassung aller Mitarbeitendenkosten)</li>
+<li>Durchsetzen der erforderlichen Maßnahmen und Vollzug der
+Verträge</li>
+<li>Führen von Verhandlungen</li>
+<li>Projektergebnisse vorstellen und argumentativ vertreten</li>
+<li>Abschlussbericht für Auftraggeber innen</li>
+<li>Dokumentation des Projektes</li>
+</ul>
+<h4 data-number="4.1.9.3"
+id="projektmitglieder-in-change-projekten"><span
+class="header-section-number">4.1.9.3</span> Projektmitglieder in Change
+Projekten</h4>
+<p>Die Begriffe “Projektmitglieder innen” oder “Projektteilnehmende”
+können als Oberbegriff für die Mitglieder innen des Projektteams und der
+Projektmitarbeitenden verstanden werden. Sie sind in keiner Norm oder
+Handreichung definiert. Gegenüber dem Ausdruck “Projektbeteiligte” sind
+sie dadurch abzugrenzen, dass die Projektmitglieder innen oder
+Projektteilnehmenden direkt einen Beitrag zum Projektergebnis leisten.
+Personen oder Organisationen, die nur von den Auswirkungen des Projekts
+betroffen sind, aber keine Mitwirkung am Projekt haben, zählen somit
+nicht zu den Projektmitglieder innen oder Projektteilnehmenden.</p>
+<p>Da die Projektmitglieder innen die Personen sind, die am meisten mit
+den Stakeholdern / Betroffenen einer Veränderung in Kontakt stehen,
+sollten sie ausreichend Change-Management Kompetenz haben.</p>
+<h4 data-number="4.1.9.4"
+id="change-manager-in-in-change-projekten"><span
+class="header-section-number">4.1.9.4</span> Change Manager in in Change
+Projekten</h4>
+<p>Aufgaben des Change-Managements sind</p>
+<ul>
+<li>Analyse &amp; Beschreibung der Ausgangssituation</li>
+<li>Planung des Change-Prozesses</li>
+<li>Implementierung</li>
+<li>Evaluation</li>
+<li>Steuert Change Agent Network/ Change Community Manager (Builder) (s.
+Kapitel Communities im Change-Management)</li>
+<li>Moderiert das Zusammenspiel der Rollen zwischen Projekt &lt;=&gt;
+Change-Management</li>
+</ul>
+<h4 data-number="4.1.9.5" id="change-agents"><span
+class="header-section-number">4.1.9.5</span> Change Agents</h4>
+<p>In Change Projekten haben Change Agents die Verantwortung für die
+erfolgreiche Umsetzung der Veränderung. Daher sind sie auch für die
+Planung und die Umsetzung konkreter Maßnahmen zur Akzeptanzsteigerung in
+der Belegschaft zuständig. Die Rolle von Change Agents können sowohl
+externe Berater innen als auch interne Mitarbeiter innen wahrnehmen.
+Wichtig ist jedoch, dass die Change Agents neben ihren projektbezogenen
+Kenntnissen und Fähigkeiten</p>
+<ul>
+<li>von allen Mitarbeitenden als Vertrauensperson und lokale r
+Ansprechpartner in und somit als Kontaktpunkt zum Projektteam
+wahrgenommen und respektiert werden.</li>
+<li>optional eine Historie von Erfolgen im Unternehmen erreicht
+haben.</li>
+<li>starke Kommunikations- und Präsentationsfähigkeiten haben.</li>
+<li>die Fähigkeit haben, andere bewegen und begeistern zu können.</li>
+<li>optional das Potential besitzen andere Menschen coachen zu
+können.</li>
+<li>sowohl die Bedürfnisse und Ängste der Mitarbeitenden als auch den
+Unternehmenserfolg im Auge behalten.</li>
+<li>Teamplayer innen sind.</li>
+<li>nicht zu sehr verschiedenen Parteien im Unternehmen verpflichtet
+sind.</li>
+<li>ein gutes Verständnis der Organisation haben.</li>
+</ul>
+<p>Change Agents sind Vertrauenspersonen und Ansprechpartner innen: Sie
+sensibilisieren und informieren Kolleg innen in Hinblick auf die
+anstehende Veränderung. Das bedeutet zum Beispiel, dass sie auf
+Trainingsangebote hinweisen oder diese selbst organisieren. Sie haben
+ein offenes Ohr für die Bedürfnisse der Mitarbeitenden, die sich
+vielleicht eine gewisse Form der Change Begleitung wünschen und nicht
+mit ihren Zweifeln, Wünschen und Hoffnungen alleine bleiben wollen. Dies
+teilen sie den Projekt- &amp; Change Managern mit und sorgen somit auch
+für den beiderseitigen Austausch vom Projektteam und und betroffenen
+Mitarbeitenden wie End-Usern.</p>
+<p>Change Agents sind Vorbilder: Als Vorbilder motivieren Change Agents
+zur Mitwirkung und Teilnahme an Personalentwicklungsgesprächen, an
+persönlichen und betrieblichen Change Initiativen und an betrieblichen
+Schulungen, mit denen der Veränderungsprozess vorangetrieben wird.</p>
+<p>Change Agents sind lokal: Je lokaler eine Change Struktur aus Change
+Agents aufgebaut ist, desto besser stehen die Chancen auf einen
+reibungslosen Veränderungsprozess. Daher sollte die Rolle der Change
+Agents im Change-Management-Prozess an allen Standorten des Unternehmens
+besetzt werden, evtl. auch pro Fachbereich. Die erfolgreiche Umsetzung
+von Veränderungen hängt nämlich stark mit den Fürsprecher innen und
+Treiber innen im Unternehmen ab, die für die Umsetzung der
+Veränderungsmaßnahmen einstehen. Je besser vorbereitet diese Individuen
+sind, desto besser ist es für den Erfolg des Veränderungsprojekts.</p>
+<p>Change Agents sind ein Netzwerk an Veränderungsexpert innen: Sie
+organisieren sich im Netzwerk und tauschen sich über Erfolge, Sorgen und
+Best Practices aus. Durch ein gemeinsames Onboarding, Schulungen und
+Workshops gelingt es, dass Change Agents frühzeitig ihre Kräfte bündeln
+und sich einfacher eine einheitliche Kommunikation nach außen etablieren
+lässt. Dabei können Change Agents auf die Nutzung von Methoden wie z.B.
+zielgruppengerechte Kommunikationsmittel und -kanäle sowie geeignete
+Informationsmaterialien zurückgreifen, um ihre Kolleg innen zu
+informieren.</p>
+<p>Abgrenzung: Change Agents vs. Key-User</p>
+<ul>
+<li>Change Agents: Sie sind die frühen Anwender innen und Multiplikator
+innen in ihren Abteilungen, die speziell im Umgang mit Veränderungen
+geschult sind und das Erlernte an andere weitergeben. Ihre Rolle ist oft
+freiwillig und intrinsisch motiviert.</li>
+<li>Key-User: Im Gegensatz dazu konzentrieren sich Key-User stärker auf
+das technische Know-how und die Unterstützung anderer Mitarbeitenden,
+insbesondere im Rahmen von IT-Projekten. Sie sind oft in ihrer Job-Rolle
+verankert und bieten (First-Level-) Support.</li>
+</ul>
+<p>Hinweis: In manchen Unternehmen wird es ggf. anders gehandhabt und
+eine klare Differenzierung ist nicht immer möglich (bzw. nötig).
+Key-User sind vor allem später im Projekt wichtig, wenn es um Training
+und Support geht.</p>
+<h4 data-number="4.1.9.6"
+id="die-rolle-von-führungskräften-im-change"><span
+class="header-section-number">4.1.9.6</span> Die Rolle von
+Führungskräften im Change</h4>
+<p>Um Veränderungsinitiativen erfolgreich zu machen, hat Prosci diverse
+Studien durchgeführt und konkrete Maßnahmen für Führungskräfte
+identifiziert, die als Erfolgsfaktor für gelungene Veränderungen
+gelten:</p>
+<ul>
+<li>Kommunikation mit den direkten Mitarbeitenden über die
+Veränderung</li>
+<li>Unterstützung für die Veränderung demonstrieren</li>
+<li>Mitarbeitende durch den Change helfen, bzw. coachen</li>
+<li>Verbindung zwischen ihren Mitarbeitenden und dem Projektteam
+sicherstellen</li>
+<li>Widerstände erkennen und mindern</li>
+</ul>
+<p>Im Englischen werden diese Rollen mit dem Akronym CLARC
+beschrieben:</p>
+<ul>
+<li>Communicator</li>
+<li>Liaison</li>
+<li>Advocate</li>
+<li>Resistance Manager</li>
+<li>Coach</li>
+</ul>
+<h3 data-number="4.1.10" id="quellen-und-weitere-informationen-1"><span
+class="header-section-number">4.1.10</span> Quellen und weitere
+Informationen</h3>
+<ul>
+<li><a
+href="https://www.atlassian.com/de/itsm/change-management/roles-and-responsibilities">Rollen
+und Verantwortlichkeiten im Änderungsmanagement | Atlassian</a></li>
+<li><a
+href="https://www.prosci.com/de/blog/clarc-die-rolle-von-personalmanagern-im-change-management">CLARC:
+Die Rolle von Personalmanagern im Change Management |</a></li>
+</ul>
+<h2 data-number="4.2"
+id="stakeholder-management-im-change-management-mehr-als-nur-rollen"><span
+class="header-section-number">4.2</span> Stakeholder Management im
+Change-Management: Mehr als nur Rollen</h2>
+<p>In IT-Change-Management-Projekten sind Stakeholder nicht nur Rollen,
+die bestimmte Aufgaben erfüllen. Sie sind Menschen mit unterschiedlichen
+Perspektiven, Bedürfnissen, Emotionen, Zielen und Interessen. Sie sind
+außerdem Personen, die Interessen, Rechte &amp; Pflichten im Projekt
+haben (Betriebsrat, Politik etc.) oder Personen, die von den
+Veränderungen im Unternehmen betroffen sind.</p>
+<p>Dazu gehören Projektmanager*innen, IT-Teams, Einkauf,
+Fachabteilungen, Personalbereich, Geschäftsführer*innen, Enduser und
+weitere interne Stakeholder wie Betriebsräte*innen und auch
+Datenschutzbeauftragt*innen.</p>
+<p>Je nach Projekt können auch externe Stakeholder eine Rolle spielen.
+Von Partner*innen wie IT-Anbietern oder Implementierungspartnern bis hin
+zur Politik bzw. Gesetzgeber oder Verbände bei großen Veränderungen.</p>
+<p>Jeder dieser Stakeholder bringt eine eigene Sichtweise, seine eigenen
+Erfahrungen und sein eigenes Verständnis des Projekts mit.</p>
+<h3 data-number="4.2.1"
+id="die-psychologische-rolle-der-managerin"><span
+class="header-section-number">4.2.1</span> Die psychologische Rolle der
+Manager*in</h3>
+<p>Manager*innen spielen eine entscheidende Rolle in
+IT-Change-Management-Projekten. Sie sind nicht nur
+Entscheidungsträger*innen und Ressourcenbereitsteller*innen, sondern
+auch Führungskräfte, die das Team motivieren, koordinieren, inspirieren
+und moderieren müssen. Sie sind auch Vermittler zwischen verschiedenen
+Stakeholdern und müssen Konflikte managen und Konsens herstellen. Wenn
+sie nicht überzeugt sind oder die entsprechenden Änderungen nicht
+mittragen, hat es die beste Software und jede Veränderung schwer. Auch
+müssen sie das Sollen mit definieren – sprich das Zielbild, Vision, die
+nötigen Änderungen - sowie den Rahmen (Dürfen) ermöglichen.</p>
+<p>Aus Forschung rund um Veränderungskompetenz wissen wir, dass es nicht
+nur um Persönlichkeit (wie Offenheit, Adaptivität), individuelle
+Methodenkompetenz oder Motivation geht, sondern auch um den Rahmen
+(Ressourcen, Ziele, Verantwortung bis hin zu Anweisungen)– den das
+Management mit definieren muss.</p>
+<p>Denn wenn Mitarbeitende glauben, dass eine Veränderung notwendig,
+sinnvoll und machbar ist (kognitive Überzeugungen) und wenn sie sich auf
+die Veränderung freuen und sie als positiv und wünschenswert empfinden
+(positive Emotionen), sind sie eher bereit, die Veränderung zu
+unterstützen und sich dafür einzusetzen.</p>
+<p>Um Manager*innen auf diese Aufgaben im Rahmen des Change-Prozesses
+vorzubereiten, sind Trainings sinnvoll: Führungskräfte sollten in den
+Grundlagen des Change-Managements geschult werden, um die
+psychologischen und organisatorischen Aspekte des Wandels zu verstehen
+und effektiv zu managen.</p>
+<p><strong>Wie Manager*innen Überzeugungen und positive Emotionen über
+Veränderungen mitgestalten können</strong></p>
+<p><strong>Kommunikation</strong>: Manager*innen kommunizieren die
+Gründe für die Veränderung klar und überzeugend, um kognitive
+Überzeugungen zu stärken. Sie heben die Vorteile und positiven Aspekte
+der Veränderung hervor, um positive Emotionen zu fördern. Das beutetet,
+dass sie die Kommunikation nicht komplett delegieren, sondern selbst
+aktiv sind.</p>
+<p><strong>Beteiligung</strong>: Manager*innen beziehen die
+Mitarbeitenden in den Change-Prozess ein, um ihre kognitiven
+Überzeugungen und positiven Emotionen zu stärken. Wenn die
+Mitarbeitenden das Gefühl haben, dass sie einen Beitrag leisten und
+Einfluss nehmen können, sind sie eher bereit, die Veränderung zu
+unterstützen.</p>
+<p><strong>Unterstützung</strong>: Manager*innen stellen den
+Mitarbeitenden die notwendige Unterstützung und Ressourcen zur
+Verfügung, um die Veränderung zu bewältigen. Dies kann dazu beitragen,
+ihre kognitiven Überzeugungen und positiven Emotionen zu stärken.</p>
+<p><strong>Vorbildfunktion</strong>: Manager*innen dienen als Vorbilder
+für Veränderungen und fördern durch ihr eigenes Verhalten und ihre
+eigene Einstellung positive Emotionen und kognitive Überzeugungen.</p>
+<p><strong>Anerkennung und Belohnung</strong>: Manager*innen anerkennen
+und belohnen die Bemühungen und Erfolge der Mitarbeitenden im
+Zusammenhang mit der Veränderung. Dies trägt dazu bei, die positiven
+Emotionen und kognitiven Überzeugungen der Mitarbeitenden zu
+stärken.</p>
+<p><strong>Weiterführende Literatur:</strong></p>
+<p>“Leading Change” von John P. Kotter und “Managing Transitions: Making
+the Most of Change” von William Bridges: Während Kotter einen
+strukturierten, prozessorientierten Ansatz bietet, hilft Bridges, die
+menschlichen und emotionalen Dimensionen des Wandels zu verstehen und zu
+managen.</p>
+<p>Zusammen liefern sie eine umfassende Perspektive darauf, wie
+Führungskräfte ihre Rolle im Change-Management erfolgreich ausfüllen
+können.</p>
+<h3 data-number="4.2.2"
+id="analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen"><span
+class="header-section-number">4.2.2</span> Analyse der Stakeholder:
+Verstehen von Motivationen und Widerständen</h3>
+<p>Die Analyse der Stakeholder in IT-Change-Management-Projekten geht
+über das bloße Verständnis ihrer Rollen und Aufgaben hinaus. Es geht
+darum, ihre Motivationen, Ängste, Widerstände und Interessen zu
+verstehen. Dazu können verschiedene Methoden verwendet werden:</p>
+<h4 data-number="4.2.2.1" id="kraftfeldanalyse"><span
+class="header-section-number">4.2.2.1</span> Kraftfeldanalyse</h4>
+<p>Diese Methode, die von dem Sozialpsychologen Kurt Lewin entwickelt
+wurde, hilft, die verschiedenen Kräfte zu identifizieren, die das
+Projekt beeinflussen könnten. Sie hilft dabei, die treibenden Kräfte,
+die das Projekt vorantreiben, und die hemmenden Kräfte, die das Projekt
+behindern könnten, zu verstehen.</p>
+<p><strong>Analyse nach Einfluss und Pro-/ Contra Change und
+entsprechende Maßnahmen</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 37%" />
+<col style="width: 37%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"><strong>Negative
+Einstellung</strong></th>
+<th style="text-align: center;"><strong>Positive
+Einstellung</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Hoher Einfluss</strong></td>
+<td style="text-align: center;">Opponenten: Umwerben, überzeugen</td>
+<td style="text-align: center;">Promotoren: Regelmäßig informieren,
+aktiv einbinden</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Geringer Einfluss</strong></td>
+<td style="text-align: center;">Skeptiker: Beobachten und positiv
+informieren</td>
+<td style="text-align: center;">Informieren: Vertrauen verstärken und
+Einfluss stärken</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Analyse nach Einfluss und Pro-/ Contra Change und
+entsprechende Maßnahmen</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"><strong>Promotoren</strong></th>
+<th style="text-align: left;"><strong>Opponenten</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Hoher Einfluss</strong></td>
+<td style="text-align: left;">Partizipativ</td>
+<td style="text-align: left;">Diskursiv</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Geringer Einfluss</strong></td>
+<td style="text-align: left;">Informativ</td>
+<td style="text-align: left;">Repressiv</td>
+</tr>
+</tbody>
+</table>
+<p>Ähnlich ist die Analyse nach Interesse &amp; Einfluss.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"><strong>Geringes Interesse</strong></th>
+<th style="text-align: left;"><strong>Hohes Interesse</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Hoher Einfluss</strong></td>
+<td style="text-align: left;">Zufrieden stellen</td>
+<td style="text-align: left;">enger Kontakt</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Geringer Einfluss</strong></td>
+<td style="text-align: left;">Pull / Monitor</td>
+<td style="text-align: left;">informieren</td>
+</tr>
+</tbody>
+</table>
+<h4 data-number="4.2.2.2"
+id="interventionen-im-bereich-der-stakeholder-analyse"><span
+class="header-section-number">4.2.2.2</span> Interventionen im Bereich
+der Stakeholder Analyse</h4>
+<p>Auf der Grundlage der Stakeholder-Analyse und der Kraftfeldanalyse
+können Interventionen entwickelt werden, um das Projekt voranzutreiben
+und Widerstände zu verstehen, zu mindern bzw. positiv zu nutzen. Diese
+Interventionen können eine Reihe von Strategien umfassen, wie zum
+Beispiel zur Kommunikation, Weiterbildung, Teambuilding, Einbindung oder
+weitere Veränderungsmanagement-Initiativen.</p>
+<p>Ein Klassiker ist das sogenannte Sounding Board mit wichtigen,
+einflussreichen Stakeholdern zur Beratung, aber auch Steering-Commitees
+bestehend aus Führungskräften die regelmäßig bzgl. Status, Risiken und
+Entscheidungen eingebunden werden.</p>
+<p>Die Interventionen sollten darauf abzielen, die treibenden Kräfte zu
+stärken und die hemmenden Kräfte zu mindern oder zu nutzen, zum Beispiel
+zum Verständnis der Ängste und Widerstände. Vor allem sollte immer
+wieder auf die Stakeholder geachtet werden.</p>
+<p>Je nach Projektphase werden andere Stakeholder wichtig. Besonders bei
+Reorganisationen oder Jobwechsel von Führungskräften muss immer wieder
+neu ausgelotet, überzeugt und ausgerichtet werden.</p>
+<p><a
+href="https://blogs.sap.com/2023/06/30/skillset-und-mindset-das-war-das-sap-training-und-change-forum-2023/">Quelle:
+Prof. Ina Kohl, Vortrag</a><a
+href="https://blogs.sap.com/2023/06/30/skillset-und-mindset-das-war-das-sap-training-und-change-forum-2023/"></a></p>
+<h4 data-number="4.2.2.3" id="umgang-mit-widerständen"><span
+class="header-section-number">4.2.2.3</span> Umgang mit
+Widerständen</h4>
+<p>Widerstände verschiedener Stakeholder sind eine der großen
+Herausforderungen und Aufgaben im Change-Management. Daher gehen wir auf
+das Thema näher ein. Häufig liegt bei der Sicht auf Widerstände der
+fundamentale Attribuierungsfehler vor - man erkennt die eigentlichen
+Gründe nicht an. Zentral ist die Haltung, gute Gründe oder Funktionen
+für Widerstände verstehen zu wollen. Widerstände sind auch Energie, die
+man nutzen kann und sollte. Die wichtigste Frage lautet: Was brauchen
+die anderen, um beim Change mitzumachen? Aber auch warum bestehen welche
+Widerstände?</p>
+<p><strong>Formen von Widerstand</strong></p>
+<p>Es gibt vielfältige Formen von Widerständen, die es zu erkennen
+gilt:</p>
+<ul>
+<li>Offener Widerstand: Direkte Ablehnung, Kritik und Opposition</li>
+<li>Verdeckter Widerstand: eine scheinbare Zustimmung kann sich
+unterschiedlich äußern. „Violent Politeness” ist z.B. eine übertriebene
+Freundlichkeit, bei gelernter Hilflosigkeit haben Menschen schon
+innerlich aufgegeben (es ändert sich bei uns eh nichts, ich habe eh
+nichts zu sagen)**<br />
+</li>
+<li>Strukturelle Widerstände: Komplexität, Beharrungskräfte im System,
+Zielkonflikte</li>
+</ul>
+<p><strong>Ursachen für Widerstände können vielfältig sein:</strong></p>
+<ul>
+<li>Mangelnde Verabschiedung und Würdigung des Alten (“Sprung in die
+Zukunft ist zu schnell”)</li>
+<li>Bedeutungsverlust des Individuums durch stärkeren Fokus auf Rollen,
+Transparenz, Messbarkeit</li>
+<li>Informationsdefizite und mangelnde Kommunikation</li>
+<li>Persönliche Betroffenheit, Verlustängste (Status, Kompetenzen,
+Routinen)</li>
+<li>Mangelnde Akzeptanz der Notwendigkeit oder des Nutzens der
+Veränderung</li>
+<li>Fehlende Beteiligung und Mitbestimmung der Stakeholder</li>
+<li>Überforderung oder mangelnde Qualifizierung für die neuen
+Anforderungen</li>
+<li>Systembedingte Ziel-, Ressourcen- und Kulturdiskrepanzen</li>
+<li>Persönlichkeit (sehr kritisch, defizitorientiert und ängstlich gegen
+Änderungen per se)</li>
+</ul>
+<p><strong>Tipps für die Umsetzung:</strong></p>
+<ul>
+<li>Gründliche Stakeholder-Analyse und kontinuierliches
+Stakeholdermanagement inkl. Blick auf das System, nicht nur auf die
+Individuen</li>
+<li>Stärken der Leadership-Rolle und des Involvements der
+Stakeholder</li>
+<li>Offene Haltung gegenüber Widerständen - Gründe ernsthaft
+ergründen</li>
+<li>Ausreichend Raum für Übergangs- und Reflexionsphasen einplanen</li>
+<li>Individuelle Begleitung von Schlüsselpersonen die
+Wissensträger*innen sind und hohen Einfluss haben</li>
+<li>Strukturgebende Maßnahmen wie Rituale und Meetings zur
+Orientierung</li>
+<li>Rollen so gestalten, dass sie sich mit den Bedürfnissen und
+Erwartungen der Organisation decken, ohne das Individuum emotional zu
+destabilisieren.</li>
+<li>Professionelle Unterstützung wie Coaching bei Anpassungsstörungen in
+Betracht ziehen</li>
+<li>An Veränderungskompetenz und positiver Zukunftsvision arbeiten</li>
+<li>Berücksichtigung von Machtverhältnissen, Interessenkonflikten und
+kulturellen Faktoren</li>
+<li>Beteiligung und Inklusion relevanter Subsysteme und
+Perspektiven</li>
+<li>Offener Diskurs und Reflexionsräume zur Entwicklung neuer
+Verhaltens- und Denkweisen</li>
+<li>Anpassung von Strukturen, Prozessen und Anreizsystemen zur
+Systemveränderung</li>
+<li>Ultima Ratio ist die Trennungskultur. Dabei ist immer zu klären, ob
+es um das Wollen oder das Können geht. Fehlendes Können kann unterstützt
+werden, bei fehlendem Wollen sollte die Trennung reflektieren
+werden.</li>
+</ul>
+<p><strong>Literatur</strong></p>
+<ul>
+<li><a
+href="https://community.sap.com/t5/sap-training-and-change-management/sap-training-und-change-kaffee-ecke-widerst%C3%A4nde-im-change-ursachen-formen/ba-p/13771310">SAP
+Training und Change Kaffee Ecke: Widerstände im Change – Ursachen,
+Formen und möglicher Umgang</a></li>
+</ul>
+<h2 data-number="4.3" id="kommunikation-im-change-management"><span
+class="header-section-number">4.3</span> Kommunikation im
+Change-Management</h2>
+<h3 data-number="4.3.1"
+id="why---warum-ist-kommunikation-wichtig-im-change-management"><span
+class="header-section-number">4.3.1</span> Why - Warum ist Kommunikation
+wichtig im Change-Management?</h3>
+<p>Kommunikationsmaßnahmen für verschiedene Stakeholder Gruppen
+bezwecken, dass die Mitarbeitenden die Veränderungen verstehen,
+akzeptieren, konstruktiv und im besten Fall motiviert daran teilhaben
+können.</p>
+<p>Kommunikation ist also weit mehr als Information: Change
+Kommunikation zielt darauf ab, die richtige Botschaft zur richtigen Zeit
+an die richtigen Personen zu übermitteln (WAS, WANN, FÜR WEN). Es
+handelt sich um die systematische Planung, Durchführung, Überwachung und
+Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen
+Transformationsprojekts gegenüber den Projektbeteiligten. Soweit die
+gängige Praxis. Jedoch sollten wir uns nicht nur auf eine Übermittlung
+nach dem Sender-Empfänger Prinzip beschränken. Denn:</p>
+<ul>
+<li>gesagt ist nicht gehört</li>
+<li>gehört ist nicht verstanden</li>
+<li>verstanden ist nicht gekonnt</li>
+<li>gekonnt ist nicht angewandt</li>
+</ul>
+<p>Das heißt, dass das alleinige Senden nicht reicht, z.B. via E-Mail.
+Wir sollten die verschiedenen Ebenen und Ziele berücksichtigen</p>
+<p><strong>Vision &amp; Zielsetzung</strong></p>
+<p>Visionen und Zielsetzungen sind zentral beim Change-Management. Sie
+bieten Orientierung und motivieren die Beteiligten. Eine Vision ist das
+große, inspirierende Ziel, beispielsweise “Marktführerschaft in der
+digitalen Innovation”. Dies ist auch zentral für die Kommunikation.</p>
+<p>Zielsetzungen sind konkrete, messbare Schritte zur Erreichung der
+Vision, wie “Einführung einer neuen Software bis Quartal 4”. Sie sind
+entscheidend, um den Fortschritt zu messen und die Mitarbeitenden auf
+dem Weg zur Veränderung zu führen. Ohne klare Vision und Ziele kann der
+Veränderungsprozess unkoordiniert und ineffektiv werden.</p>
+<p>Gerade zu Beginn kann das noch allgemein gehalten sein. Wichtig ist,
+dass das Management und die relevanten Stakeholder sich darauf einigen.
+Es hilft auch der Link zur allgemeinen Strategie der Firma dabei, sowie
+ein motivierendes, emotional ansprechendes Motto. Beispielsweise ist die
+Strategie von Hugo Boss die führende digitale Modeplattform im
+Premium-Bereich zu sein. Das Motto der SAP S/4HANA Einführung ist dafür
+sprechend”ItS4HugoBoss”. Optimal ist eine Change Story, die den Bezug
+zum Erleben in der Gegenwart und der erwünschten Zukunft darstellt.</p>
+<h3 data-number="4.3.2" id="what-kommunikationsplan"><span
+class="header-section-number">4.3.2</span> What –
+Kommunikationsplan</h3>
+<p>Ein Kommunikationsplan beinhaltet eine strukturierte Strategie für
+die Kommunikation von Veränderungen an die Stakeholder. Er definiert
+Ziele, Zielgruppen, Botschaften, Kommunikationskanäle und den Zeitplan
+für die Übermittlung dieser Informationen. Ein effektiver Plan
+berücksichtigt auch Feedback-Mechanismen, um sicherzustellen, dass die
+Kommunikation wirksam ist und auf Bedenken oder Fragen angemessen
+reagiert wird.</p>
+<p>Der Kommunikationsplan ist somit ein entscheidendes Instrument, um
+sicherzustellen, dass alle Beteiligten während eines Wandels gut
+informiert sind und sich in den Prozess eingebunden fühlen.</p>
+<p>Abbildung 1 zeigt, wie ein beispielhafter Kommunikationsplan in einem
+Change-Projekt aussehen könnte.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Activity</th>
+<th style="text-align: left;">Stakeholder group</th>
+<th style="text-align: left;">Message</th>
+<th style="text-align: left;">Objectives</th>
+<th style="text-align: left;">Channel / delivery method</th>
+<th style="text-align: left;">Date / time</th>
+<th style="text-align: left;">Frequency</th>
+<th style="text-align: left;">Creator</th>
+<th style="text-align: left;">To be commu-nicated by</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>In der Literatur finden sich weitere, ähnliche Beispiele für
+Kommunikationspläne:</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Stakeholder</th>
+<th style="text-align: left;">Kommunikations-bedarf</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Medien</th>
+<th style="text-align: left;">Zeitpunkte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Bedenken</td>
+<td style="text-align: left;">Fragen</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Jobsicherheit, Mehrarbeit</td>
+<td style="text-align: left;">Auswirkungen des Change auf die
+Arbeit?</td>
+<td style="text-align: left;">Mitarbeitende über den Stand und Ziele
+informieren</td>
+<td style="text-align: left;">Mail</td>
+<td style="text-align: left;">Monatlich</td>
+</tr>
+<tr>
+<td style="text-align: left;">Produktion</td>
+<td style="text-align: left;">Jobsicherheit</td>
+<td style="text-align: left;">Werden die Jobs outgesourct?</td>
+<td style="text-align: left;">Klare Ausrichtung über Jobsicherheit
+geben</td>
+<td style="text-align: left;">Informations-veranstaltung</td>
+<td style="text-align: left;">Zu Beginn des Projektes</td>
+</tr>
+<tr>
+<td style="text-align: left;">Einkauf</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Was ändert sich am bisherigen Stand?</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Intranet</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Abbildung 2: Kommunikationsplan nach Stolzenberg &amp; Heberle</p>
+<h3 data-number="4.3.3"
+id="how-erstellung-der-kommunikationspläne"><span
+class="header-section-number">4.3.3</span> How – Erstellung der
+Kommunikationspläne</h3>
+<p>Es gibt verschiedene Wege, um einen Kommunikationsplan zu gestalten.
+Insbesondere Interviews oder Workshops können für die Erstellung des
+Plans sehr hilfreich sein, da die direkt betroffenen Personen aktiv in
+die Planung eingebunden werden. Individuellen Bedürfnisse und genaue
+Anforderungen bezüglich der zu vermittelnden Informationen können
+erfasst und im Kommunikationsplan gebündelt werden. Analysen am Beginn
+des Projekts – zum Beispiel die Readiness Analysen bieten hilfreiche
+Impulse für den Kommunikationsplan.</p>
+<p>Abhängig von der Größe des Veränderungsprojekts ist es möglicherweise
+nicht machbar, alle Beteiligten zu befragen oder in den Workshop
+einzubeziehen. Daher ist es entscheidend, dass die Teilnehmenden die
+Vielfalt der Stakeholder bestmöglich repräsentieren.</p>
+<p>Kommunikationspläne können auch je nach Change-Management-Modell,
+welches verwendet wird, unterschiedlich sein. Jedes Modell hat seine
+eigene Herangehensweise an Veränderungen und setzt den Fokus auf
+verschiedene Aspekte des Wandels, zum Beispiel wie Informationen
+präsentiert werden, welche Botschaften betont werden und wie die
+Mitarbeitenden während des Wandels unterstützt werden.</p>
+<p>Das Ziel bleibt, die Akzeptanz, das Verständnis und Wünsche (Desire)
+für die Veränderungen zu fördern bzw. die verschiedenen Ebenen
+abzubilden. Schön zeigt dies auch das ADKAR Modell (s. Kapitel 1.1.) wo
+u.a. zwischen Awareness, Desire, Wissen und Fertigkeit unterschieden
+wird. Hier gilt es pro Ebene unterschiedlich zu kommunizieren.</p>
+<p>Konkret kann ein Kommunikationsplan entlang folgender Schritte
+erstellt werden:</p>
+<ul>
+<li>Definiere die Ziele der Kommunikation.</li>
+<li>Bestimme, wer die Hauptzielgruppen sind – IT-Teams,
+Abteilungsleiter*innen, Endnuser usw. Jede Gruppe hat unterschiedliche
+Informationsbedürfnisse.</li>
+<li>Entscheide, welche Kommunikationsmittel am effektivsten sind:
+E-Mails, Meetings, Newsletter, Intranet, Chats, Präsentationen,
+Workshops, Videomeetings usw. Nutze mehrere Kanäle für verschiedene
+Botschaften (mehr dazu in Abschnitt Kommunikationsformate und
+-materialien).</li>
+<li>Erstelle eine Liste mit den Informationen, die kommuniziert werden
+müssen. Das kann den Projektfortschritt, Meilensteine, Zeitpläne,
+Risiken und Änderungen beinhalten.</li>
+<li>Entwickle einen Zeitplan, der angibt, wann und wie oft du mit den
+verschiedenen Zielgruppen kommunizieren wirst. Berücksichtige auch
+dringende oder regelmäßige Updates.</li>
+<li>Weise Verantwortlichkeiten für die Kommunikation klar zu. Wer wird
+welche Nachrichten verfassen, genehmigen, senden und überwachen?</li>
+<li>Richte Möglichkeiten ein, Feedback von den Mitarbeitenden zu
+erhalten. Das kann durch Umfragen, offene Diskussionen oder
+Feedback-Sessions erfolgen.</li>
+<li>Überprüfe und bewerte regelmäßig, wie effektiv die Kommunikation
+verläuft. Passe den Kommunikationsplan bei Bedarf an, um
+sicherzustellen, dass er den Anforderungen entspricht.</li>
+</ul>
+<p>Ein effektiver Kommunikationsplan ist flexibel und passt sich den
+sich ändernden Anforderungen des Projekts an. Es ist auch wichtig, dass
+die Kommunikation klar, präzise und zugänglich ist, um sicherzustellen,
+dass alle Mitarbeitenden die Informationen verstehen und darauf
+reagieren können.</p>
+<h3 data-number="4.3.4" id="kommunikationsformate-und-materialien"><span
+class="header-section-number">4.3.4</span> Kommunikationsformate und
+Materialien</h3>
+<p>Es empfiehlt sich, verschiedene Kommunikationsformate zu nutzen.</p>
+<p><strong>Synchrone &amp; asynchrone Formate</strong></p>
+<p>Kommunikation kann synchron (alle Kommunikationspartner*innen
+kommunizieren zur selben Zeit miteinander) und asynchron (die
+Kommunikation findet zeitversetzt statt) stattfinden. Beide
+Kommunikationsformen haben Vor- und Nachteile. Im Kommunikationsplan
+wird entsprechend der Zielsetzung und der Zielgruppe der jeweils
+passende Kommunikationskanal und das passende Format festgelegt.</p>
+<p><strong>Beispiele für synchrone Formate</strong></p>
+<ul>
+<li>Town-Hall-Meetings oder All-Hands-Meetings: Diese Meetings
+ermöglichen es Führungskräften, die Vision und Ziele des Wandels zu
+kommunizieren und im direkten Kontakt mit den Mitarbeitenden, Fragen zu
+beantworten. Das kann auch virtuell stattfinden.</li>
+<li>Change-Workshops oder Schulungen: Durch interaktive Workshops oder
+Schulungen können Mitarbeitende in den Change Prozess eingebunden
+werden. Sie erhalten die Möglichkeit, das Verständnis für den Wandel zu
+vertiefen, Fähigkeiten zu entwickeln und ihre Bedenken zu äußern.</li>
+<li>Regelmäßige Projekt-Meetings: Kurze, regelmäßige Besprechungen oder
+Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen zu
+beantworten und direktes Feedback von den Mitarbeitenden zu
+erhalten.</li>
+<li>Einbeziehung von Teamleiter*innen und direkten Vorgesetzten: Die
+Einbeziehung von Teamleiter*innen und direkten Vorgesetzten ist
+entscheidend, da sie oft die wichtigsten Ansprechpartner für
+Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft des
+Wandels unterstützen und ihre Teams effektiv informieren können (siehe
+auch unter Kapitel Projektrollen / Führungskräfte).</li>
+<li>Kommunikation durch Führungskräfte: Regelmäßige Kommunikation und
+offene Gespräche seitens der Führungskräfte, sei es durch persönliche
+Gespräche, bestehende Meetings, Newsletter oder E-Mails, um die
+Unterstützung für den Wandel zu demonstrieren und den Mitarbeitenden
+Orientierung zu bieten (siehe auch unter Kapitel Projektrollen /
+Führungskräfte).</li>
+</ul>
+<p><strong>Beispiele für asynchrone Formate</strong></p>
+<ul>
+<li>Visuelle Präsentationen, Poster und Infografiken können komplexe
+Informationen auf eine visuell ansprechende Weise darstellen. Sie sind
+hilfreich, um den Mitarbeitenden optisch zu vermitteln, warum der Wandel
+stattfindet und welche Auswirkungen er haben wird. Dies kann auch
+Betroffene erreichen, die beispielsweise nicht digital arbeiten z.B. in
+der Produktion.</li>
+<li>Change-Management-Plattformen und Intranet: Das Bereitstellen einer
+dedizierten Plattform oder eines Teils des Intranets für
+Change-Management kann den Mitarbeitenden kontinuierliche Updates,
+Ressourcen, FAQs, Diskussionsforen und Erfolgsgeschichten bieten.</li>
+<li>Mitarbeitende-Feedback: Einfache und zugängliche
+Feedback-Mechanismen wie Feedback-Boxen oder digitale Plattformen, auf
+denen Mitarbeitende ihre Gedanken, Bedenken oder Ideen äußern
+können.<br />
+</li>
+<li>Das Einrichten von Feedback-Tools wie Umfragen, offenen
+Diskussionsforen oder regelmäßigen Feedback-Sitzungen ermöglicht es den
+Mitarbeitenden, ihre Gedanken, Bedenken und Ideen zu äußern. Dem Change
+Team hilft es, die Inhalte anzupassen.</li>
+</ul>
+<p>Diese verschiedenen Kommunikationsformate ergänzen sich oft
+gegenseitig und helfen dabei, umfassend zu kommunizieren, Verständnis zu
+schaffen, Widerstand zu minimieren und eine positive Einstellung
+gegenüber dem Wandel zu fördern.</p>
+<h3 data-number="4.3.5" id="die-bedeutung-von-storytelling"><span
+class="header-section-number">4.3.5</span> Die Bedeutung von
+Storytelling</h3>
+<p>Storytelling spielt in Change-Projekten eine entscheidende Rolle, da
+es eine kraftvolle Möglichkeit bietet, Menschen auf emotionaler Ebene zu
+erreichen, ihre Aufmerksamkeit zu gewinnen und sie für den Wandel zu
+gewinnen:</p>
+<ul>
+<li>Emotionale Verbindung: Wenn Mitarbeitende sich mit einer Geschichte
+identifizieren können, wird der Wandel persönlicher und bedeutungsvoller
+für sie.</li>
+<li>Veranschaulichung von Veränderungen: Eine gut erzählte Geschichte
+kann komplexe Veränderungen und ihre Auswirkungen auf eine leicht
+verständliche Weise vermitteln. Sie kann abstrakte Konzepte greifbar und
+nachvollziehbar machen.</li>
+<li>Motivation und Inspiration: Geschichten zeigen, dass Veränderungen
+möglich sind und Erfolg bringen können.</li>
+<li>Kulturelle Ausrichtung: Vermittlung der Unternehmenskultur und
+Werte, sowie wie die neuen Werte im Kontext des Wandels gelebt werden
+können.</li>
+<li>Erinnerbarkeit und Weitergabe: Menschen erinnern sich besser an
+Geschichten als an Fakten. Eine gut erzählte Geschichte kann
+weitererzählt werden und sich so verbreiten, was die Botschaft des
+Wandels verstärkt.</li>
+</ul>
+<p>Beim Erzählen von Geschichten in Change-Projekten ist es wichtig, auf
+einige Schlüsselfaktoren zu achten:</p>
+<ul>
+<li>Relevanz und Authentizität</li>
+<li>Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig und
+welche Vorteile bringt er.</li>
+<li>Einbeziehung der Zuhörenden inkl. der Ermutigung, sich in die
+Geschichte hineinzuversetzen oder sich mit Charakteren zu
+identifizieren.</li>
+<li>Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung
+erzeugt und die Aufmerksamkeit der Zuhörenden aufrechterhält, ist
+wirkungsvoller.</li>
+</ul>
+<p>Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz
+und Unterstützung für den Wandel wesentlich verbessern.</p>
+<h3 data-number="4.3.6"
+id="tipps-und-best-practices-für-die-kommunikation-in-projekten"><span
+class="header-section-number">4.3.6</span> Tipps und Best Practices für
+die Kommunikation in Projekten</h3>
+<ul>
+<li>Kontinuierliche Kommunikation: Wiederholen wichtiger Informationen
+und des Fortschritts. Rituale helfen dabei wie monatliche AMA (Ask me
+anything) Sessions oder monatliche Newsletter.</li>
+<li>Vielfalt der Kanäle: Damit werden unterschiedliche Präferenzen
+angesprochen.<br />
+</li>
+<li>Einbeziehung von Meinungen und Feedback: Das ist ein zentrales
+Element – ob in Diskussionsforen oder offenen Sprechstunden.</li>
+<li>Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeitende
+und verschiedene Abteilungen haben unterschiedliche Perspektiven und
+Bedürfnisse.</li>
+<li>Messbare Ziele und Fortschritt anzeigen: Visualisieren von Erfolgen
+und Meilensteinen, um das Engagement und die Motivation
+aufrechtzuerhalten.</li>
+<li>Verschiedene Perspektiven herausarbeiten (auch für Endnutzer*innen):
+IT-Lösungen werden oft vom Management eingekauft. Der Mehrwert und die
+Änderungen für Mitarbeitende und Nutzer*innen ist oft nicht klar - dies
+gilt es z.B. anhand Personas herauszuarbeiten. In sogenannten Change
+Impact Analysen kann dann eingeschätzt werden, wie stark die Änderungen
+für die jeweilige Persona oder Rolle sind. Gerade bei hohem Change
+Impact ist es wichtig ausreichend bzw. mehrmals zu kommunizieren.</li>
+<li>Timing: Zu früh zu viel zu kommunizieren weckt evtl. Erwartungen,
+die noch nicht bedient werden können. Zu spät oder zu wenig zu
+kommunizieren ist u.U. ebenso suboptimal. Daher ist es wichtig, den
+Detailgrad zeitlich entsprechend zu kommunizieren und dabei transparent
+zu sein. Das bedeutet, klar zu kommunizieren, welche Schritte noch
+unklar sind und wie das Fortschreiten kommuniziert wird.**</li>
+<li>Nutzen von Multiplikator*innen und bestehenden Kanälen: Eigene
+Change Netzwerke oder bestehende Netzwerke wie Assistent*innen, Azubis,
+Führungskräfte-Meetings können zur Kommunikation genutzt werden.</li>
+</ul>
+<p><strong>Weitere Ressourcen</strong>:</p>
+<ul>
+<li>Nice to know: <a
+href="https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108">Kommunikation
+in SAP Change Management Projekten</a><a
+href="https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108">-</a>
+<a
+href="https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108">Kaffe</a>e<a
+href="https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108">-</a><a
+href="https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108">Ecken
+Recap</a></li>
+</ul>
+<h2 data-number="4.4"
+id="lernen-weiterbildung-im-change-management-von-lernbedarfsanalyse-lernformaten-bis-zum-regelmäßigen-lernen"><span
+class="header-section-number">4.4</span> Lernen &amp; Weiterbildung im
+Change-Management – von Lernbedarfsanalyse &amp; Lernformaten bis zum
+regelmäßigen Lernen</h2>
+<h3 data-number="4.4.1"
+id="die-bedeutung-von-lernen-im-change-management"><span
+class="header-section-number">4.4.1</span> Die Bedeutung von Lernen im
+Change-Management</h3>
+<p>Neben Wollen, Sollen und Dürfen ist das <strong>Können</strong>
+elementar im Rahmen von Veränderungen. Denn natürlich müssen die
+Betroffenen neue Prozesse, Aufgaben und letztendlich Software und IT
+verstehen und anwenden können.</p>
+<p>Üblicherweise wird im Trainingsbereich zwischen verschiedenen
+Zielgruppen bzw. Personas unterschieden. Das sind gewöhnlich Experten,
+die ein IT-System einführen und als erste mehr Details benötigen. User
+bedienen die Systeme oder Software, Manager und andere
+Stakeholdergruppen benötigen eher Überblickswissen bzgl. der Ziele,
+Vorteile oder des Impacts.</p>
+<p>Im Sinne der erfolgreichen Kompetenzentwicklung gilt es, allen vom
+Wandel Betroffenen Lernressourcen und Lern-Räume zur Verfügung zu
+stellen – also nicht nur von Training zu sprechen im Sinne des
+Trainer-Schüler Narrativs.</p>
+<h3 data-number="4.4.2" id="durchführung-von-trainingsprojekten"><span
+class="header-section-number">4.4.2</span> Durchführung von
+Trainingsprojekten</h3>
+<p>Bei der Durchführung einer Trainingsbedarfsanalyse für IT-Projekte
+können verschiedene Vorgehensmodelle verwendet werden, die den Prozess
+strukturieren und optimieren. Ein häufig genutztes Vorgehensmodell ist
+immer noch das ADDIE-Modell, das auch als allgemeines Modell für
+Trainingsmanagement genutzt wird:</p>
+<p><strong>Analyse</strong>: Die Durchführung einer
+Trainingsbedarfsanalyse für IT-Projekte ist ein wichtiger Schritt, um
+sicherzustellen, dass das Team über die erforderlichen Fähigkeiten und
+Kenntnisse verfügt, um das Projekt erfolgreich umzusetzen. Eine
+gründliche Analyse hilft, die Lücken im Wissen und den Schulungsbedarf
+der Teammitglieder zu identifizieren, um gezielte Maßnahmen zur
+Kompetenzentwicklung ergreifen zu können. In dieser Phase werden die
+Projektziele und Anforderungen definiert. Es werden Interviews oder
+Befragungen mit Stakeholdern geführt, um den aktuellen Kenntnisstand der
+verschiedenen Personas zu bewerten und die erforderlichen Kompetenzen zu
+ermitteln. Ist- und Soll-Einschätzung können natürlich auch per Umfrage
+und Selbsteinschätzung durchgeführt werden. Gewöhnlich wird das auf der
+Ebene der Job-Rolle gemacht.</p>
+<p><strong>Design</strong>: Auf Basis der Analyseergebnisse wird ein
+Schulungsplan entwickelt. Dieser umfasst die Auswahl der geeigneten
+Schulungsziele, -methoden, -inhalte und -ressourcen. Es wird ebenfalls
+festgelegt, wie die Schulungsmaßnahmen und Ziele evaluiert werden
+sollen.</p>
+<p><strong>Entwicklung</strong> (<strong>Development</strong>): In
+dieser Phase werden die Schulungsmaterialien oder Lernressourcen
+erstellt oder angepasst. Das können interne Schulungsunterlagen, externe
+Schulungsressourcen oder Online-Lerninhalte sein. Es wird auch der
+Zeitplan erstellt.</p>
+<p><strong>Implementierung</strong>: Die Schulungsmaßnahmen werden gemäß
+des Schulungsplans umgesetzt. Das kann beispielsweise durch interne
+Schulungen, externe Schulungsanbieter oder Online-Lernplattformen
+erfolgen.</p>
+<p><strong>Evaluation</strong>: Nach Abschluss der Schulungsmaßnahmen
+wird ihre Effektivität bewertet. Das kann durch Tests, Feedback der
+Teilnehmenden oder Leistungsbeobachtungen erfolgen. Die Ergebnisse der
+Evaluation fließen in die zukünftige Planung von Schulungsmaßnahmen ein.
+Kennzahlen wie geschätzter Transfer in den Arbeitsalltag, Lernstunden,
+Zufriedenheit, Wissen durch Tests, Outputs &amp; Impact durch
+Schätzungen oder Messungen sind die gängigsten Ansätze dabei. Mehr Infos
+zu Evaluation sind <a
+href="https://www.linkedin.com/pulse/how-measure-benefits-training-people-development-thomas-jenewein/">hier
+im Artikel</a> zu finden.</p>
+<p>Tipps:</p>
+<ul>
+<li>Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender und
+Experten, sondern an alle Stakeholder, wie z.B. Manager. Denn Lernen und
+Training sind ein starkes Element der Einbindung und Motivation.</li>
+<li>Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte
+Performance – nicht auf Top-Talents oder extreme Expert*innen – das ist
+meist zu viel und komplex.<br />
+</li>
+<li>Ob bei Design oder Evaluation: achtet auf den Transfer in den
+Arbeitsalltag.</li>
+</ul>
+<h3 data-number="4.4.3"
+id="formate-konzept-incl.-train-the-trainer-ansatz-ttt"><span
+class="header-section-number">4.4.3</span> Formate &amp; Konzept
+incl. Train the Trainer Ansatz (TTT)</h3>
+<p>Klassische Formate sind sicher Workshops &amp; Trainings in Präsenz
+oder virtuell. Inzwischen hat sich ein Methoden Mix etabliert – auch
+Blended Learning genannt. Hier wechseln sich Lernphasen des
+individuellen selbstgesteuerten Lernens – wie z.B. E-Learning oder
+Videos – mit Trainer-geführtem Lernen in Gruppen incl. Fragen &amp;
+Anleitungen sowie Austausch &amp; Reflexion ab. Kurze Einstufungstests
+zu Beginn helfen zur Personalisierung des Lernens. Während des Lernens
+und am Ende dienen Tests und Fragen der Reflektion und Festigung des
+Lernens.</p>
+<p>Neben formellen Angeboten wie E-Learning macht im Change vor allem
+erfahrungsbasiertes, experimentelles Lernen Sinn – zum Beispiel Barcamps
+oder Hackathons.</p>
+<p>Lernen von und mit anderen wird in Communities of Practice,
+Online-Coaching oder Lerngruppen und Zirkeln angewandt.</p>
+<p>Gerade im IT-Bereich bietet sich Lernen im Arbeitsprozess und bei
+Bedarf an, damit weniger vergessen und das Gelernte besser angewandt
+wird. Dies lässt sich über Dokumentation in der IT-Applikation, digitale
+Assistenten und Chatbots bei fachlichen Themen oder virtuelles Mentoring
+und Coaching bei Verhaltensthemen umsetzen. Dieser Ansatz wird auch
+Workplace Learning genannt.</p>
+<p>Updates und kontinuierliches Lernen sollte zu Beginn eingeplant
+werden. Im Workplace Learning werden die klassischen Lerninhalte immer
+kürzer. Communities und kurze Formate wie regelmäßige Fragerunden und
+Videos, am besten in einem Mix aus Pull und Push, sind hier hilfreich.
+Push kann durch Newsletter, Mails oder Alerts im System geschehen – für
+Pull benötigt es vor allem eine gute Suche und kuratierte Lernportale
+(oft wird Sharepoint benutzt).</p>
+<p>Ein Klassiker im IT-Kontext sind Train the Trainer Ansätze (TTT). Oft
+sind Experten aus Beratungen, vom Hersteller oder der Inhouse-IT die
+sog. Head-Trainer, welche die Multiplikatoren ausbilden. Diese sind oft
+die Keyuser, die später auch die IT-Lösungen supporten. Dieses
+Multiplikatoren-System vereinfacht die Skalierung der Vermittlung der
+Lerninhalte und des Transfers.</p>
+<p>Unabhängig vom Format ist es wichtig, sicher zu stellen, dass die
+jeweiligen Zielgruppen zum richtigen Zeitpunkt das benötigte Wissen und
+notwendigen Kompetenzen haben. Zu früh ist dabei genauso suboptimal wie
+zu spät.</p>
+<h3 data-number="4.4.4" id="zwei-modelle-zur-methodenauswahl"><span
+class="header-section-number">4.4.4</span> Zwei Modelle zur
+Methodenauswahl</h3>
+<p>Es gibt nicht die beste Methode. Methoden und Medien sollten immer
+abhängig von den Lernzielen &amp; Zielgruppen gewählt werden. Die
+folgenden Modelle können dabei helfen:</p>
+<p><strong>5 Moments of Need</strong></p>
+<p>Nach Mosher &amp; Gottfiedson, <a
+href="https://www.5momentsofneed.de/5-moments-of-need">weitere Infos
+hier</a>.</p>
+<ol type="1">
+<li>Neues Wissen aneignen<br />
+</li>
+<li>Wissen vertiefen</li>
+<li>Wissen anwenden</li>
+<li>Probleme bei der Anwendung lösen</li>
+<li>Auf Veränderungen reagieren können</li>
+</ol>
+<p>Zu Beginn macht eher formelles Lernen Sinn wie unter Formaten &amp;
+Konzept beschrieben, danach immer mehr informelles Lernen in kleinen
+Einheiten, nah am Arbeitsprozess.</p>
+<p><strong>70:20:10 Modell</strong></p>
+<p>Die Grundlage des Modells waren Umfragen bei Führungskräften zur
+Frage, wie sie ihre Kompetenzen erworben haben. Es ist ein hilfreiches
+Modell da es die Relevanz verschiedener Lernformate zeit, auch wenn die
+Prozentzahlen, je nach Faktoren wie z. B. Skill Level, variieren.</p>
+<ul>
+<li><strong>70%</strong> steht für Erfahrung und Praxis. Das bedeutet,
+dass die Kompetenzentwicklung durch direkte Anwendung von Fähigkeiten am
+Arbeitsplatz oder in realen Situationen erfolgt. Dabei wird der
+Schwerpunkt auf das Lernen durch Handeln, Experimentieren und Reflexion
+gesetzt.</li>
+<li><strong>20%</strong> steht für Lernen durch soziale Interaktion.
+Dies beinhaltet den Austausch von Wissen und Erfahrungen mit anderen
+Menschen, sei es durch Mentoring, Coaching, Zusammenarbeit, Diskussionen
+in Communities oder informelles Lernen im Team. Durch den Dialog und die
+Zusammenarbeit mit anderen können neue Perspektiven gewonnen und
+Lernprozesse vertieft werden.</li>
+<li><strong>10%</strong> steht für formale Bildung. Dies umfasst
+strukturierte Lernaktivitäten wie formelle Schulungen, Kurse oder
+Workshops. Obwohl dieser Anteil am geringsten ist, kann er wertvolle
+Kenntnisse und Fähigkeiten vermitteln, insbesondere wenn es um
+theoretisches Hintergrundwissen oder komplexe Konzepte geht. Ist man neu
+in einem Thema, macht sogar mehr formelles Lernen Sinn.</li>
+</ul>
+<p>Wie immer macht es der Mix – das Modell zeigt auf, dass nicht nur
+kognitives formelles Lernen wichtig ist.</p>
+<p><strong>Quellen und weitere Informationen</strong></p>
+<ul>
+<li><a href="https://colearn.de/">Austausch zu Lernen im Unternehmen:
+Corporate Learning Community </a></li>
+<li>Für allgemeine Kompetenz-Bewertungen sind z.B. das digitale
+Rahmenmodell der EU <a
+href="https://joint-research-centre.ec.europa.eu/digcomp_en">DigiComp
+ </a>sowie die europäische Skill &amp; Job Datenbank <a
+href="https://esco.ec.europa.eu/">ESCO</a> als Anker interessant.</li>
+<li><a
+href="https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a">Learning
+Design Canvas vom internen SAP Learning Team</a></li>
+<li><a
+href="https://community.sap.com/t5/sap-training-and-change-management/generative-k%C3%BCnstliche-intelligenz-im-corporate-learning-use-cases-beispiele/ba-p/13767754">Generative
+Künstliche Intelligenz im Corporate Learning: Use Cases, Beispiele und
+Tips - Artikel von T. Jenewein</a>/&gt;</li>
+</ul>
+<h2 data-number="4.5" id="communities-im-change-management"><span
+class="header-section-number">4.5</span> Communities im
+Change-Management</h2>
+<h3 data-number="4.5.1" id="was-sind-change-communities"><span
+class="header-section-number">4.5.1</span> Was sind Change
+Communities?</h3>
+<p>Change Communities sind spezialisierte unternehmensinterne Netzwerke,
+die aktiv in Veränderungsinitiativen eingebunden sind. Sie fördern nicht
+nur den Informationsaustausch und die Transparenz, sondern unterstützen
+auch die Kompetenzentwicklung und bieten eine Plattform für Beteiligung
+und Mitbestimmung. Diese Communities zeichnen sich durch eine klare
+Organisationsstruktur mit spezifischen Rollen wie Change Agents und
+Change Coaches aus.</p>
+<p>Das Gemeinschaftsgefühl in der Community bietet einen mental,
+physisch und emotional sicheren Raum und kann dazu beitragen, dass das
+Vertrauen in die eigene Selbstwirksamkeit gestärkt und die Motivation
+zur Nutzung der neuen Technologien / Systeme erhöht wird.</p>
+<p>Sie fördern damit einen aktiven Wissensaustausch und führen so zu
+einem größeren Engagement der Beteiligten. Die Mitglieder*innen lernen
+voneinander, experimentieren mit Anwendungsfällen zur Nutzung der neuen
+Technologien / Systeme und generieren eigene Ideen zur Weiterentwicklung
+dieser Themen.</p>
+<h3 data-number="4.5.2"
+id="besonderheiten-von-change-communities-im-vergleich-zu-anderen-internen-communities"><span
+class="header-section-number">4.5.2</span> Besonderheiten von Change
+Communities im Vergleich zu anderen internen Communities</h3>
+<ul>
+<li><strong>Einbindung in Veränderungsinitiativen:</strong> Change
+Communities sind tief in die Planung, Umsetzung und Evaluierung von
+Change-Projekten involviert. Sie arbeiten eng mit Change-Sponsor*innen
+und anderen Stakeholdern zusammen, um die praktischen Aspekte der
+Veränderung erfolgreich zu gestalten.</li>
+<li><strong>Organisationsstruktur und Rollen:</strong> Im Gegensatz zu
+allgemeinen internen Communities verfügen Change Communities über klar
+definierte Rollen und Verantwortlichkeiten. Die aktiven Mitglieder*innen
+sind oft intrinsisch motivierte Individuen, die als Change Agents
+fungieren und als Ansprechpartner*innen und Mentor*innen für andere
+Mitarbeitende dienen.</li>
+<li><strong>Fokus auf Veränderungsinhalte:</strong> Change Communities
+sind darauf ausgerichtet, Wissen und Erfahrungen in Bezug auf bestehende
+Veränderungsinitiativen, Organisationsentwicklung und
+Transformationsprozesse zu sammeln und zu teilen: Die Community-Themen
+orientieren sich an Unternehmens-Strategien und leiten daraus Methoden
+und Aktivitäten ab, um Veränderungsprozesse erfolgreich zu gestalten.
+Die Community spiegelt Erfahrungen, Meinungen an das Change Programm
+zurück und gewährleistet durch den Roll-in &amp; Rollout bessere
+Transparenz für Betroffene, Change Programm &amp; Management.</li>
+<li><strong>Fokus auf Kompetenzentwicklung:</strong> Change Communities
+sind darauf ausgelegt, die Veränderungskompetenz ihrer Mitglieder*innen
+zu entwickeln zu verbessern und an andere Mitarbeitende der Organisation
+weiterzugeben. Dazu sammelt die Change-Community bewährte Praktiken und
+organisiert den Austausch von Erfahrungen, Weiterbildung, Peer-Learning
+und praktische Übungen, um sicherzustellen, dass die Community
+Mitglieder*innen in der Lage sind, effektiv auf Veränderungen zu
+reagieren.</li>
+</ul>
+<h3 data-number="4.5.3" id="formate-von-change-communities"><span
+class="header-section-number">4.5.3</span> Formate von (Change)
+Communities</h3>
+<p>Change Communities können in verschiedenen Formaten organisiert
+werden, die auf spezifische Anforderungen zugeschnitten sind:</p>
+<ul>
+<li>Virtuelle Communities: Nutzen digitale Plattformen für den
+Wissensaustausch über geografische Grenzen hinweg, ideal für global
+agierende Unternehmen oder Remote-Arbeit.</li>
+<li>Physische Communities: Treffen sich regelmäßig persönlich, um durch
+direkten Austausch und sozialen Zusammenhalt Veränderungen zu
+fördern.</li>
+<li>Hybride Communities: Kombinieren persönliche Treffen mit virtuellen
+Interaktionen, um eine breitere Teilnahme zu ermöglichen.</li>
+<li>Themenbasierte Communities: Fokussieren sich auf spezifische Aspekte
+wie „Digitale Transformation“ oder „Agiles Arbeiten“ und bieten eine
+Plattform für Expertenaustausch.</li>
+<li>Communities of Practice (CoP): Konzentrieren sich langfristig auf
+die kontinuierliche Entwicklung und den Austausch von Wissen und Best
+Practices in einem bestimmten Fachgebiet.</li>
+</ul>
+<h3 data-number="4.5.4" id="wie-change-communities-funktionieren"><span
+class="header-section-number">4.5.4</span> Wie Change Communities
+funktionieren</h3>
+<p>Damit Change Communities effektiv sind, benötigen sie bestimmte
+Strukturen und Mechanismen:</p>
+<ul>
+<li>Regelmäßige Interaktion: Regelmäßige Treffen und Diskussionen
+fördern das Vertrauen und die Bindung der Mitglieder*innen.</li>
+<li>Klare Zielsetzungen und Vision: Eine klare Vision und spezifische
+Ziele leiten die Aktivitäten der Community und halten sie auf Kurs.</li>
+<li>Verantwortlichkeiten und Rollenverteilung: Klare Rollen, wie
+Community Manager*innen oder Moderator*innen, helfen, das Engagement zu
+fördern.</li>
+<li>Wissensmanagement und Dokumentation: Effektive Communities
+dokumentieren relevante Informationen und machen sie für die
+Mitglieder*innen zugänglich.</li>
+<li>Feedback- und Anpassungsmechanismen: Regelmäßige Feedback-Schleifen
+ermöglichen es, Prozesse zu überprüfen und anzupassen.</li>
+<li>Peer Learning und Mentoring: Fördert den Austausch von Wissen und
+Erfahrungen zwischen den Mitglieder*innen.</li>
+<li>Technische Infrastruktur: Die richtige technische Plattform ist
+entscheidend und sollte Tools für Kommunikation, Kollaboration und
+Wissensaustausch bieten.</li>
+<li>Engagement-Strategien: Spezielle Aktivitäten und Anreize erhöhen das
+Engagement der Mitglieder*innen und den Mehrwert der Community.</li>
+</ul>
+<h3 data-number="4.5.5"
+id="best-practices-bei-der-implementierung-von-change-communities"><span
+class="header-section-number">4.5.5</span> Best Practices bei der
+Implementierung von Change Communities</h3>
+<ul>
+<li>Frühzeitiger Aufbau und Integration: Beginne frühzeitig mit dem
+Aufbau der Community und integriere sie in die Gesamtstrategie des
+Change-Prozesses.</li>
+<li>Pilotprojekte und schrittweises Wachstum: Starte mit kleineren
+Projekten, um die Community-Struktur zu testen und erste Erfolge zu
+erzielen.</li>
+<li>Kulturelle Anpassung und Sensibilität: Achte darauf, dass die
+Community-Kultur mit der Unternehmenskultur übereinstimmt.</li>
+</ul>
+<p><strong>Weiterführende Links</strong></p>
+<ul>
+<li><a href="https://www.linkedin.com/groups/8682361/">Community Gruppe
+auf LinkedIn von SAP zu Change Management</a><a
+href="https://events.sap.com/de/sap-change-training/de/home"></a><a
+href="https://events.sap.com/de/sap-change-training/de/home">–</a> kommt
+dazu bei Interesse!</li>
+<li><a
+href="https://events.sap.com/de/sap-change-training/de/home">Kaffee</a><a
+href="https://events.sap.com/de/sap-change-training/de/home">-</a><a
+href="https://events.sap.com/de/sap-change-training/de/home">Ecke (AMA)
+zu Change Themen</a><a
+href="https://events.sap.com/de/sap-change-training/de/home"></a><br />
+</li>
+<li><a
+href="https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/">Blog
+zu Engagement in Communities</a><a
+href="https://www.linkedin.com/pulse/engagement-und-mitmachen-f%C3%B6rdern-communities-mit-tanja-jenewein/"></a></li>
+<li><a href="https://cogneon.github.io/lernos-cmgmt/de/">lernOS
+Leitfaden für Community Management</a></li>
+<li><a
+href="https://www.communitymanagement.de/community-canvas/">Website zu
+Communities</a> (Tanja Laub)</li>
+<li><a
+href="https://www.communitymanagement.de/community-management/community-management-studien-trends-und-konferenzen/">Community
+Management Studien, Trends und Konferenzen</a></li>
+<li><a href="https://communityroundtable.com/">The Community
+Roundtable</a></li>
+<li><a href="https://bvcm.org/">BVCM (Bundesverband Community
+Management)</a></li>
+</ul>
+<p><strong>Good Practices @ Continental:</strong></p>
+<ul>
+<li><a
+href="https://harald-schirmer.de/2014/03/11/social-media-adoption-the-guide-concept/">Social
+Media Adoption</a><a
+href="https://harald-schirmer.de/2014/03/11/social-media-adoption-the-guide-concept/">-</a>
+<a
+href="https://harald-schirmer.de/2014/03/11/social-media-adoption-the-guide-concept/">the
+GUIDE concept » Harald</a><a
+href="https://harald-schirmer.de/2014/03/11/social-media-adoption-the-guide-concept/">-</a><a
+href="https://harald-schirmer.de/2014/03/11/social-media-adoption-the-guide-concept/">Schirmer.de</a></li>
+<li><a
+href="https://harald-schirmer.de/2014/04/17/lessons-learnt-from-social-media-implementation/">Lessons
+learned from Social Media Implementation » Harald</a><a
+href="https://harald-schirmer.de/2014/04/17/lessons-learnt-from-social-media-implementation/">-</a><a
+href="https://harald-schirmer.de/2014/04/17/lessons-learnt-from-social-media-implementation/">Schirmer.de</a></li>
+</ul>
+<h2 data-number="4.6"
+id="analysen-feedback-monitoring-kontinuierliche-verbesserung"><span
+class="header-section-number">4.6</span> Analysen, Feedback, Monitoring
+&amp; kontinuierliche Verbesserung</h2>
+<p>Die Implementierung von Feedback-Systemen, Messungen und
+Monitoring-Tools sollte dazu beitragen, den Fortschritt von Projekten zu
+prüfen und sicherzustellen, dass die Ziele erreicht werden. Sie
+ermöglichen es, den Change-Prozess maßgeschneidert und auf den Kontext
+abgestimmt zu gestalten und regelmäßig zu optimieren.</p>
+<p>Analysen und Messungen können an unterschiedlichen Zeitpunkten
+stattfinden.</p>
+<ul>
+<li>Analysen vor dem Projekt: Ist-Analyse, Readiness Analyse oder
+Bedarfsanalyse</li>
+<li>Analysen während des Projekts: z.B. Business/ Operational Readiness,
+Change Impact, Puls-Fühlen</li>
+<li>Analysen nach dem Projekt zu User Adoption und zu nachhaltigen
+Veränderungen</li>
+</ul>
+<p>Hierbei sollten frühzeitig Erwartungen geklärt und festgelegt werden,
+wie die Ergebnisse der Analysen genutzt werden sollen. Wichtig ist, dass
+die Messungen nicht nur Daten generieren, sondern auch klare
+Handlungsanweisungen ableiten. Bei der Definition der erfassenden
+Parameter sind auch KPIs zu berücksichtigen, die für wichtige
+Stakeholder relevant sind.</p>
+<p>Im Folgenden werden die Change Readiness Analyse und die Change
+Impact Analyse als zwei wichtige Instrumente detaillierter
+dargestellt:</p>
+<h3 data-number="4.6.1" id="change-readiness-analyse"><span
+class="header-section-number">4.6.1</span> Change Readiness Analyse</h3>
+<p>Die <strong>Change Readiness Analyse</strong> ist in IT-Projekten ein
+wichtiges Instrument, um die Bereitschaft einer Organisation für
+bevorstehende Veränderungen zu bewerten. Sie hilft dabei, mögliche
+Hindernisse zu identifizieren und gezielte Maßnahmen zu entwickeln, um
+die Akzeptanz und erfolgreiche Umsetzung des Change zu fördern. Die
+Durchführung einer Change Readiness Analyse beinhaltet in der Regel
+folgende Punkte:</p>
+<ul>
+<li><strong>Stakeholder-Identifikation</strong>: Es ist entscheidend zu
+wissen, wer von der Veränderung betroffen ist und wer als Schlüsselfigur
+fungieren kann, um die Veränderung zu unterstützen oder zu
+behindern.</li>
+<li><strong>Erhebungsinstrumente</strong>: Diese können Workshops,
+Interviews oder Umfragen umfassen. Wichtig ist, die allgemeine
+Bereitschaft und Einstellung zur Veränderung zu messen.</li>
+<li>Sie umfasst typischerweise Sentiments wie:
+<ul>
+<li><strong>Bewusstsein &amp; Awareness</strong>: Verstehen die
+Mitarbeitenden die Notwendigkeit der Veränderung?</li>
+<li><strong>Verständnis</strong>: Haben sie ein klares Bild von den
+Veränderungen und ihrer Rolle dabei?</li>
+<li><strong>Akzeptanz</strong>: Wird die Veränderung positiv bewertet
+und unterstützt?</li>
+<li><strong>Fähigkeit</strong>: Fühlen sich die Mitarbeitenden in der
+Lage, die Veränderung umzusetzen, und verfügen sie über die notwendigen
+Ressourcen?</li>
+<li><strong>Engagement &amp; Commitment</strong>: Sind die
+Mitarbeitenden bereit, aktiv an der Umsetzung mitzuwirken und fühlen
+sich in ihren Bemühungen anerkannt?</li>
+<li><strong>Empowerment</strong>: Haben die Mitarbeitenden die nötige
+Unterstützung und Erlaubnis, um Veränderungen erfolgreich umzusetzen?
+Sind die Ressourcen für die Veränderung vorhanden?</li>
+</ul></li>
+</ul>
+<p>Es ist wichtig zu beachten, dass eine Change Readiness-Analyse kein
+einmaliges Ereignis ist, sondern ein fortlaufender Prozess, der während
+des gesamten Change-Managements durchgeführt werden sollte, um die
+fortlaufende Bereitschaft und mögliche Veränderungen im Laufe der Zeit
+zu überwachen.</p>
+<p>Die Unternehmenskultur hat einen erheblichen Einfluss auf die
+Bereitschaft zur Veränderung in einer Organisation. Eine offene und
+flexible Kultur kann die Akzeptanz von Veränderungen fördern, während
+eine starre oder negative Kultur Widerstand hervorrufen kann.</p>
+<p>Daher ist es wichtig, die Kultur in Change Readiness-Analysen zu
+berücksichtigen. Dies kann durch Umfragen, Interviews und Beobachtungen
+erfolgen. Die Ergebnisse können dann genutzt werden, um Maßnahmen zur
+Verbesserung der Bereitschaft zur Veränderung zu entwickeln, wie zum
+Beispiel die Förderung einer positiven Kultur oder die Verbesserung der
+Kommunikation. Untersuchungen haben gezeigt, dass u.a. das affektive
+Commitment ein wichtiger Faktor bei der Change Readiness ist.</p>
+<h3 data-number="4.6.2" id="change-impact-analysen-cia"><span
+class="header-section-number">4.6.2</span> Change Impact Analysen
+(CIA)</h3>
+<p>Das Ziel einer Change Impact Analyse ist es, die potenziellen
+Auswirkungen einer Änderung auf die Organisation, die Prozesse, die
+Systeme und die Menschen zu identifizieren und zu bewerten. Sie hilft
+dabei, Risiken zu minimieren, Widerstände zu managen und die Akzeptanz
+der Änderung zu erhöhen.</p>
+<p>Das Vorgehen bei einer Change Impact Analyse umfasst im Allgemeinen
+die folgenden Schritte:</p>
+<ul>
+<li>Identifizieren der geplanten Änderungen: Was wird sich ändern? Wie
+wird sich das auf die bestehenden Systeme, Prozesse, Organisation und
+Menschen auswirken?</li>
+<li>Bewertung der Auswirkungen: Wie groß ist die Auswirkung jeder
+Änderung? Wer wird davon betroffen sein und in welchem Ausmaß?</li>
+<li>Entwicklung von Maßnahmen zur Bewältigung der Auswirkungen: Was kann
+getan werden, um die negativen Auswirkungen zu minimieren und die
+positiven zu maximieren? Welche Ressourcen werden dafür benötigt?</li>
+</ul>
+<p>Eine Change Impact Analyse wird am besten in einem Workshop
+durchgeführt, bei dem Expert*innen aus verschiedenen organisatorischen
+Einheiten und mit unterschiedlichen Hintergründen teilnehmen. Dieser
+kollaborative Ansatz fördert ein gemeinsames Verständnis der
+bevorstehenden Herausforderungen unter den Projektbeteiligten. Nach der
+Bewertung ist es wichtig, die identifizierten Handlungsfelder mit
+geeigneten Aktivitäten anzugehen.</p>
+<p>Im SAP-Bereich wird dies gewöhnlich im Rahmen der Fit-to-Standard
+Workshops durchgeführt. Dabei wird geklärt, wie die Standardsoftware den
+Anforderungen des Unternehmens entspricht (Fit) und wo Anpassungen oder
+Änderungen notwendig sein könnten (Gap).</p>
+<p><code></code>Gerade diese Anpassungen und Änderungen sind die
+Änderungen, die in der Change Impact Analyse weiter geprüft werden.</p>
+<p>Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem
+Level incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer*innen.
+Toolseitig kann dies effektiv durch Prozess-Management Software wie SAP
+Signavio unterstützt werden.</p>
+<h3 data-number="4.6.3"
+id="sammlung-von-weiteren-analysen-und-good-practices"><span
+class="header-section-number">4.6.3</span> Sammlung von weiteren
+Analysen und Good Practices</h3>
+<p>Anbei eine weitere Sammlung verschiedener Analysen aus einer
+Community Session.</p>
+<p>Retrospektiven finden regelmäßig während des Projekts statt und geben
+Teams die Möglichkeit, ihre Arbeitsweise zu reflektieren und
+Verbesserungen zu identifizieren. Sie fördern eine offene Kommunikation
+und kontinuierliche Verbesserung. Man kann Sie zum Beispiel nach
+wichtigen Phasen bzw. Meilensteinen durchführen. Feedbackschleifen
+sorgen dafür, dass Informationen und Erkenntnisse aus der Arbeit direkt
+in den Prozess zurückfließen.</p>
+<p>Evaluationen hingegen sind umfassendere Überprüfungen am Ende eines
+Projekts (summativ) oder während einer Projektphase. Sie messen den
+Erfolg und ziehen Lehren für zukünftige Projekte.</p>
+<p>Als Methoden werden meist Instrumente aus der Sozialforschung sowie
+dem Design Thinking &amp; User Research genutzt.</p>
+<ul>
+<li>Qualitative Methoden: Strukturierte oder teilstrukturierte
+Interviews, Workshops, offene Befragungen und Beobachtungen.</li>
+<li>Quantitative Methoden: Fragebögen und regelmäßige Befragungen, um
+den “Puls” der Organisation zu fühlen. Besonders im IT-Umfeld können
+auch Daten wie die Anzahl der Support-Tickets oder die Nutzungsrate von
+Systemen wertvolle Einblicke bieten.</li>
+</ul>
+<p>Kontinuierliche Verbesserung für die Verankerung der Veränderungen
+z.B. nach Go-Live bedarf weiterer Analysen. So können regelmäßig
+Pulse-Checks zu den oben genannten Change-Sentinents durchgeführt
+werden. Nach großen Systemeinführungen folgen gewöhnlich kleine,
+regelmäßige Updates.</p>
+<p>Auch hier bedarf es Kommunikation und Weiterbildung. Wichtig ist,
+dass es weiter Prozesse und Ressourcen gibt, die sich darum kümmern. Zum
+Beispiel um das Updaten der Dokumentation, der Enduser*innen Trainings.
+Dies können Key-User*innen sein oder eine Community aus Change
+Agents.</p>
+<p>Im zunehmenden und regelmäßigen Wandel, der meist mit Unsicherheit
+und Stress verbunden ist, ist Resilienz von zunehmender Bedeutung. Eine
+resiliente stressresistente Belegschaft kann schneller und nachhaltiger
+auf Veränderungen reagieren, was die Wahrscheinlichkeit des Erfolgs von
+Change-Initiativen erhöht. Auch hier helfen bereits genannte Ansätze wie
+verfügbare Ressourcen, unterstützende kulturelle Werte wie
+psychologische Sicherheit oder Feedback Mechanismen.</p>
+<p><strong>Quellen und weiterführende Informationen</strong></p>
+<ul>
+<li><a
+href="https://www.linkedin.com/pulse/insightsin2change-you-ready-change-changeinsight/">Change
+Readiness</a></li>
+<li><a
+href="https://community.sap.com/t5/sap-training-and-change-management/change-readiness-analysen-in-wissenschaft-und-sap-praxis/ba-p/13919564">Change
+Readiness Analysen in Wissenschaft und SAP-Praxis</a></li>
+</ul>
+<h2 data-number="4.7"
+id="die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"><span
+class="header-section-number">4.7</span> Die Rolle organisatorischer
+Veränderungen in IT- und Cloud-Projekten</h2>
+<p>Die Digitalisierung stellt Organisationen vor fundamentale
+Herausforderungen und erfordert tiefgreifende Veränderungen. Die IT wird
+zur zentralen Schaltstelle für moderne Geschäftsprozesse. Diese
+Transformation verlangt nicht nur technologische Anpassungen, sondern
+auch eine grundlegende Neuausrichtung von Organisationsstrukturen und
+Arbeitsweisen.</p>
+<p><strong>Historisch gewachsene IT-Strukturen und
+Pfadabhängigkeit</strong></p>
+<p>Viele Unternehmen kämpfen mit veralteten “Legacy-Systemen”, die
+modernen digitalen Anforderungen nicht mehr gerecht werden. Diese
+Systeme behindern oft die Einführung neuer Technologien. Zudem führt
+Pfadabhängigkeit dazu, dass etablierte Prozesse und Fähigkeiten den
+notwendigen Wandel blockieren.</p>
+<p>Forschungsergebnisse zeigen, dass erfolgreiche IT-Transformationen
+eine ganzheitliche Betrachtung von Technologie, Prozessen und
+Mitarbeitenden erfordern. So können digitalen Transformationsprojekte an
+mangelnder Berücksichtigung organisatorischer Aspekte scheitern.</p>
+<p>Neue Führungs- und Zusammenarbeitsmodelle</p>
+<p>Moderne IT-Lösungen erfordern flexiblere Organisationsmodelle. Agile
+Methoden wie Scrum oder DevOps haben sich als effektiv erwiesen, um
+schneller auf technologische Veränderungen zu reagieren. Diese Ansätze
+basieren auf Selbstorganisation, kontinuierlichem Feedback und
+bereichsübergreifender Zusammenarbeit.</p>
+<p>Bei Outsourcing- und Insourcing-Entscheidungen sollte strategisch
+vorgegangen werden. Während das Outsourcing von Cloud-Management oft
+sinnvoll ist, kann das Insourcing von Schlüsselkompetenzen wie
+Cloud-Strategie notwendig sein, um Wettbewerbsvorteile zu sichern.</p>
+<p>Die Rolle der IT in Restrukturierungen sollte differenziert
+betrachtet werden:</p>
+<ul>
+<li>IT als Befähigerin des Business</li>
+<li>IT als Treiberin neuer Wertschöpfungspotenziale</li>
+<li>Zentralisierung vs. Dezentralisierung je nach Funktion (Back-Office
+vs. kundennahe Prozesse)</li>
+</ul>
+<p><strong>Notwendigkeit neuer Fähigkeiten und Überwindung alter
+Statusbilder</strong></p>
+<p>Um neue Technologien effizient zu nutzen, sind Kompetenzen in
+Bereichen wie Datenanalyse, maschinelles Lernen und Cloud-Architektur
+erforderlich. Dies erfordert Anpassungen in Personalentwicklung und
+Rekrutierung.</p>
+<p>Der Widerstand gegen Veränderungen aufgrund bestehender Statusbilder
+muss aktiv adressiert werden. Eine Kultur des Wandels und klare
+Kommunikation der Vorteile neuer IT sind entscheidend für die
+Akzeptanz.</p>
+<p><strong>Fazit</strong></p>
+<p>Erfolgreiche digitale Transformation erfordert nicht nur
+technologische Modernisierung, sondern auch die Anpassung von
+Organisationsstrukturen und Unternehmenskultur. Neue Führungs- und
+Zusammenarbeitsmodelle, gezielte Kompetenzentwicklung und eine Kultur
+des kontinuierlichen Wandels sind Schlüsselfaktoren für den Erfolg.</p>
+<h2 data-number="4.8"
+id="organisationskultur-und-change-management-in-it-reorganisationen"><span
+class="header-section-number">4.8</span> Organisationskultur und
+Change-Management in IT-Reorganisationen</h2>
+<p>Die Einführung neuer IT- und Cloud-Lösungen stellt Unternehmen vor
+bedeutende kulturelle und organisatorische Herausforderungen. Edgar
+Schein’s Modell der Organisationskultur bietet einen wertvollen Rahmen,
+um diese Herausforderungen zu verstehen und zu bewältigen.</p>
+<p>Kulturelle Ebenen und ihre Bedeutung für IT-Transformationen:</p>
+<p>1. Artefakte: Sichtbare IT-Strukturen und -Prozesse</p>
+<p>2. Bekundete Werte: Strategien und Ziele der digitalen
+Transformation</p>
+<p>3. Grundlegende Annahmen: Tiefliegende Überzeugungen über Technologie
+und Arbeit</p>
+<p><strong>Klarer Einsatz von IT-Lösungen und datengetriebene
+Geschäftsmodelle:</strong></p>
+<p>Der konkrete Nutzen neuer IT-Systeme muss auf allen kulturellen
+Ebenen vermittelt werden. Datengestützte Geschäftsmodelle bieten
+Vorteile wie erhöhte Flexibilität und Innovationskraft, die sowohl in
+den bekundeten Werten als auch in den grundlegenden Annahmen verankert
+werden müssen.</p>
+<p>Tipp: Entwickeln Sie eine überzeugende “Story” für den Wandel, die
+alle kulturellen Ebenen adressiert.</p>
+<p><strong>Kommunikation und Kompetenzentwicklung:</strong></p>
+<p>Offene Kommunikation über Veränderungen in Skills und Rollen ist
+entscheidend. Dies betrifft besonders die Ebene der grundlegenden
+Annahmen nach Schein.</p>
+<p>Tipp: Investieren Sie in Schulungen und schaffen Sie eine Lernkultur,
+die psychologische Sicherheit bietet.</p>
+<p><strong>Neue Führungsansätze und Teamstrukturen:</strong></p>
+<p>Flexible, teamzentrierte Arbeitsweisen erfordern angepasste
+Führungsstrukturen. Dies bedeutet eine Veränderung auf allen kulturellen
+Ebenen, von sichtbaren Strukturen bis hin zu grundlegenden Annahmen über
+Hierarchie und Macht.</p>
+<p>Tipp: Schulen Sie Führungskräfte in ihrer Rolle als Kulturgestalter
+und schaffen Sie neue, attraktive Karrierepfade.</p>
+<p><strong>Beobachtung und Gestaltung der
+Organisationskultur:</strong></p>
+<p>Die sich entwickelnde Kultur muss kontinuierlich beobachtet und
+beeinflusst werden. Nutzen Sie Scheins Methode der “klinischen
+Untersuchung”, um tiefliegende kulturelle Annahmen zu verstehen und zu
+beeinflussen.</p>
+<p>Tipp: Etablieren Sie regelmäßige Feedback-Runden und einen ständigen
+Dialog, um die Kultur aktiv zu gestalten.</p>
+<p><strong>Fazit</strong>:</p>
+<p>Der Erfolg von IT- und Cloud-Projekten hängt maßgeblich von der
+Fähigkeit der Organisation ab, sich kulturell anzupassen. Durch das
+Verständnis und die gezielte Beeinflussung aller kulturellen Ebenen nach
+Schein, kombiniert mit transparentem Change-Management und der Förderung
+neuer Kompetenzen, können Unternehmen das volle Potenzial der
+Digitalisierung ausschöpfen. Es erfordert einen ganzheitlichen Ansatz,
+der technologische, strukturelle und kulturelle Aspekte gleichermaßen
+berücksichtigt.</p>
+<p><strong>Quellen und weitere Informationen</strong></p>
+<ul>
+<li>lernOS für Organisationen: Kapitel <a
+href="https://cogneon.github.io/lernos-for-organizations/de/3-2-Veraenderung-von-Organisation/">Veränderung
+von Organisationen</a> sowie <a
+href="https://cogneon.github.io/lernos-for-organizations/de/3-4-Eine-Lernende-Organisation-kultivieren/">Eine
+Lernende Organisation kultivieren</a></li>
+<li><a href="https://www.emergize.org/restrukturierung/">Quelle: e-Book
+Restrukturierung</a></li>
+</ul>
+<h1 data-number="5" id="lernpfad"><span
+class="header-section-number">5</span> Lernpfad</h1>
+<h2 data-number="5.1"
+id="kata-0-kennenlernen-und-organisation-des-circles"><span
+class="header-section-number">5.1</span> Kata 0: Kennenlernen und
+Organisation des Circles</h2>
+<p>Ein <strong>lernOS Lernpfad</strong> ist eine
+<strong>Zusammenstellung von Katas</strong> (Übungen), mit denen Du neue
+Fähigkeiten erlernst und im Lauf der Zeit eine neue Lernhaltung
+(Mindset) entwickeln kannst. Ein Lernpfad kann innerhalb eines
+<strong>lernOS Sprints</strong> (13 Wochen) durchlaufen werden. Wir
+empfehlen <strong>eine Kata pro Woche</strong> durchzuführen, wenn Du
+den Leitfaden in 12 Wochen durchlaufen kannst. Es ist aber auch möglich,
+die Katas anders zu durchlaufen oder modularer zu nutzen.</p>
+<p>In den wöchentlichen Treffen ist oft zu wenig Zeit, die Übungen zu
+bearbeiten. Die <a
+href="https://de.wikipedia.org/wiki/Umgedrehter_Unterricht">Flipped-Classroom</a>-Methode
+ist sehr gut geeignet, da die Inhalte in Vorbereitung auf das Weekly von
+jedem Circle-Mitglied als „Hausaufgabe“ bearbeitet werden und so mehr
+Zeit für den Austausch der Ergebnisse und Erfahrungen zur Verfügung
+stehen.</p>
+<p>In der <strong>Woche 0</strong> geht es darum, die Rahmenbedingungen
+zu klären, Euch über lernOS zu informieren und Links zu weiterführenden
+Inhalten zur Verfügung zu stellen. Ihr lernt Euch kennen und plant
+gemeinsam die nächsten 12 Wochen, in denen Ihr Euch einmal wöchentlich
+hören und sehen werdet.</p>
+<p><strong>Die Agenda mit den Teilen Check-In, Hauptthema, Check-out ist
+ein Vorschlag, wie Ihr Eure wöchentlichen Treffen organisieren könnt und
+kann für alle Wochen verwendet werden.</strong></p>
+<p><strong>Check-in:</strong> (25 Minuten) Willkommen, schön dass Ihr
+dabei seid!</p>
+<p>Die wichtigste Aufgabe in der ersten Woche ist es, Euch gegenseitig
+besser kennen zu lernen. Jedes Circle-Mitglied hat 5 Minuten, um sich
+vorzustellen. Sprecht über Eure Motivation am lernOS Change-Management
+Lernpfad teilzunehmen und über Eure Erwartungen an die Gruppe und an
+Eure Lernreise.</p>
+<p><strong>Hauptthema:</strong> (20 Minuten)</p>
+<p>Plant, wann Ihr euch trefft, welche Tools Ihr zum Treffen (MSTeams,
+Zoom etc.) und zur Dokumentation (OneNote etc.) nutzt und zur weiteren
+Kommunikation (falls nötig) wie Chat. <a
+href="https://www.linkedin.com/posts/thomasjenewein_learning-circle-experience-tool-guide-activity-6899241139640356864-l-6G/">Anbei
+ein Leitfaden</a>. Hilfreich ist auch die Klärung, wer die Moderation
+übernimmt. Oft ist das rollierend - also immer jemand anderes. Am besten
+organisiert und blockt Ihr gleich die 12 Termine. Weitere Infos über
+Vorteile und den „prototypischen“ Ablauf einer Lerngruppe findet Ihr
+hier <a
+href="https://cogneon.github.io/lernos/de/learning-circle/">https://cogneon.github.io/lernos/de/learning</a><a
+href="https://cogneon.github.io/lernos/de/learning-circle/">-</a><a
+href="https://cogneon.github.io/lernos/de/learning-circle/">circle/</a></p>
+<p>Reflektiert kurz auch lernOS – was es ist und ob noch offene Fragen
+zu klären sind. Diejenigen, die noch nie einen lernOS Circle durchlaufen
+haben, können z.B. kurz Fragen stellen.</p>
+<p>Besprecht den konkreten Praxisbezug. Seid Ihr beispielsweise ein
+Team, das zusammenarbeitet oder seid Ihr in der gleichen Organisation?
+Könnt Ihr ein anstehendes oder vergangenes Projekt nutzen, um
+Change-Management zu reflektieren?</p>
+<p>Ihr könnt – einfach und schnell – Euch ein fiktives Beispiel einer
+Veränderung überlegen, an dem ihr als Lernprojekt arbeitet. Zum Beispiel
+die Einführung eines neuen CRM, Dokumenten-Management oder SAP ERP
+Systems. Alternativ kann auch jede/r in der Lerngruppe mit eigenen
+realen oder fiktiven Beispielen arbeiten.</p>
+<p><strong>Check-out:</strong> (5 Minuten)</p>
+<p>Bitte bestätigt das nächste Treffen und den nächsten Moderator. Was
+wirst du bis zum nächsten Weekly tun? Zum Beispiel Kata 1 für die
+nächste Woche vorbereiten.</p>
+<h2 data-number="5.2"
+id="kata-9-feedback-monitoring-kontinuierliche-verbesserung"><span
+class="header-section-number">5.2</span> Kata 9: Feedback, Monitoring
+&amp; kontinuierliche Verbesserung</h2>
+<p>Analysen und Messungen unterstützen die Identifizierung von Risiken,
+die Bewertung des Fortschritts und Erfolgs sowie die Anpassung und
+Optimierung von Change-Management-Strategien. Wir haben auf
+unterschiedliche Analysen in den Grundlagen geschaut.</p>
+<p>Aufgabe: Lese die Grundlagen. Reflektiere was Du gelernt hast und was
+Du auf Deine Arbeit / Firma übertragen kannst.</p>
+<ul>
+<li>Reflektiere, welche KPIs und Feedback Instrumente in Deinem Umfeld
+das Change-Management unterstützen</li>
+<li>Wie kannst Du Change Readiness Checks nutzen?</li>
+<li>Welche Rolle können Change Impact Analysen spielen?</li>
+<li>Wie kannst Du Retrospektive/ Evaluationen/ kontinuierliche
+Verbesserung noch nutzen?</li>
+</ul>
+<p>Aufgabe: tausche Dich mit Deinen Circle Mitgliedern zu den Punkten
+aus.</p>
+<h2 data-number="5.3"
+id="kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten"><span
+class="header-section-number">5.3</span> Kata 10: Rolle
+organisatorischer Veränderungen in IT- und Cloud-Projekten</h2>
+<p>Erfolgreiche IT Transformationen erfordern nicht nur technologische
+Anpassungen, sondern auch tiefgreifende organisatorische Veränderungen
+und einen gezielten Kulturwandel, der alle Ebenen der
+Organisationskultur berücksichtigt und aktiv gestaltet.</p>
+<p>Aufgabe: Lest die Kapitel 3.8 und 3.9. Reflektiert über die Inhalte
+und überlegt, wie Ihr diese auf Eure Arbeit anwenden könnt.</p>
+<ul>
+<li>Identifiziert ein aktuelles oder kürzlich abgeschlossenes und
+überlegt folgende Punkte:</li>
+<li>Welche organisatorischen Veränderungen waren notwendig? Wurden diese
+erfolgreich umgesetzt?</li>
+<li>Wie wurden neue Führungs- und Zusammenarbeitsmodelle
+integriert?</li>
+<li>Welche neuen Fähigkeiten und Kompetenzen waren erforderlich? Wie
+wurden diese entwickelt oder rekrutiert?</li>
+</ul>
+<p><strong>Kata 11: Organisationskultur und Change-Management in
+IT-Reorganisationen</strong></p>
+<p>Betrachten wir die Organisationskultur im Kontext von
+IT-Transformationen:</p>
+<ul>
+<li>Identifiziert Beispiele für Scheins drei kulturelle Ebenen
+(Artefakte, bekundete Werte, grundlegende Annahmen) in Bezug auf IT und
+Digitalisierung in Eurem Unternehmen.</li>
+<li>Wie wird der Nutzen neuer IT-Systeme auf allen kulturellen Ebenen
+vermittelt?</li>
+</ul>
+<p>Entwickelt einen Aktionsplan:</p>
+<ol type="1">
+<li>Basierend auf Eurer Analyse, schlagt drei konkrete Maßnahmen vor, um
+organisatorische Veränderungen und Kulturwandel in IT-Projekten im
+Unternehmen zu verbessern.</li>
+<li>Wie setzt Ihr diese Maßnahmen um und messt ihren Erfolg?</li>
+</ol>
+<p>Aufgabe: Tauschen Euch mit den Circle-Mitgliedern über Ihre
+Erkenntnisse und Aktionspläne aus.</p>
+<h2 data-number="5.4" id="kata-12-review-lessons-learned"><span
+class="header-section-number">5.4</span> Kata 12: Review &amp; lessons
+learned</h2>
+<p>Jetzt ist es so weit. Nach 12 Wochen geht die letzte Runde des
+Lernpfads zu Ende und es ist an der Zeit, diese Wochen noch einmal Revue
+passieren zu lassen. Zum Abschluss kannst Du gerne besprechen, was für
+Dich die größten Erkenntnisse, Überraschungen oder Herausforderungen
+rund um Change Management waren.</p>
+<p>Die folgenden Fragen können als roter Faden dienen:</p>
+<ul>
+<li>Was nimmst Du als entscheidende Erfahrungen / Highlights aus den
+letzten Wochen mit?</li>
+<li>Was waren für Dich die wichtigsten Meilensteine /
+Entwicklungsschritte?</li>
+<li>Was hat Dir im Circle gefehlt oder ist zu kurz gekommen zum Thema
+Change Management?</li>
+<li>Welche Pläne hast Du für das Gestalten von Veränderungen rund um IT
+und was möchtest Du als nächstes erreichen?</li>
+</ul>
+<p>Feiern: <em>(beliebig lange)</em> Feiert euren Lernerfolg!</p>
+<p>Entweder heute oder ihr verabredet euch für einen separaten Termin
+(persönlich oder online) und genießt Euren Lernerfolg!</p>
+<p>Wie geht ihr auseinander? Wollt ihr euch womöglich noch mal treffen,
+um weiter dran zu bleiben? Ggf. in anderen zeitlichen Abständen?</p>
+<p>Super, dass ihr bis hierher dabei geblieben seid und eure Kompetenz
+rund um das Gestallten von Veränderungen weiter aufgebaut habt. Das
+Leitfaden-Team wünscht Euch viel Freude und Erfolg weiterhin und freut
+sich auf Euer Feedback!</p>
+<p>Eine kleine Bitte noch: öffne die Seite zum Leitfaden auf lernos.org
+und hinterlasse ganz unten eine Bewertung (z.B. Daumen hoch) und gerne
+auch einen Kommentar mit Feedback. So kann das Leitfaden-Team und andere
+Lernende von Deinen Erfahrungen profitieren. Vielen Dank!</p>
+<h2 data-number="5.5"
+id="kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich"><span
+class="header-section-number">5.5</span> Kata 1: Einführung
+Change-Management: Warum, wie und Besonderheiten im IT-Bereich</h2>
+<p>In dieser Kata legst Du die Grundlagen für Dein Verständnis von
+Change-Management. Es geht darum, die Abgrenzung zu Projekt Management
+und unterschiedliche Modelle kennen zu lernen. Du wirst feststellen,
+dass es im Change-Management kein „one fits all“ gibt, sondern der
+Prozess an das Unternehmen und die Menschen angepasst werden muss.</p>
+<p>Hierfür liest Du Dir das Kapitel „<strong>Einführung ins
+Change-Management“</strong> durch.</p>
+<p>Aufgabe: Schreibe einen kurzen Beitrag, warum Change-Management für
+Deine Firma/ für Deinen Kontext wichtig ist.</p>
+<p>Aufgabe zu Modellen: Welche der Modelle nutzt Du bereits? Welche
+Bestandteile von anderen Modellen machen in Deinem Kontext Sinn? Was
+hast Du Neues gelernt in der Einführung?</p>
+<p><strong>Optionale Aufgabe</strong>: Überlege Dir, wie du persönlich
+mit Veränderungen umgehst. Bist du ambivalent oder siehst du die
+Vorteile für die Zukunft?</p>
+<h2 data-number="5.6"
+id="kata-2-rollen-im-change-management-und-in-change-prozessen"><span
+class="header-section-number">5.6</span> Kata 2: Rollen im
+Change-Management und in Change Prozessen</h2>
+<p>In dieser Woche beschäftigen wir uns mit den verschiedenen Rollen,
+die im Change-Management und in Change-Prozessen vorkommen, sowie den
+damit verbundenen Aufgaben.</p>
+<p>In dieser Übung beschäftigst Du Dich mit Deiner persönlichen
+Standortbestimmung in Bezug auf Deine Erfahrungen im Change-Management.
+Durch die Reflexion über die Rollen und Aktivitäten, die Du bereits in
+Change-Prozessen übernommen hast, kannst Du sehen, wo Du stehst. Im
+Austausch mit den anderen Circle-Mitgliedern lernt Ihr, was jede/r von
+Euch an Erfahrungen mitbringt, und wie und wo Ihr Euch gegenseitig
+unterstützen könnt.</p>
+<p>Hierzu liest Du Dir zum Einstieg die Grundlagen zum Thema Rollen
+durch.</p>
+<p>Aufgabe: Wenn Du bereits Erfahrungen in einem Change-Prozess
+gesammelt hast, beantworte bitte folgende Fragen:</p>
+<ul>
+<li>Welche Rollen hast Du bereits in Change-Prozessen übernommen, oder
+welche Rollen führst Du aktuell aus?</li>
+<li>Wie hast Du Deine Rolle im Change-Prozess wahrgenommen und welche
+Herausforderungen hast Du dabei erlebt?</li>
+<li>Welche Kenntnisse und Erfahrungen haben Dir bei Übernahme neuer
+Rollen und Aufgaben geholfen?</li>
+<li>Reflektiere Deine Rolle und Deine Beobachtungen in Bezug auf die
+vier Dimensionen “wollen / können / dürfen / müssen”:
+<ul>
+<li>Inwieweit waren die Dimensionen erfüllt oder auch nicht? Welche
+Konsequenzen haben sich daraus ergeben?</li>
+<li>Was hast Du gelernt? Welche Erkenntnisse hast Du gewonnen?</li>
+<li>Was hat sich bewährt - und was nicht?</li>
+<li>Worauf würdest Du in Zukunft besonders achten? Was würdest Du beim
+nächsten Mal anders machen?</li>
+</ul></li>
+</ul>
+<p>Aufgabe: Wenn du noch keine Erfahrungen in einem Change-Prozess
+gemacht hast, dann überlege Dir bitte, welche Rolle Du übernehmen
+würdest und warum.</p>
+<h2 data-number="5.7" id="kata-3-stakeholder-management"><span
+class="header-section-number">5.7</span> Kata 3: Stakeholder
+Management</h2>
+<p>In diesem Kapitel geht es um die verschiedenen Stakeholder im Change
+Management, die Analyse ihrer Interessen &amp; Einstellungen.</p>
+<p>Lest die Grundlagen in Kapitel 3.3 Stakeholder Management im
+Change-Management.</p>
+<p>Aufgabe: Führe eine Stakeholder Analyse für ein laufendes oder
+vergangenes Projekt durch mit einer der Methoden aus dem Grundlagen
+Kapitel und leite exemplarische Change-Management Aktionen ab.</p>
+<p>Tausche Dich dazu im Circle aus.</p>
+<h2 data-number="5.8"
+id="kata-4-management-widerstände-im-change-management"><span
+class="header-section-number">5.8</span> Kata 4: Management &amp;
+Widerstände im Change Management</h2>
+<p>Im Kapitel Stakeholder Management schauen auch speziell auf die
+Führungskräfte als Stakeholder sowie den Umgang mit Widerstand. Auch
+schon in weiteren Kapiteln wie zu den Rollen im Change Management haben
+wir die Rolle der Führungskräfte beschrieben.</p>
+<p>Aufgabe: Reflektiere, wie Du Management Stakeholder in konkreten
+Projekten noch besser einbinden, moderieren und managen kannst. Was
+fällt Dir leicht, wo kannst Du Dich noch verbessern?</p>
+<p>Aufgabe: Reflektiere das Thema Widerstände in einem konkreten Fall
+einer Veränderung: woher können sie kommen? Was kann ihre Funktion sein?
+Wie kannst Du damit umgehen?</p>
+<p>Tausche dich im Circle zu den Aufgaben aus.</p>
+<h2 data-number="5.9" id="kata-5-reflexion-der-lernergebnisse"><span
+class="header-section-number">5.9</span> Kata 5: Reflexion der
+Lernergebnisse</h2>
+<p>In dieser Woche machen wir keine kurze Retrospektive. Es gibt somit
+keine Grundlagen zum Lesen. Reflektiere zuerst selbst und tausche Dich
+dann mit deinen Circle-Mitliedern aus.</p>
+<p>Aufgabe: Überlege Dir, was du aus den ersten 4 Katas bisher
+mitgenommen hast und nimm dir etwas Zeit, um über deine Erfahrungen zu
+reflektieren.</p>
+<ul>
+<li>Welche konkreten Lernerfahrungen hast du bisher gemacht?</li>
+<li>Welche Methoden, Tools und Themen im Rahmen von
+Change-Management-Prozessen findest Du besonders hilfreich?</li>
+<li>Denke an eine Veränderung aus der Vergangenheit und erinnere dich,
+wie du dich gefühlt und verhalten hast entlang der Veränderung. Was
+nimmst Du für Dich persönlich mit?</li>
+</ul>
+<p>Aufgabe: Tausche dich mit deinen Circle-Mitgliedern über deine
+Erkenntnisse und Learnings aus (Timebox 4-5
+Minuten/Circle-Mitglied).</p>
+<h2 data-number="5.10"
+id="kata-6-kommunikation-im-change-management"><span
+class="header-section-number">5.10</span> Kata 6: Kommunikation im
+Change Management</h2>
+<p>In dieser Kata geht es darum, zu verstehen welche Rolle die
+Kommunikation in Change-Projekten spielt. Dazu liest Du die
+theoretischen Inhalte in Kapitel 3.4 und reflektierst das „Why“ und
+„What“.</p>
+<p>Aufgabe: Überlege Dir, welche Kanäle Du am liebsten für die
+Kommunikation nutzt und warum. Im Weekly kannst Du dich über deine
+Ergebnisse mit den Anderen austauschen (2-Minuten-Timebox pro
+Circle-Mitglied).</p>
+<p>Aufgabe: Für das „How“ überlege Dir, wie Du einen Kommunikationsplan
+erstellen würdest oder gewöhnlich erstellst. Reflektiere, welche
+Beteiligten in Deinem Unternehmen bzw. in Deinem fiktiven Change-Prozess
+zu berücksichtigen sind.</p>
+<p>Aufgabe: Erstelle eine Liste an Kommunikationsformaten und
+Materialien. Überlege Dir, welche Formate Du für welche Zielgruppe
+passend findest und warum.</p>
+<p>Aufgabe: Reflektieren Deine vergangenen Projekte und überlege, was
+genau gut gelaufen ist und wie Kommunikation besser hätte sein
+können.</p>
+<h2 data-number="5.11" id="kata-7-training-wissenstransfer-lernen"><span
+class="header-section-number">5.11</span> Kata 7: Training,
+Wissenstransfer &amp; Lernen</h2>
+<p>In dieser Kata lernst du die Bedeutung von Lernen im
+Change-Management und wie die Durchführung von Trainingsprojekten
+geplant wird. Dafür liest Du das Kapitel 3.5 Lernen &amp; Weiterbildung
+im Change-Management und überlegst Dir, welche Lernformate Du bereits
+kennengelernt und erfahren hast.</p>
+<p>Aufgabe: Was habe ich als letztes neues gelernt? Wie lerne ich am
+besten/liebsten?</p>
+<p>Tauscht Euch über Eure Eindrücke und Erfahrungen aus
+(2-Minuten-Timebox pro Circle-Mitglied!)</p>
+<p>Aufgabe: Erstelle einen Plan / Template einer Lernstrategie im Rahmen
+von Change-Management</p>
+<ul>
+<li>Lernbedarfsanalyse</li>
+<li>Trainingsformate &amp; Konzept incl. TTT</li>
+<li>Kontinuierliches Lernen institutionalisieren</li>
+</ul>
+<h2 data-number="5.12"
+id="kata-8-communities-im-change-management"><span
+class="header-section-number">5.12</span> Kata 8: Communities im Change
+Management</h2>
+<p>In dieser Übung beschäftigst Du Dich mit Deinen persönlichen
+Erfahrungen zu den positiven Aspekten von Communities in
+Change-Prozessen. Die Reflexionsfragen regen dazu an, im Circle über die
+Vorteile auszutauschen und mögliche Bereiche zur Verbesserung zu
+identifizieren.</p>
+<p>Aufgabe: Beantworte folgende bitte folgende Reflexionsfragen:</p>
+<ul>
+<li>Welche persönlichen Erfahrungen habe ich in verschiedenen
+Communities gemacht und wie haben sie mir ermöglicht, Veränderungen zu
+unterstützen?</li>
+<li>Welche Rolle spielen gemeinsame Interessen und Werte in Communities
+und wie beeinflussen sie meine Teilnahme und Integration?</li>
+<li>Welche Herausforderungen und Konflikte können in Change-Communities
+auftreten und wie bin ich / sind wir damit umgegangen?</li>
+<li>Welche Verantwortung habe ich als Mitglied einer Community, um ein
+positives und unterstützendes Umfeld zu schaffen?</li>
+<li>Welche Bedeutung hat der Austausch und die Zusammenarbeit mit
+anderen Community-Mitgliedern für mein persönliches Wohlbefinden und
+meine Zufriedenheit?</li>
+<li>Wenn Du noch tiefer einsteigen möchtest:</li>
+<li>Was kann ich dazu beitragen, ein unterstützendes und kooperatives
+Umfeld innerhalb der Community zu fördern?</li>
+<li>Wie kann ich meine Ideen und Meinungen effektiv in die Community und
+den Change-Prozess einbringen?</li>
+<li>Wie hat mein Beitrag zur Community meine eigenen Fähigkeiten und
+mein Wissen erweitert?</li>
+</ul>
+<p>Aufgabe: Tauscht Euch im Circle dazu aus: Was hat bei Euch
+funktioniert und was nicht?</p>
+<h1 data-number="6" id="anhang"><span
+class="header-section-number">6</span> Anhang</h1>
+<h2 data-number="6.1" id="danksagungen"><span
+class="header-section-number">6.1</span> Danksagungen</h2>
+<p>Ein großer Dank an die vielen Projekte und Vorarbeiten, die die
+Erstellung dieses lernOS Leitfaden ermöglicht haben. Besonders vielen
+Dank an das gesamte Team, dass die Inhalte für die erste Version des
+Leitfadens erstellt hat: Anja Lommatzsch, Marcel Kirchner, Rainer Bartl,
+Sylvia Keske Katrin Elsner, Conny Dettloff, Seyde Sosnovski, &amp;
+Thomas Jenewein. Danke an Jan Bretschneider an die Unterstützung rund um
+GitHub. Und vielen Dank an Simon Dückert und das Cogneon Team sowie die
+Community and das Vorantreiben von lernOS.</p>
+<h2 data-number="6.2" id="änderungshistorie"><span
+class="header-section-number">6.2</span> Änderungshistorie</h2>
+<table>
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 21%" />
+<col style="width: 63%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th>Version</th>
+<th>Bearbeitet von</th>
+<th>Beschreibung Änderung</th>
+<th>Datum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>beta</td>
+<td>Thomas Jenewein et al.</td>
+<td>Erste Version des Leitfadens Change Management</td>
+<td>05.04.2025</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dies ist die Betaversion nach initialem Feedbackloop und
+Korrekturlesen. Wir freuen uns auf weiteres Feedback!</strong></p>
+<h2 data-number="6.3" id="lernos-glossar"><span
+class="header-section-number">6.3</span> lernOS Glossar</h2>
+<p><strong>L</strong></p>
+<dl>
+<dt>Lernende Organisation</dt>
+<dd>
+Eine Lernende Organisation ist eine Organisation, die die Fähigkeit
+besitzt, Wissen zu generieren, zu akquirieren und zu verteilen und ihr
+Verhalten auf Basis neuer Erkenntnisse und Einsichten zu verändern.
+</dd>
+<dt>lernOS</dt>
+<dd>
+lernOS ist ein offenes System für Lebenslanges Lernen und Lernende
+Organisationen. Es stellt auf den drei Ebenen Individuum, Team und
+Organisation offene Leitfäden für die kontinuierliche Verbesserung des
+Lern- und Wissensmanagements bereit.
+</dd>
+<dt>Lernzirkel</dt>
+<dd>
+Eine Gruppe von 4-5 Personen in der sich die Mitglieder gegenseitig mit
+Feedback, Erfahrung, Wissen und Reflexion helfen. Die Circle-Mitglieder
+treffen sich wöchentlich und folgen dabei einem vorgegebenen Ablauf, der
+den Lern- und Entwicklungsprozess strukturiert.
+</dd>
+</dl>
+<p><strong>M</strong></p>
+<dl>
+<dt>Management</dt>
+<dd>
+Management ist die Koordination der Aktivitäten in einer Organisation
+mit dem Zweck, die Ziele der Organisation zu erreichen.
+</dd>
+</dl>
+<p><strong>O</strong></p>
+<dl>
+<dt>Organisation</dt>
+<dd>
+Eine Organisation besteht aus einer oder oder mehreren Personen
+(Organisationsmitglieder), die ein gemeinsamer Zweck verbindet und die
+sich zur Zeckerreichung eine formale Organisationsstruktur geben.
+</dd>
+</dl>
+</body>
+</html>

@@ -3,7 +3,9 @@ echo Starting lernOS Guide Generation ...
 
 # Variables
 filename="lernOS-Change-Management-de"
-chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
+# chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
+chapters=$(find ./src -type f -name "[0-9]*.md" | sort | tr '\n' ' ')
+chapters="./src/index.md $chapters"
 
 # Delete Old Versions
 echo Deleting old versions ...
