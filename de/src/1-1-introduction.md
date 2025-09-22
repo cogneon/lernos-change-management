@@ -88,9 +88,9 @@ Einbindung, Kommunikation, Befähigung & Empowerment tragen dazu bei, eine gemei
 
 **Change Kommunikation** zielt darauf ab, die richtige Botschaft zur richtigen Zeit an die richtigen Personen zu übermitteln. Es handelt sich um die systematische Planung, Durchführung, Überwachung und Überprüfung aller Kommunikationsaktivitäten innerhalb eines digitalen Transformationsprojekts. 
 
-**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder\*innen-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei meist direkt an. 
+**Change Umsetzung** umfasst die Identifikation und das Management der mit einer digitalen Transformation verbundenen Veränderungen bei den relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei meist direkt an. 
 
-**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Expert\*innen sowie für die User. Zuerst werden üblicherweise das Projektteam und Management geschult, später die User.
+**Change Enablement** bietet während des Transformationsprozesses umfassende Schulungen und Lernangebote für Expertinnen sowie für die User. Zuerst werden üblicherweise das Projektteam und Management geschult, später die User.
 
 **Change Effectiveness** umfasst die Aktivitäten, die zur Messung der Effektivität von OCM-Aktivitäten zur Unterstützung der digitalen Transformation eingesetzt werden können. Sie konzentriert sich auf Kriterien wie organisatorische Bereitschaft, Benutzerakzeptanz und -zufriedenheit sowie das Benutzerverhalten nach dem Go-Live. Awareness, Commitment, Empowerment, Enablement und Akzeptanz sind dabei Faktoren die gewöhnlich gemessen werden, sei es mit Systemdaten oder Befragungen.
 
@@ -119,7 +119,7 @@ Es gibt Modelle, die das Vorgehen beschreiben und solche, die eher die Art von I
 - Definition of [Change management](https://www.prosci.com/resources/articles/definition-of-change-management) 
 - [Podcast von Prof. Trost zu Change Management](https://armintrost-aop.podigee.io/34-change-management) 
 - [Change Workout - Infoseite](https://change-workout.de/)(https://change-workout.de/)
-- [70 Prozent aller Change-Vorhaben scheitern (n)immer ] (https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer/)
-- Reflektion der [Nutzung von Change Modellen] (https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management/)
-- [Metatheorie der Veränderung]  (https://metatheorie-der-veraenderung.info/)
+- [70 Prozent aller Change-Vorhaben scheitern n-immer ] (https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer)
+- Reflektion der Nutzung von [Change Modellen] (https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management)
+- [Metatheorie der Veränderung Infoseite] (https://metatheorie-der-veraenderung.info)
 - [Change Management auf Wikipedia](https://en.wikipedia.org/wiki/Change_management)
