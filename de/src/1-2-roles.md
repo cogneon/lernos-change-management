@@ -90,7 +90,7 @@ Um Veränderungsinitiativen erfolgreich zu machen, hat Prosci diverse Studien du
 - Verbindung zwischen ihren Mitarbeitenden und dem Projektteam sicherstellen
 - Widerstände erkennen und mindern
 
-Im Englischen werden diese Rollen mit dem Akronym CLARC® beschrieben:
+Im Englischen werden diese Rollen mit dem Akronym CLARC beschrieben:
 
 - Communicator
 - Liaison
