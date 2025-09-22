@@ -462,14 +462,14 @@ Transformationsprojekts.
 
 **Change Umsetzung** umfasst die Identifikation und das Management der
 mit einer digitalen Transformation verbundenen Veränderungen bei den
-relevanten Stakeholder\*innen-Gruppen (z.B. in Bezug auf Kompetenzen,
-Skills, Geschäftsprozesse, Technologie, Organisation und Mindset). Dies
-fördert einen Übergang vom aktuellen zum zukünftigen Status-quo.
-Iterationen, kontinuierliche Verbesserungen und Anpassungen schliessen
-sich dabei meist direkt an.
+relevanten Stakeholder-Gruppen (z.B. in Bezug auf Kompetenzen, Skills,
+Geschäftsprozesse, Technologie, Organisation und Mindset). Dies fördert
+einen Übergang vom aktuellen zum zukünftigen Status-quo. Iterationen,
+kontinuierliche Verbesserungen und Anpassungen schliessen sich dabei
+meist direkt an.
 
 **Change Enablement** bietet während des Transformationsprozesses
-umfassende Schulungen und Lernangebote für Expert\*innen sowie für die
+umfassende Schulungen und Lernangebote für Expertinnen sowie für die
 User. Zuerst werden üblicherweise das Projektteam und Management
 geschult, später die User.
 
@@ -538,12 +538,12 @@ Einbindung und adaptives Vorgehen so wichtig.
   Management](https://armintrost-aop.podigee.io/34-change-management)
 - [Change Workout -
   Infoseite](https://change-workout.de/)(https://change-workout.de/)
-- \[70 Prozent aller Change-Vorhaben scheitern (n)immer \]
-  (https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer/)
-- Reflektion der \[Nutzung von Change Modellen\]
-  (https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management/)
-- \[Metatheorie der Veränderung\]
-  (https://metatheorie-der-veraenderung.info/)
+- \[70 Prozent aller Change-Vorhaben scheitern n-immer \]
+  (https://hrpepper.de/believe-it-or-not/70-prozent-aller-change-vorhaben-scheitern-nimmer)
+- Reflektion der Nutzung von \[Change Modellen\]
+  (https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management)
+- \[Metatheorie der Veränderung Infoseite\]
+  (https://metatheorie-der-veraenderung.info)
 - [Change Management auf
   Wikipedia](https://en.wikipedia.org/wiki/Change_management)
 
