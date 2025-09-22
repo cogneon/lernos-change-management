@@ -4,9 +4,9 @@
 
 Neben Wollen, Sollen und Dürfen ist das **Können** elementar im Rahmen von Veränderungen. Denn natürlich müssen die Betroffenen neue Prozesse, Aufgaben und letztendlich Software und IT verstehen und anwenden können. 
 
-Üblicherweise wird im Trainingsbereich zwischen verschiedenen Zielgruppen bzw. Personas unterschieden. Das sind gewöhnlich Expert\*innen, die ein IT-System einführen und als erste mehr Details benötigen. Nutzer\*innen bedienen die Systeme oder Software, Manager\*innen und andere Stakeholdergruppen benötigen eher Überblickswissen bzgl. der Ziele, Vorteile oder des Impacts.
+Üblicherweise wird im Trainingsbereich zwischen verschiedenen Zielgruppen bzw. Personas unterschieden. Das sind gewöhnlich Experten, die ein IT-System einführen und als erste mehr Details benötigen. User bedienen die Systeme oder Software, Manager und andere Stakeholdergruppen benötigen eher Überblickswissen bzgl. der Ziele, Vorteile oder des Impacts.
 
-Im Sinne der erfolgreichen Kompetenzentwicklung gilt es, allen vom Wandel Betroffenen Lernressourcen und Räume zur Verfügung zu stellen – also nicht nur von Training zu sprechen im Sinne des Trainer\*innen-Schüler\*innen Narrativs.
+Im Sinne der erfolgreichen Kompetenzentwicklung gilt es, allen vom Wandel Betroffenen Lernressourcen und Lern-Räume zur Verfügung zu stellen – also nicht nur von Training zu sprechen im Sinne des Trainer-Schüler Narrativs.
 
 ### Durchführung von Trainingsprojekten ###
 
@@ -25,13 +25,13 @@ Ist- und Soll-Einschätzung können natürlich auch per Umfrage und Selbsteinsch
 
 Tipps:
 
-- Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender\*innen und Experten\*innen, sondern an alle Stakeholder, wie z.B. Manager\*innen. Denn Lernen und Training sind ein starkes Element der Einbindung und Motivation.
+- Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender und Experten, sondern an alle Stakeholder, wie z.B. Manager. Denn Lernen und Training sind ein starkes Element der Einbindung und Motivation.
 - Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte Performance – nicht auf Top-Talents oder extreme Expert\*innen – das ist meist zu viel und komplex.  
 - Ob bei Design oder Evaluation: achtet auf den Transfer in den Arbeitsalltag.
 
 ### Formate & Konzept incl. Train the Trainer Ansatz (TTT) ###
 
-Klassische Formate sind  sicher Workshops & Trainings in Präsenz oder virtuell. Inzwischen hat sich ein Methoden Mix etabliert – auch Blended Learning genannt. Hier wechseln sich Lernphasen des individuellen selbstgesteuerten Lernens – wie z.B. E-Learning oder Videos – mit Trainer\*innen-geführtem Lernen in Gruppen incl. Fragen & Anleitungen sowie Austausch & Reflexion ab. Kurze Einstufungstests zu Beginn helfen zur Personalisierung des Lernens. Während des Lernens und am Ende dienen Tests und Fragen der Reflektion und Festigung des Lernens.
+Klassische Formate sind  sicher Workshops & Trainings in Präsenz oder virtuell. Inzwischen hat sich ein Methoden Mix etabliert – auch Blended Learning genannt. Hier wechseln sich Lernphasen des individuellen selbstgesteuerten Lernens – wie z.B. E-Learning oder Videos – mit Trainer-geführtem Lernen in Gruppen incl. Fragen & Anleitungen sowie Austausch & Reflexion ab. Kurze Einstufungstests zu Beginn helfen zur Personalisierung des Lernens. Während des Lernens und am Ende dienen Tests und Fragen der Reflektion und Festigung des Lernens.
 
 Neben formellen Angeboten wie E-Learning macht im Change vor allem erfahrungsbasiertes, experimentelles Lernen Sinn – zum Beispiel Barcamps oder Hackathons.  
 
@@ -41,7 +41,7 @@ Gerade im IT-Bereich bietet sich Lernen im Arbeitsprozess und bei Bedarf an, dam
 
 Updates und kontinuierliches Lernen sollte zu Beginn eingeplant werden. Im Workplace Learning werden die klassischen Lerninhalte immer kürzer. Communities und kurze Formate wie regelmäßige Fragerunden und Videos, am besten in einem Mix aus Pull und Push, sind hier hilfreich. Push kann durch Newsletter, Mails oder Alerts im System geschehen – für Pull benötigt es vor allem eine gute Suche und kuratierte Lernportale (oft wird Sharepoint benutzt).  
 
-Ein Klassiker im IT-Kontext sind Train the Trainer Ansätze (TTT). Oft sind Expert\*innen aus Beratungen, vom Hersteller oder der Inhouse-IT die sog. Head-Trainer\*innen, welche die Multiplikator\*innen ausbilden. Diese sind oft die Keyuser\*innen, die später auch die IT-Lösungen supporten. Dieses Multiplikatoren-System vereinfacht die Skalierung der Vermittlung der Lerninhalte und des Transfers.  
+Ein Klassiker im IT-Kontext sind Train the Trainer Ansätze (TTT). Oft sind Experten aus Beratungen, vom Hersteller oder der Inhouse-IT die sog. Head-Trainer, welche die Multiplikatoren ausbilden. Diese sind oft die Keyuser, die später auch die IT-Lösungen supporten. Dieses Multiplikatoren-System vereinfacht die Skalierung der Vermittlung der Lerninhalte und des Transfers.  
 
 Unabhängig vom Format ist es wichtig, sicher zu stellen, dass die jeweiligen Zielgruppen zum richtigen Zeitpunkt das benötigte Wissen und notwendigen Kompetenzen haben. Zu früh ist dabei genauso suboptimal wie zu spät.
 
@@ -78,4 +78,4 @@ Wie immer macht es der Mix – das Modell zeigt auf, dass nicht nur kognitives f
 - [Austausch zu Lernen im Unternehmen: Corporate Learning Community ](https://colearn.de/)
 - Für allgemeine Kompetenz-Bewertungen sind z.B. das digitale Rahmenmodell der EU [DigiComp  ](https://joint-research-centre.ec.europa.eu/digcomp_en)sowie die europäische Skill & Job Datenbank [ESCO](https://esco.ec.europa.eu/) als Anker interessant.
 - [Learning Design Canvas vom internen SAP Learning Team](https://app.mural.co/template/17668bfc-f175-4d0d-9a3d-44bb829b5af7/705e32fd-2d59-4cab-a47e-3a708fddab9a)
-- [Generative Künstliche Intelligenz im Corporate Learning: Use Cases, Beispiele und Tips (Artikel von T. Jenewein)](https://community.sap.com/t5/sap-training-and-change-management/generative-k%C3%BCnstliche-intelligenz-im-corporate-learning-use-cases-beispiele/ba-p/13767754)/>
+- [Generative Künstliche Intelligenz im Corporate Learning: Use Cases, Beispiele und Tips - Artikel von T. Jenewein](https://community.sap.com/t5/sap-training-and-change-management/generative-k%C3%BCnstliche-intelligenz-im-corporate-learning-use-cases-beispiele/ba-p/13767754)/>
