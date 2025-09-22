@@ -187,7 +187,7 @@ lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung
 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de)
 (CC BY 4.0):
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+![](./images/CC-BY.png)
 
 ## WHY - Warum braucht es lernOS?
 
@@ -1442,8 +1442,6 @@ Zu Beginn macht eher formelles Lernen Sinn wie unter Formaten & Konzept
 beschrieben, danach immer mehr informelles Lernen in kleinen Einheiten,
 nah am Arbeitsprozess.
 
-![](Aspose.Words.aa81e342-f40c-45a5-9b3f-e922ae6b33ac.001.png)
-
 **70:20:10 Modell**
 
 Die Grundlage des Modells waren Umfragen bei Führungskräften zur Frage,
@@ -1749,8 +1747,6 @@ Signavio unterstützt werden.
 
 Anbei eine weitere Sammlung verschiedener Analysen aus einer Community
 Session.
-
-![](Aspose.Words.aa81e342-f40c-45a5-9b3f-e922ae6b33ac.002.jpeg)
 
 Retrospektiven finden regelmäßig während des Projekts statt und geben
 Teams die Möglichkeit, ihre Arbeitsweise zu reflektieren und
