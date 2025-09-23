@@ -425,19 +425,19 @@ Einbindung und adaptives Vorgehen so wichtig.
 
 ### Rollen im Veränderungsprojekt
 
-#### Projektsponsor in / Auftraggeber in in Change Projekten
+#### Projektsponsor/ Auftraggeber in Change Projekten
 
-Ein e Projektsponsor in ist ein besonderer Stakeholder mit speziellem
+Ein Projektsponsor ist ein besonderer Stakeholder mit speziellem
 Einfluss auf den Erfolg eines Projekts.
 
-Es gibt verschiedene Möglichkeiten für eine n Projektsponsor in, das
-Projekt effektiv zu unterstützen: dabei trägt der die Projektsponsor in
-vor allem die Verantwortung für die unternehmerische Zielsetzung, also
-den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll.
-Insofern definiert der-die Projektsponsor in die Vision, die Ziele und
-die Strategie, die das Projekt verfolgen soll.
+Es gibt verschiedene Möglichkeiten für einen Projektsponsor, das Projekt
+effektiv zu unterstützen: dabei trägt der die Projektsponsor in vor
+allem die Verantwortung für die unternehmerische Zielsetzung, also den
+Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll.
+Insofern definiert der Projektsponsor die Vision, die Ziele und die
+Strategie, die das Projekt verfolgen soll.
 
-Zudem ist derdie Projektsponsor in für das Risikomanagement des Projekts
+Zudem ist derProjektsponsor für das Risikomanagement des Projekts
 verantwortlich.
 
 Ein Risiko bei klassischen Projektmanagement -- Ansätzen ist
@@ -446,21 +446,20 @@ haben kann, aber iterative Anpassungen der Pläne oder nachträgliche
 Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen
 sind.
 
-Der-die Projektsponsor in zeigt in der Innen- und Außenkommunikation,
-dass er-sie uneingeschränkt hinter diesem Projekt und dem-der
-Projektleiter in steht und Unterstützung von allen Beteiligten
-einfordert. Damit wird das Projekt legitimiert und dem-der Projektleiter
-in die erforderliche Autorität verliehen.
+Der Projektsponsor zeigt in der Innen- und Außenkommunikation, dass er
+uneingeschränkt hinter diesem Projekt und dem Projektleiter steht und
+Unterstützung von allen Beteiligten einfordert. Damit wird das Projekt
+legitimiert und dem Projektleiter die erforderliche Autorität verliehen.
 
-Gute Projektsponsor innen unterstützt den Projektleiter in in kritischen
-Situationen und stärkt den Rücken. Viele Projektleiter innen sind im
-Sinne eines guten Leaderships häufig sehr dankbar, wenn derdie
-Projektsponsor in für sie auch die Rolle eines Mentors übernimmt.
+Ein guter Projektsponsor unterstützt den Projektleiter in kritischen
+Situationen und stärkt ihm den Rücken. Viele Projektleiter sind im Sinne
+eines guten Leaderships häufig sehr dankbar, wenn der Projektsponsor für
+sie auch die Rolle eines Mentors übernimmt.
 
 Die Überwachung und Steuerung des Projekts auf übergeordneter Ebene ggf.
 zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind
 wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen.
-Projektsponsor innen sollten sich dem Erfolg des Projekts verpflichtet
+Projektsponsoren sollten sich dem Erfolg des Projekts verpflichtet
 fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind.
 
 #### Projektleitung in Change Projekten
@@ -474,12 +473,12 @@ dieser Organisationseinheit ist primär das
 kleineren Projekten wird die Projektleitung durch den
 [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) gebildet,
 in größeren Projekten steht dieser einer Gruppe von Personen und
-eventuell zusätzlich mehreren Teilprojektleiter innen vor.
+eventuell zusätzlich mehreren Teilprojektleiter vor.
 
 Bei modernen Organisationskonzepten besteht die Projektleitung
-umfangreicher Projekte aus mehreren Projektleiter innen, die die
-Entscheidung im Konsens bzw. nach vorbestimmten Richtlinien und Regeln
-treffen. Aufgaben sind dabei
+umfangreicher Projekte aus mehreren Projektleitern, die die Entscheidung
+im Konsens bzw. nach vorbestimmten Richtlinien und Regeln treffen.
+Aufgaben sind dabei
 
 - Festlegung der Projektziele
 - Planung des Projektes
@@ -498,21 +497,21 @@ treffen. Aufgaben sind dabei
 
 #### Projektmitglieder in Change Projekten
 
-Die Begriffe "Projektmitglieder innen" oder "Projektteilnehmende" können
-als Oberbegriff für die Mitglieder innen des Projektteams und der
+Die Begriffe "Projektmitglieder" oder "Projektteilnehmende" können als
+Oberbegriff für die Mitglieder des Projektteams und der
 Projektmitarbeitenden verstanden werden. Sie sind in keiner Norm oder
 Handreichung definiert. Gegenüber dem Ausdruck "Projektbeteiligte" sind
-sie dadurch abzugrenzen, dass die Projektmitglieder innen oder
+sie dadurch abzugrenzen, dass die Projektmitglieder oder
 Projektteilnehmenden direkt einen Beitrag zum Projektergebnis leisten.
 Personen oder Organisationen, die nur von den Auswirkungen des Projekts
 betroffen sind, aber keine Mitwirkung am Projekt haben, zählen somit
-nicht zu den Projektmitglieder innen oder Projektteilnehmenden.
+nicht zu den Projektmitgliedern oder Projektteilnehmenden.
 
-Da die Projektmitglieder innen die Personen sind, die am meisten mit den
+Da die Projektmitglieder die Personen sind, die am meisten mit den
 Stakeholdern / Betroffenen einer Veränderung in Kontakt stehen, sollten
 sie ausreichend Change-Management Kompetenz haben.
 
-#### Change Manager in in Change Projekten
+#### Change Manager in Change Projekten
 
 Aufgaben des Change-Managements sind
 
@@ -531,12 +530,12 @@ In Change Projekten haben Change Agents die Verantwortung für die
 erfolgreiche Umsetzung der Veränderung. Daher sind sie auch für die
 Planung und die Umsetzung konkreter Maßnahmen zur Akzeptanzsteigerung in
 der Belegschaft zuständig. Die Rolle von Change Agents können sowohl
-externe Berater innen als auch interne Mitarbeiter innen wahrnehmen.
-Wichtig ist jedoch, dass die Change Agents neben ihren projektbezogenen
-Kenntnissen und Fähigkeiten
+externe Berater als auch interne Mitarbeitende wahrnehmen. Wichtig ist
+jedoch, dass die Change Agents neben ihren projektbezogenen Kenntnissen
+und Fähigkeiten
 
 - von allen Mitarbeitenden als Vertrauensperson und lokale r
-  Ansprechpartner in und somit als Kontaktpunkt zum Projektteam
+  Ansprechpartner und somit als Kontaktpunkt zum Projektteam
   wahrgenommen und respektiert werden.
 - optional eine Historie von Erfolgen im Unternehmen erreicht haben.
 - starke Kommunikations- und Präsentationsfähigkeiten haben.
@@ -544,19 +543,19 @@ Kenntnissen und Fähigkeiten
 - optional das Potential besitzen andere Menschen coachen zu können.
 - sowohl die Bedürfnisse und Ängste der Mitarbeitenden als auch den
   Unternehmenserfolg im Auge behalten.
-- Teamplayer innen sind.
+- Teamplayer sind.
 - nicht zu sehr verschiedenen Parteien im Unternehmen verpflichtet sind.
 - ein gutes Verständnis der Organisation haben.
 
-Change Agents sind Vertrauenspersonen und Ansprechpartner innen: Sie
-sensibilisieren und informieren Kolleg innen in Hinblick auf die
-anstehende Veränderung. Das bedeutet zum Beispiel, dass sie auf
-Trainingsangebote hinweisen oder diese selbst organisieren. Sie haben
-ein offenes Ohr für die Bedürfnisse der Mitarbeitenden, die sich
-vielleicht eine gewisse Form der Change Begleitung wünschen und nicht
-mit ihren Zweifeln, Wünschen und Hoffnungen alleine bleiben wollen. Dies
-teilen sie den Projekt- & Change Managern mit und sorgen somit auch für
-den beiderseitigen Austausch vom Projektteam und und betroffenen
+Change Agents sind Vertrauenspersonen und Ansprechpartner: Sie
+sensibilisieren und informieren Kollegen in Hinblick auf die anstehende
+Veränderung. Das bedeutet zum Beispiel, dass sie auf Trainingsangebote
+hinweisen oder diese selbst organisieren. Sie haben ein offenes Ohr für
+die Bedürfnisse der Mitarbeitenden, die sich vielleicht eine gewisse
+Form der Change Begleitung wünschen und nicht mit ihren Zweifeln,
+Wünschen und Hoffnungen alleine bleiben wollen. Dies teilen sie den
+Projekt- & Change Managern mit und sorgen somit auch für den
+beiderseitigen Austausch vom Projektteam und und betroffenen
 Mitarbeitenden wie End-Usern.
 
 Change Agents sind Vorbilder: Als Vorbilder motivieren Change Agents zur
@@ -569,27 +568,26 @@ Agents aufgebaut ist, desto besser stehen die Chancen auf einen
 reibungslosen Veränderungsprozess. Daher sollte die Rolle der Change
 Agents im Change-Management-Prozess an allen Standorten des Unternehmens
 besetzt werden, evtl. auch pro Fachbereich. Die erfolgreiche Umsetzung
-von Veränderungen hängt nämlich stark mit den Fürsprecher innen und
-Treiber innen im Unternehmen ab, die für die Umsetzung der
-Veränderungsmaßnahmen einstehen. Je besser vorbereitet diese Individuen
-sind, desto besser ist es für den Erfolg des Veränderungsprojekts.
+von Veränderungen hängt nämlich stark mit den Fürsprechern und Treibern
+im Unternehmen ab, die für die Umsetzung der Veränderungsmaßnahmen
+einstehen. Je besser vorbereitet diese Individuen sind, desto besser ist
+es für den Erfolg des Veränderungsprojekts.
 
-Change Agents sind ein Netzwerk an Veränderungsexpert innen: Sie
+Change Agents sind ein Netzwerk an Veränderungsexperten: Sie
 organisieren sich im Netzwerk und tauschen sich über Erfolge, Sorgen und
 Best Practices aus. Durch ein gemeinsames Onboarding, Schulungen und
 Workshops gelingt es, dass Change Agents frühzeitig ihre Kräfte bündeln
 und sich einfacher eine einheitliche Kommunikation nach außen etablieren
 lässt. Dabei können Change Agents auf die Nutzung von Methoden wie z.B.
 zielgruppengerechte Kommunikationsmittel und -kanäle sowie geeignete
-Informationsmaterialien zurückgreifen, um ihre Kolleg innen zu
-informieren.
+Informationsmaterialien zurückgreifen, um ihre Kollegen zu informieren.
 
 Abgrenzung: Change Agents vs. Key-User
 
-- Change Agents: Sie sind die frühen Anwender innen und Multiplikator
-  innen in ihren Abteilungen, die speziell im Umgang mit Veränderungen
-  geschult sind und das Erlernte an andere weitergeben. Ihre Rolle ist
-  oft freiwillig und intrinsisch motiviert.
+- Change Agents: Sie sind die frühen Anwender und Multiplikatoren in
+  ihren Abteilungen, die speziell im Umgang mit Veränderungen geschult
+  sind und das Erlernte an andere weitergeben. Ihre Rolle ist oft
+  freiwillig und intrinsisch motiviert.
 - Key-User: Im Gegensatz dazu konzentrieren sich Key-User stärker auf
   das technische Know-how und die Unterstützung anderer Mitarbeitenden,
   insbesondere im Rahmen von IT-Projekten. Sie sind oft in ihrer
