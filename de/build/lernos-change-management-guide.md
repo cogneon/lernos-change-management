@@ -1715,7 +1715,7 @@ folgenden Schritte:
   positiven zu maximieren? Welche Ressourcen werden dafür benötigt?
 
 Eine Change Impact Analyse wird am besten in einem Workshop
-durchgeführt, bei dem Expert\*innen aus verschiedenen organisatorischen
+durchgeführt, bei dem Experten aus verschiedenen organisatorischen
 Einheiten und mit unterschiedlichen Hintergründen teilnehmen. Dieser
 kollaborative Ansatz fördert ein gemeinsames Verständnis der
 bevorstehenden Herausforderungen unter den Projektbeteiligten. Nach der
@@ -1731,9 +1731,9 @@ Anforderungen des Unternehmens entspricht (Fit) und wo Anpassungen oder
 der Change Impact Analyse weiter geprüft werden.
 
 Die Detaillierungsebene sind dabei Prozess-Analysen auf konkretem Level
-incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer\*innen.
-Toolseitig kann dies effektiv durch Prozess-Management Software wie SAP
-Signavio unterstützt werden.
+incl. Aufgaben pro Prozess-Schritt und Personas der Nutzer. Toolseitig
+kann dies effektiv durch Prozess-Management Software wie SAP Signavio
+unterstützt werden.
 
 ### Sammlung von weiteren Analysen und Good Practices
 
@@ -1770,7 +1770,7 @@ Systemeinführungen folgen gewöhnlich kleine, regelmäßige Updates.
 Auch hier bedarf es Kommunikation und Weiterbildung. Wichtig ist, dass
 es weiter Prozesse und Ressourcen gibt, die sich darum kümmern. Zum
 Beispiel um das Updaten der Dokumentation, der Enduser\*innen Trainings.
-Dies können Key-User\*innen sein oder eine Community aus Change Agents.
+Dies können Key-User sein oder eine Community aus Change Agents.
 
 Im zunehmenden und regelmäßigen Wandel, der meist mit Unsicherheit und
 Stress verbunden ist, ist Resilienz von zunehmender Bedeutung. Eine
