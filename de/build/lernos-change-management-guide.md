@@ -2104,17 +2104,17 @@ dass es im Change-Management kein „one fits all" gibt, sondern der
 Prozess an das Unternehmen und die Menschen angepasst werden muss.
 
 Hierfür liest Du Dir das Kapitel „**Einführung ins Change-Management"**
-durch.
+im Bereich Grundlagen durch.
 
 Aufgabe: Schreibe einen kurzen Beitrag, warum Change-Management für
-Deine Firma/ für Deinen Kontext wichtig ist.
+Deine Organisation/ für Deinen Kontext wichtig ist.
 
-Aufgabe zu Modellen: Welche der Modelle nutzt Du bereits? Welche
+Aufgabe zu Modellen: Welche der Modelle nutzt Du / Ihr bereits? Welche
 Bestandteile von anderen Modellen machen in Deinem Kontext Sinn? Was
 hast Du Neues gelernt in der Einführung?
 
 **Optionale Aufgabe**: Überlege Dir, wie du persönlich mit Veränderungen
-umgehst. Bist du ambivalent oder siehst du die Vorteile für die Zukunft?
+umgehst.
 
 ## Kata 2: Rollen im Change-Management und in Change Prozessen
 
