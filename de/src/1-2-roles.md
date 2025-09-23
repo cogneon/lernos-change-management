@@ -6,7 +6,7 @@ Ein Projektsponsor ist ein besonderer Stakeholder mit speziellem Einfluss auf de
 
 Es gibt verschiedene Möglichkeiten für einen Projektsponsor, das Projekt effektiv zu unterstützen: dabei trägt der die Projektsponsor in vor allem die Verantwortung für die unternehmerische Zielsetzung, also den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll. Insofern definiert der Projektsponsor die Vision, die Ziele und die Strategie, die das Projekt verfolgen soll. 
 
-Zudem ist derProjektsponsor für das Risikomanagement des Projekts verantwortlich.
+Zudem ist der Projektsponsor für das Risikomanagement des Projekts verantwortlich.
 
 Ein Risiko bei klassischen Projektmanagement – Ansätzen ist beispielsweise, dass die Gesamt-Situation sich zwischenzeitlich geändert haben kann, aber iterative Anpassungen der Pläne oder nachträgliche Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen sind.
 
@@ -14,7 +14,8 @@ Der Projektsponsor zeigt in der Innen- und Außenkommunikation, dass er uneinges
 
 Ein guter Projektsponsor unterstützt den Projektleiter in kritischen Situationen und stärkt ihm den Rücken. Viele Projektleiter sind im Sinne eines guten Leaderships häufig sehr dankbar, wenn der Projektsponsor für sie auch die Rolle eines Mentors übernimmt. 
 
-Die Überwachung und Steuerung des Projekts auf übergeordneter Ebene ggf. zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen. Projektsponsoren sollten sich dem Erfolg des Projekts verpflichtet fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind.
+Die Überwachung und Steuerung des Projekts auf übergeordneter Ebene ggf. zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen. Projektsponsoren sollten sich dem Erfolg des Projekts verpflichtet fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind. 
+Wichtig: wenn ein Sponsor seinen Job wechselt, ist zu untersuchen wer evtl. als neuer Sponsor Sinn macht.
 
 #### Projektleitung in Change Projekten ####
 
