@@ -123,3 +123,7 @@ Es gibt Modelle, die das Vorgehen beschreiben und solche, die eher die Art von I
 - [Reflektion der Nutzung von Change Modellen](https://blogs.sap.com/2022/10/31/vorgehensmodelle-im-change-management)
 - [Metatheorie der Veränderung Infoseite](https://metatheorie-der-veraenderung.info)
 - [Change Management auf Wikipedia](https://en.wikipedia.org/wiki/Change_management)
+- - “Leading Change" von John P. Kotter oder "Managing Transitions: Making the Most of Change" von William Bridges
+- Beides sind Standardwerke, wenn auch zum Teil nicht mehr auf der Höhe der Zeit. Während Kotter einen strukturierten, prozessorientierten Ansatz bietet, hilft Bridges, die menschlichen und emotionalen Dimensionen des Wandels zu verstehen und zu managen. Zusammen liefern sie eine umfassende Perspektive darauf, wie Führungskräfte ihre Rolle im Change-Management erfolgreich ausfüllen können.
+- Our Iceberg is Melting/ Das Pinguin Prinzip (John P. Kotter): einfach zu lesende und kurzweilige Business-Fabel zu Change Management
+
