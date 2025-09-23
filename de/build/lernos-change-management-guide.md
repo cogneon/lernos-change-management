@@ -160,19 +160,26 @@ toc-own-page: true
 # Willkommen
 
 Herzlich willkommen im lernOS Change Management Leitfaden. Dieser
-Leitfaden soll dabei helfen, allgemeines Wissen und Kompetenzen rund um
-das Gestalten von Veränderungen - auch Change Management genannt - zu
-entwickeln. Wir gehen besonders auf das Begleitung von Veränderungen im
-IT Kontext ein. Jedoch sind viele Ansätze so universell, dass es
-eigentlich für alle Bereiche genutzt werden kann.
+Leitfaden soll dabei helfen, allgemeines Wissen und grundlegende
+Kompetenzen rund um das Gestalten von Veränderungen - auch Change
+Management genannt - zu entwickeln. Wir gehen besonders auf das
+Begleitung von Veränderungen im IT Kontext ein. Jedoch sind viele
+Ansätze so universell, dass es eigentlich für alle Bereiche genutzt
+werden kann. Der Leitfaden ist in Version 0.2 noch in einer Betaversion.
+Da verschiedene Experten und Expertinnen als Autoren dabei waren, gibt
+es sicher noch einige Unterschiede in Ton oder Tiefe. Gebt uns gerne
+inhaltich Feedback, am besten direkt im Feedback Bereich auf GitHub. Wir
+verwenden (meistens) die persönliche Ansprache (Du oder Ihr), um Nähe
+und Augenhöhe zu schaffen. Beim Gendern wechseln wir, natürlich sind
+hier immer alle Geschlechter gemeint.
 
 # Die Zielgruppe des Leitfadens
 
-Dies sind sind alle, die sich für das Thema interessieren und die bei
+Dies sind alle, die sich für das Thema interessieren und die bei
 Veränderungen mitarbeiten. Das sind zum Beispiel Change Agents,
-Projektleiter, ManagerInnen. Da wir eher Grundlagen behandeln, sind die
-Inhalte eher zu basic für absolute Change Profis. Aber beim gemeinsamen
-Lernen lernen vielleicht auch Sie neue Dinge.
+Projektleiter oder ManagerInnen. Da wir eher Grundlagen behandeln, sind
+die Inhalte eher zu basic für absolute Change Profis. Aber beim
+gemeinsamen Lernen lernen vielleicht auch Sie neue Dinge.
 
 # Über lernOS
 
