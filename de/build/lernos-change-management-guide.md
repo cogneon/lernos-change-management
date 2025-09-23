@@ -1259,8 +1259,13 @@ Unterstützung für den Wandel wesentlich verbessern.
   anything) Sessions oder monatliche Newsletter.
 - Vielfalt der Kanäle: Damit werden unterschiedliche Präferenzen
   angesprochen.\
-- Einbeziehung von Meinungen und Feedback: Das ist ein zentrales Element
-  -- ob in Diskussionsforen oder offenen Sprechstunden.
+- Einbindung und Einbeziehung von Meinungen sowie Feedback: Das ist ein
+  zentrales Element -- ob in Diskussionsforen oder offenen
+  Veranstaltungen. Informationen wie E-Mails, Sharepoint-Seiten oder
+  Videos ersetzen keinen Dialog. Beides ist wichtig, oft werden jedoch
+  Dialog-Formate zu wenig genutzt. Es ist jedoch wichtig, sowohl für das
+  Verständnis aller Betroffenen sowie als Feedback für die Change &
+  Projekt Manager.\
 - Anpassung an Zielgruppen: Führungskräfte, Frontline-Mitarbeitende und
   verschiedene Abteilungen haben unterschiedliche Perspektiven und
   Bedürfnisse.
