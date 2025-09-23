@@ -16,7 +16,7 @@ lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 In
 
 ## WHY - Warum braucht es lernOS?
 
-**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** (s.a. [OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/contact/OECD_Lernkompass_2030.pdf)). Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
+**Ständige Veränderung** und unser **zukünftiges Wohlergehen** erfordern **kontinuierliches, selbstorganisiertes Lernen** . Die Auswirkungen der digital-vernetzten **Wissensgesellschaften** können wir alle täglich spüren (Informationsflut, Leistungsdruck, Geschwindigkeit technischer Innovation).
 
 ## WHAT - Was ist lernOS?
 
@@ -26,7 +26,7 @@ Das Wort **lernOS** stammt aus dem Esperanto und ist dort die Zukunftsform von L
 
 Viele Wege führen zu lernOS. Ein Vorschlag:
 
-1. Wähle als ersten Schritt einen der [lernOS Leitfäden](https://lernos.org/de/0-about/guides) – den hast Du/ habt Ihr bereits erledigt. 
+1. Wähle als ersten Schritt einen der [lernOS Leitfäden](https://lernos.org/de/1-guides/) – den hast Du/ habt Ihr bereits erledigt. 
 1. Wähle einen **Zeitraum**, in dem du den Lernpfad des Leitfadens durchlaufen möchtest.
 1. Entscheide dich, ob Du **allein**, als **Lerntandem** oder im **Circle** mit 4-5 Personen lernen möchtest. Zum Start empfehlen wir dir das Lernen im Circle.
 1. Verwende dein **persönliches Netzwerk**, **soziale Medien** oder den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende zu finden.
