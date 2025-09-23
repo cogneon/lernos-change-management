@@ -2135,24 +2135,25 @@ Hierzu liest Du Dir zum Einstieg die Grundlagen zum Thema Rollen durch.
 Aufgabe: Wenn Du bereits Erfahrungen in einem Change-Prozess gesammelt
 hast, beantworte bitte folgende Fragen:
 
-- Welche Rollen hast Du bereits in Change-Prozessen übernommen, oder
-  welche Rollen führst Du aktuell aus?
+- Welche Rollen wie Change Manager, Change Agent, Führungskraft,
+  Change-Projektmitglied hast Du bereits in Change-Prozessen übernommen,
+  oder welche Rollen führst Du aktuell aus?
 - Wie hast Du Deine Rolle im Change-Prozess wahrgenommen und welche
   Herausforderungen hast Du dabei erlebt?
 - Welche Kenntnisse und Erfahrungen haben Dir bei Übernahme neuer Rollen
   und Aufgaben geholfen?
 - Reflektiere Deine Rolle und Deine Beobachtungen in Bezug auf die vier
-  Dimensionen "wollen / können / dürfen / müssen":
+  Dimensionen "wollen / können / dürfen / müssen"
   - Inwieweit waren die Dimensionen erfüllt oder auch nicht? Welche
     Konsequenzen haben sich daraus ergeben?
-  - Was hast Du gelernt? Welche Erkenntnisse hast Du gewonnen?
   - Was hat sich bewährt - und was nicht?
   - Worauf würdest Du in Zukunft besonders achten? Was würdest Du beim
     nächsten Mal anders machen?
 
 Aufgabe: Wenn du noch keine Erfahrungen in einem Change-Prozess gemacht
-hast, dann überlege Dir bitte, welche Rolle Du übernehmen würdest und
-warum.
+hast, dann überlege Dir bitte, welche Rolle Du gerne übernehmen würdest
+und warum. Überlege dabei eine Rolle, die den Change aktiv gestaltet,
+nicht nur passiv betroffen ist.
 
 ## Kata 3: Stakeholder Management
 
