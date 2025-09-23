@@ -10,7 +10,8 @@ Aufgabe: Beantworte folgende bitte folgende Reflexionsfragen:
 - Welche Verantwortung habe ich als Mitglied einer Community, um ein positives und unterstützendes Umfeld zu schaffen?
 - Welche Bedeutung hat der Austausch und die Zusammenarbeit mit anderen Community-Mitgliedern für mein persönliches Wohlbefinden und meine Zufriedenheit?
 - Wie kann ich Communities noch stärker in Change Projekten nutzen?
-- Wenn Du noch tiefer einsteigen möchtest:
+
+Wenn Du noch tiefer einsteigen möchtest:
 - Was kann ich dazu beitragen, ein unterstützendes und kooperatives Umfeld innerhalb der Community zu fördern?
 - Wie kann ich meine Ideen und Meinungen effektiv in die Community und den Change-Prozess einbringen?
   
