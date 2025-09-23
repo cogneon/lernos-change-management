@@ -829,18 +829,6 @@ Bemühungen und Erfolge der Mitarbeitenden im Zusammenhang mit der
 Veränderung. Dies trägt dazu bei, die positiven Emotionen und kognitiven
 Überzeugungen der Mitarbeitenden zu stärken.
 
-**Weiterführende Literatur:**
-
-"Leading Change" von John P. Kotter und "Managing Transitions: Making
-the Most of Change" von William Bridges: Während Kotter einen
-strukturierten, prozessorientierten Ansatz bietet, hilft Bridges, die
-menschlichen und emotionalen Dimensionen des Wandels zu verstehen und zu
-managen.
-
-Zusammen liefern sie eine umfassende Perspektive darauf, wie
-Führungskräfte ihre Rolle im Change-Management erfolgreich ausfüllen
-können.
-
 ### Analyse der Stakeholder: Verstehen von Motivationen und Widerständen
 
 Die Analyse der Stakeholder in IT-Change-Management-Projekten geht über
