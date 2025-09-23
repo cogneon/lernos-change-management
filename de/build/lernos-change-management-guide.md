@@ -2279,11 +2279,11 @@ Aufgabe: Beantworte folgende bitte folgende Reflexionsfragen:
   Community-Mitgliedern für mein persönliches Wohlbefinden und meine
   Zufriedenheit?
 - Wie kann ich Communities noch stärker in Change Projekten nutzen?
-- Wenn Du noch tiefer einsteigen möchtest:
-- Was kann ich dazu beitragen, ein unterstützendes und kooperatives
-  Umfeld innerhalb der Community zu fördern?
-- Wie kann ich meine Ideen und Meinungen effektiv in die Community und
-  den Change-Prozess einbringen?
+
+Wenn Du noch tiefer einsteigen möchtest: - Was kann ich dazu beitragen,
+ein unterstützendes und kooperatives Umfeld innerhalb der Community zu
+fördern? - Wie kann ich meine Ideen und Meinungen effektiv in die
+Community und den Change-Prozess einbringen?
 
 Aufgabe: Tauscht Euch im Circle dazu aus.
 
