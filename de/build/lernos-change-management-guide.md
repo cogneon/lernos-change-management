@@ -543,16 +543,17 @@ Einbindung und adaptives Vorgehen so wichtig.
   Infoseite](https://metatheorie-der-veraenderung.info)
 - [Change Management auf
   Wikipedia](https://en.wikipedia.org/wiki/Change_management)
-- - "Leading Change" von John P. Kotter oder "Managing Transitions:
-    Making the Most of Change" von William Bridges
+- "Leading Change" von John P. Kotter oder "Managing Transitions: Making
+  the Most of Change" von William Bridges
 - Beides sind Standardwerke, wenn auch zum Teil nicht mehr auf der Höhe
   der Zeit. Während Kotter einen strukturierten, prozessorientierten
   Ansatz bietet, hilft Bridges, die menschlichen und emotionalen
   Dimensionen des Wandels zu verstehen und zu managen. Zusammen liefern
   sie eine umfassende Perspektive darauf, wie Führungskräfte ihre Rolle
   im Change-Management erfolgreich ausfüllen können.
-- Our Iceberg is Melting/ Das Pinguin Prinzip (John P. Kotter): einfach
-  zu lesende und kurzweilige Business-Fabel zu Change Management
+- Our Iceberg is Melting bzw. Das Pinguin Prinzip (John P. Kotter):
+  einfach, schnell zu lesende und kurzweilige Business-Fabel zu Change
+  Management
 
 ### Rollen im Veränderungsprojekt
 
