@@ -17,15 +17,15 @@ nav:
        - Die Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten: 1-8-it-projects.md
        - Organisationskultur und Change-Management in IT-Reorganisationen: 1-9-culture.md
     - Lernpfad:
-       - Kennenlernen und Organisation des Circles (Kata 0): 2-1-kata-0.md
-       - Einführung Change-Management - Warum, wie und Besonderheiten im IT-Bereich (Kata 1): 2-2-kata-1.md
-       - Rollen im Change-Management und in Change Prozessen (Kata 2): 2-3-kata-2.md
-       - Stakeholder Management (Kata 3): 2-4-kata-3.md
-       - Management & Widerstände im Change Management (Kata 4): 2-5-kata-4.md
-       - Reflexion der Lernergebnisse (Kata 5): 2-6-kata-5.md
-       - Kommunikation im Change Management (Kata 6): 2-7-kata-6.md
-       - Training, Wissenstransfer & Lernen (Kata 7): 2-8-kata-7.md
-       - Communities im Change Management (Kata 8): 2-9-kata-8.md
+       - Kennenlernen und Organisation des Circles (Kata 0): 2-01-kata-0.md
+       - Einführung Change-Management - Warum, wie und Besonderheiten im IT-Bereich (Kata 1): 2-02-kata-1.md
+       - Rollen im Change-Management und in Change Prozessen (Kata 2): 2-03-kata-2.md
+       - Stakeholder Management (Kata 3): 2-04-kata-3.md
+       - Management & Widerstände im Change Management (Kata 4): 2-05-kata-4.md
+       - Reflexion der Lernergebnisse (Kata 5): 2-06-kata-5.md
+       - Kommunikation im Change Management (Kata 6): 2-07-kata-6.md
+       - Training, Wissenstransfer & Lernen (Kata 7): 2-08-kata-7.md
+       - Communities im Change Management (Kata 8): 2-09-kata-8.md
        - Feedback, Monitoring & kontinuierliche Verbesserung (Kata 9): 2-10-kata-9.md
        - Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten (Kata 10): 2-11-kata-10.md
        - Organisationskultur und Change-Management in IT-Reorganisationen (Kata 11): 2-12-kata-11.md
