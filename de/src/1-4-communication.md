@@ -80,16 +80,17 @@ Kommunikation kann synchron (alle Kommunikationspartner\*innen kommunizieren zur
 
 - Town-Hall-Meetings oder All-Hands-Meetings: Diese Meetings ermöglichen es Führungskräften, die Vision und Ziele des Wandels zu kommunizieren und im direkten Kontakt mit den Mitarbeitenden, Fragen zu beantworten. Das kann auch virtuell stattfinden. 
 - Change-Workshops oder Schulungen: Durch interaktive Workshops oder Schulungen können Mitarbeitende in den Change Prozess eingebunden werden. Sie erhalten die Möglichkeit, das Verständnis für den Wandel zu vertiefen, Fähigkeiten zu entwickeln und ihre Bedenken zu äußern. 
-- Regelmäßige Projekt-Meetings: Kurze, regelmäßige Besprechungen oder Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen zu beantworten und direktes Feedback von den Mitarbeitenden zu erhalten. 
-- Einbeziehung von Teamleitern und direkten Vorgesetzten: Die Einbeziehung von Teamleitern und direkten Vorgesetzten ist entscheidend, da sie oft die wichtigsten Ansprechpartner für Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft des Wandels unterstützen und ihre Teams effektiv informieren können (siehe auch unter Kapitel Projektrollen / Führungskräfte). 
-- Kommunikation durch Führungskräfte: Regelmäßige Kommunikation und offene Gespräche seitens der Führungskräfte, sei es durch persönliche Gespräche, bestehende Meetings, Newsletter oder E-Mails, um die Unterstützung für den Wandel zu demonstrieren und den Mitarbeitenden Orientierung zu bieten (siehe auch unter Kapitel Projektrollen / Führungskräfte).
+- Regelmäßige Projekt-Meetings: Kurze, regelmäßige Besprechungen oder Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen zu beantworten und direktes Feedback von den Mitarbeitenden zu erhalten.
+- AMA Meetings (Ask-Me-Anything): in Verbindung mit obigen Formaten oder alleine  kann so regelmässig ein Forum für Betroffene zum Stellen von Fragen geboten werden werden. 
+- Einbeziehung von Teamleitern und direkten Vorgesetzten: Die Einbeziehung von Teamleitern und direkten Vorgesetzten ist entscheidend, da sie oft die wichtigsten Ansprechpartner für Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft des Wandels unterstützen und ihre Teams effektiv informieren können. 
+- Kommunikation durch Führungskräfte: Regelmäßige Kommunikation und offene Gespräche seitens der Führungskräfte, sei es durch persönliche Gespräche, bestehende Team-Meetings, Newsletter oder E-Mails, um die Unterstützung für den Wandel zu demonstrieren und den Mitarbeitenden Orientierung zu bieten (siehe auch unter Kapitel Projektrollen / Führungskräfte).
 
 **Beispiele für asynchrone Formate**
 
 - Visuelle Präsentationen, Poster und Infografiken können komplexe Informationen auf eine visuell ansprechende Weise darstellen. Sie sind hilfreich, um den Mitarbeitenden optisch zu vermitteln, warum der Wandel stattfindet und welche Auswirkungen er haben wird. Dies kann auch Betroffene erreichen, die beispielsweise nicht digital arbeiten z.B. in der Produktion. 
 - Change-Management-Plattformen und Intranet: Das Bereitstellen einer dedizierten Plattform oder eines Teils des Intranets für Change-Management kann den Mitarbeitenden kontinuierliche Updates, Ressourcen, FAQs, Diskussionsforen und Erfolgsgeschichten bieten. 
 - Mitarbeitende-Feedback: Einfache und zugängliche Feedback-Mechanismen wie Feedback-Boxen oder digitale Plattformen, auf denen Mitarbeitende ihre Gedanken, Bedenken oder Ideen äußern können.  
-- Das Einrichten von Feedback-Tools wie Umfragen, offenen Diskussionsforen oder regelmäßigen Feedback-Sitzungen ermöglicht es den Mitarbeitenden, ihre Gedanken, Bedenken und Ideen zu äußern. Dem Change Team hilft es, die Inhalte anzupassen.  
+- Das Einrichten von Feedback-Tools wie Umfragen, offenen Diskussionsforen oder regelmäßigen Feedback-Sitzungen ermöglicht es den Mitarbeitenden, ihre Gedanken, Bedenken und Ideen zu äußern. Dem Change Team hilft es, die Inhalte anzupassen.   
 
 Diese verschiedenen Kommunikationsformate ergänzen sich oft gegenseitig und helfen dabei, umfassend zu kommunizieren, Verständnis zu schaffen, Widerstand zu minimieren und eine positive Einstellung gegenüber dem Wandel zu fördern.
 
@@ -109,6 +110,7 @@ Beim Erzählen von Geschichten in Change-Projekten ist es wichtig, auf einige Sc
 - Klare Botschaft und Zielsetzung - warum ist der Wandel wichtig  und welche Vorteile bringt er.
 - Einbeziehung der Zuhörenden inkl. der Ermutigung, sich in die Geschichte hineinzuversetzen oder sich mit Charakteren zu identifizieren.
 - Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung erzeugt und die Aufmerksamkeit der Zuhörenden aufrechterhält, ist wirkungsvoller.
+- Story Listening in einer Analyse-phase ist dabei wichtig, bestehende Geschichten und Narrative zu Nutzen oder daran anzudocken. Auf keinen Fall Change-Stories nur im stillen Kämmerlein entwickeln. 
 
 Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und Unterstützung für den Wandel wesentlich verbessern. 
 
@@ -126,3 +128,4 @@ Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und Unters
 **Weitere Ressourcen**:
 
 - Nice to know: [Kommunikation in SAP Change Management Projekten ](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108) [Kaffe](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)e[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[Ecken Recap](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
+- Narrative Organisationsentwicklung - [Blog zum Podcast mit Tobias Grewe](https://www.linkedin.com/pulse/narrative-organisationsentwicklung-mit-tobias-grewe-enc320-jenewein-i6gye/) 
