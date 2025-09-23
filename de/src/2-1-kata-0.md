@@ -14,7 +14,7 @@ Die wichtigste Aufgabe in der ersten Woche ist es, Euch gegenseitig besser kenne
 
 **Hauptthema:** (20 Minuten)  
 
-Plant, wann Ihr euch trefft, welche Tools Ihr zum Treffen (MSTeams, Zoom etc.) und zur Dokumentation (OneNote etc.) nutzt und zur weiteren Kommunikation (falls nötig) wie Chat. [Anbei ein Leitfaden](https://www.linkedin.com/posts/thomasjenewein_learning-circle-experience-tool-guide-activity-6899241139640356864-l-6G/). Hilfreich ist auch die Klärung, wer die Moderation übernimmt. Oft ist das rollierend - also immer jemand anderes. Am besten organisiert und blockt Ihr gleich die 12 Termine. Weitere Infos über Vorteile und den „prototypischen“ Ablauf einer Lerngruppe findet Ihr hier  [https://cogneon.github.io/lernos/de/learning](https://cogneon.github.io/lernos/de/learning-circle/)[-](https://cogneon.github.io/lernos/de/learning-circle/)[circle/](https://cogneon.github.io/lernos/de/learning-circle/)
+Plant, wann Ihr euch trefft, welche Tools Ihr zum Treffen (MSTeams, Zoom etc.) und zur Dokumentation (OneNote etc.) nutzt und zur weiteren Kommunikation (falls nötig) wie Chat. [Anbei ein Leitfaden](https://www.linkedin.com/posts/thomasjenewein_learning-circle-experience-tool-guide-activity-6899241139640356864-l-6G/). Hilfreich ist auch die Klärung, wer die Moderation übernimmt. Oft ist das rollierend - also immer jemand anderes. Am besten organisiert und blockt Ihr gleich die 12 Termine. Weitere Infos über Vorteile und den „prototypischen“ Ablauf einer Lerngruppe findet Ihr hier  [Lerngruppen und Lernzirkel](https://lernos.org/de/2-learning-circle/).
 
 Reflektiert kurz auch lernOS – was es ist und ob noch offene Fragen zu klären sind. Diejenigen, die noch nie einen lernOS Circle durchlaufen haben, können z.B. kurz Fragen stellen.
 
