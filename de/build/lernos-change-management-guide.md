@@ -2171,14 +2171,17 @@ Community and das Vorantreiben von lernOS.
 
 ## Änderungshistorie
 
-  ----------------------------------------------------------------------------------
-  Version   Bearbeitet von Beschreibung Änderung                        Datum
-  --------- -------------- -------------------------------------------- ------------
-  beta      Thomas         Erste Version des Leitfadens Change          05.04.2025
-            Jenewein et    Management                                   
-            al.                                                         
+  ------------------------------------------------------------------------------------------------------------------------
+  Version   Bearbeitet von            Beschreibung Änderung                                                   Datum
+  --------- ------------------------- ----------------------------------------------------------------------- ------------
+  beta 01   Thomas Jenewein et al.    Erste Version des Leitfadens Change Management                          05.04.2025
 
-  ----------------------------------------------------------------------------------
+  -------   -----------------------   ---------------------------------------------------------------------   ----------
+
+  beta 02   Thomas J. & Seyde S.      zweite Version des Leitfadens Change Management                         23.09.2025
+
+  -------   -----------------------   ---------------------------------------------------------------------   ----------
+  ------------------------------------------------------------------------------------------------------------------------
 
 **Dies ist die Betaversion nach initialem Feedbackloop und
 Korrekturlesen. Wir freuen uns auf weiteres Feedback!**
