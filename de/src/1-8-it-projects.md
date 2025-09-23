@@ -1,4 +1,4 @@
-## Die Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten ##
+## Die Rolle organisatorischer Veränderungen in IT-Projekten ##
 
 Die Digitalisierung stellt Organisationen vor fundamentale Herausforderungen und erfordert tiefgreifende Veränderungen. Die IT wird zur zentralen Schaltstelle für moderne Geschäftsprozesse. Diese Transformation verlangt nicht nur technologische Anpassungen, sondern auch eine grundlegende Neuausrichtung von Organisationsstrukturen und Arbeitsweisen.
 
