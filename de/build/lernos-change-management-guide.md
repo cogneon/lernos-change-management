@@ -1175,15 +1175,17 @@ passende Kommunikationskanal und das passende Format festgelegt.
   Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen
   zu beantworten und direktes Feedback von den Mitarbeitenden zu
   erhalten.
+- AMA Meetings (Ask-Me-Anything): in Verbindung mit obigen Formaten oder
+  alleine kann so regelmässig ein Forum für Betroffene zum Stellen von
+  Fragen geboten werden werden.
 - Einbeziehung von Teamleitern und direkten Vorgesetzten: Die
   Einbeziehung von Teamleitern und direkten Vorgesetzten ist
   entscheidend, da sie oft die wichtigsten Ansprechpartner für
   Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft
-  des Wandels unterstützen und ihre Teams effektiv informieren können
-  (siehe auch unter Kapitel Projektrollen / Führungskräfte).
+  des Wandels unterstützen und ihre Teams effektiv informieren können.
 - Kommunikation durch Führungskräfte: Regelmäßige Kommunikation und
   offene Gespräche seitens der Führungskräfte, sei es durch persönliche
-  Gespräche, bestehende Meetings, Newsletter oder E-Mails, um die
+  Gespräche, bestehende Team-Meetings, Newsletter oder E-Mails, um die
   Unterstützung für den Wandel zu demonstrieren und den Mitarbeitenden
   Orientierung zu bieten (siehe auch unter Kapitel Projektrollen /
   Führungskräfte).
@@ -1248,6 +1250,9 @@ einige Schlüsselfaktoren zu achten:
 - Struktur und Spannung von Anfang, Höhepunkt bis Ende, die Spannung
   erzeugt und die Aufmerksamkeit der Zuhörenden aufrechterhält, ist
   wirkungsvoller.
+- Story Listening in einer Analyse-phase ist dabei wichtig, bestehende
+  Geschichten und Narrative zu Nutzen oder daran anzudocken. Auf keinen
+  Fall Change-Stories nur im stillen Kämmerlein entwickeln.
 
 Wenn Geschichten richtig eingesetzt werden, können sie die Akzeptanz und
 Unterstützung für den Wandel wesentlich verbessern.
@@ -1296,6 +1301,8 @@ Unterstützung für den Wandel wesentlich verbessern.
   Projekten](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
   [Kaffe](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)e[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[Ecken
   Recap](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
+- Narrative Organisationsentwicklung - [Blog zum Podcast mit Tobias
+  Grewe](https://www.linkedin.com/pulse/narrative-organisationsentwicklung-mit-tobias-grewe-enc320-jenewein-i6gye/)
 
 ## Lernen & Weiterbildung im Change-Management -- von Lernbedarfsanalyse & Lernformaten bis zum regelmäßigen Lernen
 
