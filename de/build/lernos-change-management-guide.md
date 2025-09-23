@@ -1123,9 +1123,9 @@ Konkret kann ein Kommunikationsplan entlang folgender Schritte erstellt
 werden:
 
 - Definiere die Ziele der Kommunikation.
-- Bestimme, wer die Hauptzielgruppen sind -- IT-Teams,
-  Abteilungsleiter\*innen, Endnuser usw. Jede Gruppe hat
-  unterschiedliche Informationsbedürfnisse.
+- Bestimme, wer die Hauptzielgruppen sind -- IT-Teams, Abteilungsleiter,
+  Endnuser usw. Jede Gruppe hat unterschiedliche
+  Informationsbedürfnisse.
 - Entscheide, welche Kommunikationsmittel am effektivsten sind: E-Mails,
   Meetings, Newsletter, Intranet, Chats, Präsentationen, Workshops,
   Videomeetings usw. Nutze mehrere Kanäle für verschiedene Botschaften
@@ -1178,8 +1178,8 @@ passende Kommunikationskanal und das passende Format festgelegt.
   Team-Meetings vor Ort, um Informationen zum Wandel zu teilen, Fragen
   zu beantworten und direktes Feedback von den Mitarbeitenden zu
   erhalten.
-- Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten: Die
-  Einbeziehung von Teamleiter\*innen und direkten Vorgesetzten ist
+- Einbeziehung von Teamleitern und direkten Vorgesetzten: Die
+  Einbeziehung von Teamleitern und direkten Vorgesetzten ist
   entscheidend, da sie oft die wichtigsten Ansprechpartner für
   Mitarbeitende sind. Schulen Sie sie gezielt, damit sie die Botschaft
   des Wandels unterstützen und ihre Teams effektiv informieren können
@@ -1270,14 +1270,13 @@ Unterstützung für den Wandel wesentlich verbessern.
 - Messbare Ziele und Fortschritt anzeigen: Visualisieren von Erfolgen
   und Meilensteinen, um das Engagement und die Motivation
   aufrechtzuerhalten.
-- Verschiedene Perspektiven herausarbeiten (auch für Endnutzer\*innen):
+- Verschiedene Perspektiven herausarbeiten (auch für Endnutzer):
   IT-Lösungen werden oft vom Management eingekauft. Der Mehrwert und die
-  Änderungen für Mitarbeitende und Nutzer\*innen ist oft nicht klar -
-  dies gilt es z.B. anhand Personas herauszuarbeiten. In sogenannten
-  Change Impact Analysen kann dann eingeschätzt werden, wie stark die
-  Änderungen für die jeweilige Persona oder Rolle sind. Gerade bei hohem
-  Change Impact ist es wichtig ausreichend bzw. mehrmals zu
-  kommunizieren.
+  Änderungen für Mitarbeitende und Nutzer ist oft nicht klar - dies gilt
+  es z.B. anhand Personas herauszuarbeiten. In sogenannten Change Impact
+  Analysen kann dann eingeschätzt werden, wie stark die Änderungen für
+  die jeweilige Persona oder Rolle sind. Gerade bei hohem Change Impact
+  ist es wichtig ausreichend bzw. mehrmals zu kommunizieren.
 - Timing: Zu früh zu viel zu kommunizieren weckt evtl. Erwartungen, die
   noch nicht bedient werden können. Zu spät oder zu wenig zu
   kommunizieren ist u.U. ebenso suboptimal. Daher ist es wichtig, den
@@ -1285,8 +1284,8 @@ Unterstützung für den Wandel wesentlich verbessern.
   transparent zu sein. Das bedeutet, klar zu kommunizieren, welche
   Schritte noch unklar sind und wie das Fortschreiten kommuniziert
   wird.\*\*
-- Nutzen von Multiplikator\*innen und bestehenden Kanälen: Eigene Change
-  Netzwerke oder bestehende Netzwerke wie Assistent\*innen, Azubis,
+- Nutzen von Multiplikatoren und bestehenden Kanälen: Eigene Change
+  Netzwerke oder bestehende Netzwerke wie Assistenten, Azubis,
   Führungskräfte-Meetings können zur Kommunikation genutzt werden.
 
 **Weitere Ressourcen**:
