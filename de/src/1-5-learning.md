@@ -26,7 +26,7 @@ Ist- und Soll-Einschätzung können natürlich auch per Umfrage und Selbsteinsch
 Tipps:
 
 - Denkt bei der Trainingsbedarfsanalyse nicht nur an Anwender und Experten, sondern an alle Stakeholder, wie z.B. Manager. Denn Lernen und Training sind ein starkes Element der Einbindung und Motivation.
-- Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte Performance – nicht auf Top-Talents oder extreme Expert\*innen – das ist meist zu viel und komplex.  
+- Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte Performance – nicht auf Top-Talents oder extreme Expert – das ist meist zu viel und komplex.  
 - Ob bei Design oder Evaluation: achtet auf den Transfer in den Arbeitsalltag.
 
 ### Formate & Konzept incl. Train the Trainer Ansatz (TTT) ###
