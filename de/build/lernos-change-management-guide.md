@@ -1297,10 +1297,9 @@ Unterstützung für den Wandel wesentlich verbessern.
 
 **Weitere Ressourcen**:
 
-- Nice to know: [Kommunikation in SAP Change Management
-  Projekten](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
-  [Kaffe](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)e[-](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)[Ecken
-  Recap](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
+- Blog-Doku einer Community Session: [Kommunikation in SAP Change
+  Management
+  Projekten](https://community.sap.com/t5/sap-training-and-change-management/kommunikation-in-sap-change-management-projekten-kaffe-ecken-recap/ba-p/297108)
 - Narrative Organisationsentwicklung - [Blog zum Podcast mit Tobias
   Grewe](https://www.linkedin.com/pulse/narrative-organisationsentwicklung-mit-tobias-grewe-enc320-jenewein-i6gye/)
 
