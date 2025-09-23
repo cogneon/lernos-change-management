@@ -1872,8 +1872,9 @@ vermittelt werden. Datengestützte Geschäftsmodelle bieten Vorteile wie
 erhöhte Flexibilität und Innovationskraft, die sowohl in den bekundeten
 Werten als auch in den grundlegenden Annahmen verankert werden müssen.
 
-Tipp: Entwickeln Sie eine überzeugende "Story" für den Wandel, die alle
-kulturellen Ebenen adressiert.
+Tipp: Entwickelt eine überzeugende "Story" für den Wandel, die alle
+kulturellen Ebenen adressiert (siehe auch 1.4. Kommunikation,
+Storytelling).
 
 **Kommunikation und Kompetenzentwicklung:**
 
@@ -1881,8 +1882,8 @@ Offene Kommunikation über Veränderungen in Skills und Rollen ist
 entscheidend. Dies betrifft besonders die Ebene der grundlegenden
 Annahmen nach Schein.
 
-Tipp: Investieren Sie in Schulungen und schaffen Sie eine Lernkultur,
-die psychologische Sicherheit bietet.
+Tipp: Investiert in Schulungen und schaffen Sie eine Lernkultur, die
+psychologische Sicherheit bietet.
 
 **Neue Führungsansätze und Teamstrukturen:**
 
@@ -1891,18 +1892,17 @@ Führungsstrukturen. Dies bedeutet eine Veränderung auf allen kulturellen
 Ebenen, von sichtbaren Strukturen bis hin zu grundlegenden Annahmen über
 Hierarchie und Macht.
 
-Tipp: Schulen Sie Führungskräfte in ihrer Rolle als Kulturgestalter und
-schaffen Sie neue, attraktive Karrierepfade.
+Tipp: Schult die Führungskräfte in ihrer Rolle als Kulturgestalter und
+schafft neue, attraktive Karrierepfade.
 
 **Beobachtung und Gestaltung der Organisationskultur:**
 
 Die sich entwickelnde Kultur muss kontinuierlich beobachtet und
-beeinflusst werden. Nutzen Sie Scheins Methode der "klinischen
-Untersuchung", um tiefliegende kulturelle Annahmen zu verstehen und zu
-beeinflussen.
+beeinflusst werden. Nutzt Scheins Methode der "klinischen Untersuchung",
+um tiefliegende kulturelle Annahmen zu verstehen und zu beeinflussen.
 
-Tipp: Etablieren Sie regelmäßige Feedback-Runden und einen ständigen
-Dialog, um die Kultur aktiv zu gestalten.
+Tipp: Etabliert regelmäßige Feedback-Runden und einen ständigen Dialog,
+um die Kultur aktiv zu gestalten.
 
 **Fazit**:
 
