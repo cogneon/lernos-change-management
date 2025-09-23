@@ -1,4 +1,4 @@
-## Organisationskultur und Change-Management in IT-Reorganisationen ##
+## Organisationskultur und Change-Management ##
 
 Die Einführung neuer IT- und Cloud-Lösungen stellt Unternehmen vor bedeutende kulturelle und organisatorische Herausforderungen. Edgar Schein's Modell der Organisationskultur bietet einen wertvollen Rahmen, um diese Herausforderungen zu verstehen und zu bewältigen.
 
