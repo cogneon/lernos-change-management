@@ -56,7 +56,7 @@ toc-own-page: true
     Change-Management: Mehr als nur
     Rollen](#stakeholder-management-im-change-management-mehr-als-nur-rollen){#toc-stakeholder-management-im-change-management-mehr-als-nur-rollen}
     - [[4.2.1]{.toc-section-number} Die psychologische Rolle der
-      Manager\*in](#die-psychologische-rolle-der-managerin){#toc-die-psychologische-rolle-der-managerin}
+      Manager](#die-psychologische-rolle-der-manager){#toc-die-psychologische-rolle-der-manager}
     - [[4.2.2]{.toc-section-number} Analyse der Stakeholder: Verstehen
       von Motivationen und
       Widerständen](#analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen){#toc-analyse-der-stakeholder-verstehen-von-motivationen-und-widerständen}
@@ -760,30 +760,29 @@ außerdem Personen, die Interessen, Rechte & Pflichten im Projekt haben
 (Betriebsrat, Politik etc.) oder Personen, die von den Veränderungen im
 Unternehmen betroffen sind.
 
-Dazu gehören Projektmanager\*innen, IT-Teams, Einkauf, Fachabteilungen,
-Personalbereich, Geschäftsführer\*innen, Enduser und weitere interne
-Stakeholder wie Betriebsräte\*innen und auch
-Datenschutzbeauftragt\*innen.
+Dazu gehören Projektmanager, IT-Teams, Einkauf, Fachabteilungen,
+Personalbereich, Geschäftsführer, Enduser und weitere interne
+Stakeholder wie Betriebsräte und auch Datenschutzbeauftragte.
 
 Je nach Projekt können auch externe Stakeholder eine Rolle spielen. Von
-Partner\*innen wie IT-Anbietern oder Implementierungspartnern bis hin
-zur Politik bzw. Gesetzgeber oder Verbände bei großen Veränderungen.
+Partnern wie IT-Anbietern oder Implementierungspartnern bis hin zur
+Politik bzw. Gesetzgeber oder Verbände bei großen Veränderungen.
 
 Jeder dieser Stakeholder bringt eine eigene Sichtweise, seine eigenen
 Erfahrungen und sein eigenes Verständnis des Projekts mit.
 
-### Die psychologische Rolle der Manager\*in
+### Die psychologische Rolle der Manager
 
-Manager\*innen spielen eine entscheidende Rolle in
-IT-Change-Management-Projekten. Sie sind nicht nur
-Entscheidungsträger\*innen und Ressourcenbereitsteller\*innen, sondern
-auch Führungskräfte, die das Team motivieren, koordinieren, inspirieren
-und moderieren müssen. Sie sind auch Vermittler zwischen verschiedenen
-Stakeholdern und müssen Konflikte managen und Konsens herstellen. Wenn
-sie nicht überzeugt sind oder die entsprechenden Änderungen nicht
-mittragen, hat es die beste Software und jede Veränderung schwer. Auch
-müssen sie das Sollen mit definieren -- sprich das Zielbild, Vision, die
-nötigen Änderungen - sowie den Rahmen (Dürfen) ermöglichen.
+Manager spielen eine entscheidende Rolle in
+IT-Change-Management-Projekten. Sie sind nicht nur Entscheidungsträgern
+und Ressourcenbereitsteller, sondern auch Führungskräfte, die das Team
+motivieren, koordinieren, inspirieren und moderieren müssen. Sie sind
+auch Vermittler zwischen verschiedenen Stakeholdern und müssen Konflikte
+managen und Konsens herstellen. Wenn sie nicht überzeugt sind oder die
+entsprechenden Änderungen nicht mittragen, hat es die beste Software und
+jede Veränderung schwer. Auch müssen sie das Sollen mit definieren --
+sprich das Zielbild, Vision, die nötigen Änderungen - sowie den Rahmen
+(Dürfen) ermöglichen.
 
 Aus Forschung rund um Veränderungskompetenz wissen wir, dass es nicht
 nur um Persönlichkeit (wie Offenheit, Adaptivität), individuelle
@@ -797,38 +796,38 @@ die Veränderung freuen und sie als positiv und wünschenswert empfinden
 (positive Emotionen), sind sie eher bereit, die Veränderung zu
 unterstützen und sich dafür einzusetzen.
 
-Um Manager\*innen auf diese Aufgaben im Rahmen des Change-Prozesses
+Um Manager auf diese Aufgaben im Rahmen des Change-Prozesses
 vorzubereiten, sind Trainings sinnvoll: Führungskräfte sollten in den
 Grundlagen des Change-Managements geschult werden, um die
 psychologischen und organisatorischen Aspekte des Wandels zu verstehen
 und effektiv zu managen.
 
-**Wie Manager\*innen Überzeugungen und positive Emotionen über
-Veränderungen mitgestalten können**
+**Wie Manager Überzeugungen und positive Emotionen über Veränderungen
+mitgestalten können**
 
-**Kommunikation**: Manager\*innen kommunizieren die Gründe für die
-Veränderung klar und überzeugend, um kognitive Überzeugungen zu stärken.
-Sie heben die Vorteile und positiven Aspekte der Veränderung hervor, um
-positive Emotionen zu fördern. Das beutetet, dass sie die Kommunikation
-nicht komplett delegieren, sondern selbst aktiv sind.
+**Kommunikation**: Manager kommunizieren die Gründe für die Veränderung
+klar und überzeugend, um kognitive Überzeugungen zu stärken. Sie heben
+die Vorteile und positiven Aspekte der Veränderung hervor, um positive
+Emotionen zu fördern. Das beutetet, dass sie die Kommunikation nicht
+komplett delegieren, sondern selbst aktiv sind.
 
-**Beteiligung**: Manager\*innen beziehen die Mitarbeitenden in den
+**Beteiligung**: Manager beziehen die Mitarbeitenden in den
 Change-Prozess ein, um ihre kognitiven Überzeugungen und positiven
 Emotionen zu stärken. Wenn die Mitarbeitenden das Gefühl haben, dass sie
 einen Beitrag leisten und Einfluss nehmen können, sind sie eher bereit,
 die Veränderung zu unterstützen.
 
-**Unterstützung**: Manager\*innen stellen den Mitarbeitenden die
-notwendige Unterstützung und Ressourcen zur Verfügung, um die
-Veränderung zu bewältigen. Dies kann dazu beitragen, ihre kognitiven
-Überzeugungen und positiven Emotionen zu stärken.
+**Unterstützung**: Manager stellen den Mitarbeitenden die notwendige
+Unterstützung und Ressourcen zur Verfügung, um die Veränderung zu
+bewältigen. Dies kann dazu beitragen, ihre kognitiven Überzeugungen und
+positiven Emotionen zu stärken.
 
-**Vorbildfunktion**: Manager\*innen dienen als Vorbilder für
-Veränderungen und fördern durch ihr eigenes Verhalten und ihre eigene
-Einstellung positive Emotionen und kognitive Überzeugungen.
+**Vorbildfunktion**: Manager dienen als Vorbilder für Veränderungen und
+fördern durch ihr eigenes Verhalten und ihre eigene Einstellung positive
+Emotionen und kognitive Überzeugungen.
 
-**Anerkennung und Belohnung**: Manager\*innen anerkennen und belohnen
-die Bemühungen und Erfolge der Mitarbeitenden im Zusammenhang mit der
+**Anerkennung und Belohnung**: Manager anerkennen und belohnen die
+Bemühungen und Erfolge der Mitarbeitenden im Zusammenhang mit der
 Veränderung. Dies trägt dazu bei, die positiven Emotionen und kognitiven
 Überzeugungen der Mitarbeitenden zu stärken.
 
@@ -965,8 +964,8 @@ Es gibt vielfältige Formen von Widerständen, die es zu erkennen gilt:
 - Stärken der Leadership-Rolle und des Involvements der Stakeholder
 - Offene Haltung gegenüber Widerständen - Gründe ernsthaft ergründen
 - Ausreichend Raum für Übergangs- und Reflexionsphasen einplanen
-- Individuelle Begleitung von Schlüsselpersonen die Wissensträger\*innen
-  sind und hohen Einfluss haben
+- Individuelle Begleitung von Schlüsselpersonen, die Wissensträger sind
+  und hohen Einfluss haben
 - Strukturgebende Maßnahmen wie Rituale und Meetings zur Orientierung
 - Rollen so gestalten, dass sie sich mit den Bedürfnissen und
   Erwartungen der Organisation decken, ohne das Individuum emotional zu
