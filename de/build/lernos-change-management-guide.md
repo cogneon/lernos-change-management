@@ -437,7 +437,7 @@ Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll.
 Insofern definiert der Projektsponsor die Vision, die Ziele und die
 Strategie, die das Projekt verfolgen soll.
 
-Zudem ist derProjektsponsor für das Risikomanagement des Projekts
+Zudem ist der Projektsponsor für das Risikomanagement des Projekts
 verantwortlich.
 
 Ein Risiko bei klassischen Projektmanagement -- Ansätzen ist
@@ -461,6 +461,8 @@ zusammen mit dem Projektsteuerkreis-Projektlenkungsausschuss sind
 wichtige Funktionen, die wesentlich zum Erfolg des Projekts beitragen.
 Projektsponsoren sollten sich dem Erfolg des Projekts verpflichtet
 fühlen und alle Maßnahmen ergreifen, die dafür erforderlich sind.
+Wichtig: wenn ein Sponsor seinen Job wechselt, ist zu untersuchen wer
+evtl. als neuer Sponsor Sinn macht.
 
 #### Projektleitung in Change Projekten
 
