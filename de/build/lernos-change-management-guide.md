@@ -127,8 +127,8 @@ toc-own-page: true
     kontinuierliche
     Verbesserung](#kata-9-feedback-monitoring-kontinuierliche-verbesserung){#toc-kata-9-feedback-monitoring-kontinuierliche-verbesserung}
   - [[5.3]{.toc-section-number} Kata 10: Rolle organisatorischer
-    Veränderungen in IT- und
-    Cloud-Projekten](#kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten){#toc-kata-10-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten}
+    Veränderungen in
+    IT-Projekten](#kata-10-rolle-organisatorischer-veränderungen-in-it-projekten){#toc-kata-10-rolle-organisatorischer-veränderungen-in-it-projekten}
   - [[5.4]{.toc-section-number} Kata 12: Review & lessons
     learned](#kata-12-review-lessons-learned){#toc-kata-12-review-lessons-learned}
   - [[5.5]{.toc-section-number} Kata 1: Einführung Change-Management:
@@ -2025,7 +2025,7 @@ auf Deine Arbeit / Firma übertragen kannst.
 
 Aufgabe: tausche Dich mit Deinen Circle Mitgliedern zu den Punkten aus.
 
-## Kata 10: Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten
+## Kata 10: Rolle organisatorischer Veränderungen in IT-Projekten
 
 Erfolgreiche IT Transformationen erfordern nicht nur technologische
 Anpassungen, sondern auch tiefgreifende organisatorische Veränderungen
@@ -2035,13 +2035,12 @@ Organisationskultur berücksichtigt und aktiv gestaltet.
 Aufgabe: Lest die Kapitel 3.8 und 3.9. Reflektiert über die Inhalte und
 überlegt, wie Ihr diese auf Eure Arbeit anwenden könnt.
 
-- Identifiziert ein aktuelles oder kürzlich abgeschlossenes und überlegt
-  folgende Punkte:
-- Welche organisatorischen Veränderungen waren notwendig? Wurden diese
-  erfolgreich umgesetzt?
-- Wie wurden neue Führungs- und Zusammenarbeitsmodelle integriert?
-- Welche neuen Fähigkeiten und Kompetenzen waren erforderlich? Wie
-  wurden diese entwickelt oder rekrutiert?
+Identifiziert ein aktuelles oder kürzlich abgeschlossenes Change-Projekt
+und überlegt folgende Punkte: - Welche organisatorischen Veränderungen
+waren notwendig? Wurden diese erfolgreich umgesetzt? - Wie wurden neue
+Führungs- und Zusammenarbeitsmodelle integriert? - Welche neuen
+Fähigkeiten und Kompetenzen waren erforderlich? Wie wurden diese
+entwickelt oder besorgt?
 
 **Kata 11: Organisationskultur und Change-Management in
 IT-Reorganisationen**
