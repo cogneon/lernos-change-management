@@ -2260,9 +2260,9 @@ Circle-Mitglied!)
 ## Kata 8: Communities im Change Management
 
 In dieser Übung beschäftigst Du Dich mit Deinen persönlichen Erfahrungen
-zu den positiven Aspekten von Communities in Change-Prozessen. Die
-Reflexionsfragen regen dazu an, im Circle über die Vorteile
-auszutauschen und mögliche Bereiche zur Verbesserung zu identifizieren.
+zu Communities in Change-Prozessen. Die Reflexionsfragen regen dazu an,
+im Circle über die Vorteile auszutauschen und mögliche Bereiche zur
+Verbesserung zu identifizieren.
 
 Aufgabe: Beantworte folgende bitte folgende Reflexionsfragen:
 
@@ -2278,16 +2278,14 @@ Aufgabe: Beantworte folgende bitte folgende Reflexionsfragen:
 - Welche Bedeutung hat der Austausch und die Zusammenarbeit mit anderen
   Community-Mitgliedern für mein persönliches Wohlbefinden und meine
   Zufriedenheit?
+- Wie kann ich Communities noch stärker in Change Projekten nutzen?
 - Wenn Du noch tiefer einsteigen möchtest:
 - Was kann ich dazu beitragen, ein unterstützendes und kooperatives
   Umfeld innerhalb der Community zu fördern?
 - Wie kann ich meine Ideen und Meinungen effektiv in die Community und
   den Change-Prozess einbringen?
-- Wie hat mein Beitrag zur Community meine eigenen Fähigkeiten und mein
-  Wissen erweitert?
 
-Aufgabe: Tauscht Euch im Circle dazu aus: Was hat bei Euch funktioniert
-und was nicht?
+Aufgabe: Tauscht Euch im Circle dazu aus.
 
 # Anhang
 
