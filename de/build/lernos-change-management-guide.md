@@ -2205,8 +2205,8 @@ Minuten/Circle-Mitglied).
 ## Kata 6: Kommunikation im Change Management
 
 In dieser Kata geht es darum, zu verstehen welche Rolle die
-Kommunikation in Change-Projekten spielt. Dazu liest Du die
-theoretischen Inhalte in Kapitel 3.4 und reflektierst das „Why" und
+Kommunikation in Change-Projekten spielt. Lest dazu bitte die
+theoretischen Inhalte in Kapitel 3.4 und reflektiert das „Why" und
 „What".
 
 Aufgabe: Überlege Dir, welche Kanäle Du am liebsten für die
@@ -2223,8 +2223,9 @@ Aufgabe: Erstelle eine Liste an Kommunikationsformaten und Materialien.
 Überlege Dir, welche Formate Du für welche Zielgruppe passend findest
 und warum.
 
-Aufgabe: Reflektieren Deine vergangenen Projekte und überlege, was genau
-gut gelaufen ist und wie Kommunikation besser hätte sein können.
+Aufgabe: Reflektieren Deine vergangenen Projekte und überlege, was gut
+gelaufen ist und wie Kommunikation besser hätte sein können. z.B. Wo
+hätte mehr Dialog Sinn gemacht, wo anderes Timing oder andere Formate?
 
 ## Kata 7: Training, Wissenstransfer & Lernen
 
