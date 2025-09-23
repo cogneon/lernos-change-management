@@ -1975,8 +1975,8 @@ Leitfaden](https://www.linkedin.com/posts/thomasjenewein_learning-circle-experie
 Hilfreich ist auch die Klärung, wer die Moderation übernimmt. Oft ist
 das rollierend - also immer jemand anderes. Am besten organisiert und
 blockt Ihr gleich die 12 Termine. Weitere Infos über Vorteile und den
-„prototypischen" Ablauf einer Lerngruppe findet Ihr hier [Lerngruppen
-und Lernzirkel](https://lernos.org/de/2-learning-circle/).
+„prototypischen" Ablauf einer Lerngruppe findet Ihr hier im Blog zu
+[Lerngruppen und Lernzirkel](https://lernos.org/de/2-learning-circle/).
 
 Reflektiert kurz auch lernOS -- was es ist und ob noch offene Fragen zu
 klären sind. Diejenigen, die noch nie einen lernOS Circle durchlaufen
