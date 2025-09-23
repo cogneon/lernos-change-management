@@ -30,12 +30,6 @@ Um Manager auf diese Aufgaben im Rahmen des Change-Prozesses vorzubereiten, sind
 
 **Anerkennung und Belohnung**: Manager anerkennen und belohnen die Bemühungen und Erfolge der Mitarbeitenden im Zusammenhang mit der Veränderung. Dies trägt dazu bei, die positiven Emotionen und kognitiven Überzeugungen der Mitarbeitenden zu stärken.
 
-**Weiterführende Literatur:**
-
-“Leading Change" von John P. Kotter und "Managing Transitions: Making the Most of Change" von William Bridges: Während Kotter einen strukturierten, prozessorientierten Ansatz bietet, hilft Bridges, die menschlichen und emotionalen Dimensionen des Wandels zu verstehen und zu managen.
-
-Zusammen liefern sie eine umfassende Perspektive darauf, wie Führungskräfte ihre Rolle im Change-Management erfolgreich ausfüllen können.
-
 ### Analyse der Stakeholder: Verstehen von Motivationen und Widerständen ###
 
 Die Analyse der Stakeholder in IT-Change-Management-Projekten geht über das bloße Verständnis ihrer Rollen und Aufgaben hinaus. Es geht darum, ihre Motivationen, Ängste, Widerstände und Interessen zu verstehen. Dazu können verschiedene Methoden verwendet werden:
@@ -121,3 +115,4 @@ Es gibt vielfältige Formen von Widerständen, die es zu erkennen gilt:
 **Literatur**
 
 - [SAP Training und Change Kaffee Ecke: Widerstände im Change – Ursachen, Formen und möglicher Umgang](https://community.sap.com/t5/sap-training-and-change-management/sap-training-und-change-kaffee-ecke-widerst%C3%A4nde-im-change-ursachen-formen/ba-p/13771310)
+
