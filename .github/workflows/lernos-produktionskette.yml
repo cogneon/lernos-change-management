@@ -85,7 +85,6 @@ jobs:
             --standalone
             --resource-path=./de/src
             --number-sections
-            --toc
             -V lang=de-de
             --output=./de/build/${{ github.event.repository.name }}-guide.md
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
