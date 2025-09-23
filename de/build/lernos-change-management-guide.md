@@ -1366,8 +1366,8 @@ Tipps:
   Experten, sondern an alle Stakeholder, wie z.B. Manager. Denn Lernen
   und Training sind ein starkes Element der Einbindung und Motivation.
 - Bei der Soll-Einschätzung: Fokus auf wirkliche geforderte Performance
-  -- nicht auf Top-Talents oder extreme Expert\*innen -- das ist meist
-  zu viel und komplex.\
+  -- nicht auf Top-Talents oder extreme Expert -- das ist meist zu viel
+  und komplex.\
 - Ob bei Design oder Evaluation: achtet auf den Transfer in den
   Arbeitsalltag.
 
