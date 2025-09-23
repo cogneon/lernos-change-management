@@ -122,33 +122,33 @@ toc-own-page: true
   - [[5.1]{.toc-section-number} Kata 0: Kennenlernen und Organisation
     des
     Circles](#kata-0-kennenlernen-und-organisation-des-circles){#toc-kata-0-kennenlernen-und-organisation-des-circles}
-  - [[5.2]{.toc-section-number} Kata 9: Feedback, Monitoring &
-    kontinuierliche
-    Verbesserung](#kata-9-feedback-monitoring-kontinuierliche-verbesserung){#toc-kata-9-feedback-monitoring-kontinuierliche-verbesserung}
-  - [[5.3]{.toc-section-number} Kata 10: Rolle organisatorischer
-    Veränderungen in
-    IT-Projekten](#kata-10-rolle-organisatorischer-veränderungen-in-it-projekten){#toc-kata-10-rolle-organisatorischer-veränderungen-in-it-projekten}
-  - [[5.4]{.toc-section-number} Kata 12: Review & lessons
-    learned](#kata-12-review-lessons-learned){#toc-kata-12-review-lessons-learned}
-  - [[5.5]{.toc-section-number} Kata 1: Einführung Change-Management:
+  - [[5.2]{.toc-section-number} Kata 1: Einführung Change-Management:
     Warum, wie und Besonderheiten im
     IT-Bereich](#kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich){#toc-kata-1-einführung-change-management-warum-wie-und-besonderheiten-im-it-bereich}
-  - [[5.6]{.toc-section-number} Kata 2: Rollen im Change-Management und
+  - [[5.3]{.toc-section-number} Kata 2: Rollen im Change-Management und
     in Change
     Prozessen](#kata-2-rollen-im-change-management-und-in-change-prozessen){#toc-kata-2-rollen-im-change-management-und-in-change-prozessen}
-  - [[5.7]{.toc-section-number} Kata 3: Stakeholder
+  - [[5.4]{.toc-section-number} Kata 3: Stakeholder
     Management](#kata-3-stakeholder-management){#toc-kata-3-stakeholder-management}
-  - [[5.8]{.toc-section-number} Kata 4: Management & Widerstände im
+  - [[5.5]{.toc-section-number} Kata 4: Management & Widerstände im
     Change
     Management](#kata-4-management-widerstände-im-change-management){#toc-kata-4-management-widerstände-im-change-management}
-  - [[5.9]{.toc-section-number} Kata 5: Reflexion der
+  - [[5.6]{.toc-section-number} Kata 5: Reflexion der
     Lernergebnisse](#kata-5-reflexion-der-lernergebnisse){#toc-kata-5-reflexion-der-lernergebnisse}
-  - [[5.10]{.toc-section-number} Kata 6: Kommunikation im Change
+  - [[5.7]{.toc-section-number} Kata 6: Kommunikation im Change
     Management](#kata-6-kommunikation-im-change-management){#toc-kata-6-kommunikation-im-change-management}
-  - [[5.11]{.toc-section-number} Kata 7: Training, Wissenstransfer &
+  - [[5.8]{.toc-section-number} Kata 7: Training, Wissenstransfer &
     Lernen](#kata-7-training-wissenstransfer-lernen){#toc-kata-7-training-wissenstransfer-lernen}
-  - [[5.12]{.toc-section-number} Kata 8: Communities im Change
+  - [[5.9]{.toc-section-number} Kata 8: Communities im Change
     Management](#kata-8-communities-im-change-management){#toc-kata-8-communities-im-change-management}
+  - [[5.10]{.toc-section-number} Kata 9: Feedback, Monitoring &
+    kontinuierliche
+    Verbesserung](#kata-9-feedback-monitoring-kontinuierliche-verbesserung){#toc-kata-9-feedback-monitoring-kontinuierliche-verbesserung}
+  - [[5.11]{.toc-section-number} Kata 10: Rolle organisatorischer
+    Veränderungen in
+    IT-Projekten](#kata-10-rolle-organisatorischer-veränderungen-in-it-projekten){#toc-kata-10-rolle-organisatorischer-veränderungen-in-it-projekten}
+  - [[5.12]{.toc-section-number} Kata 12: Review & lessons
+    learned](#kata-12-review-lessons-learned){#toc-kata-12-review-lessons-learned}
 - [[6]{.toc-section-number} Anhang](#anhang){#toc-anhang}
   - [[6.1]{.toc-section-number}
     Danksagungen](#danksagungen){#toc-danksagungen}
@@ -2012,103 +2012,6 @@ Bitte bestätigt das nächste Treffen und den nächsten Moderator. Was
 wirst du bis zum nächsten Weekly tun? Zum Beispiel Kata 1 für die
 nächste Woche vorbereiten.
 
-## Kata 9: Feedback, Monitoring & kontinuierliche Verbesserung
-
-Analysen und Messungen unterstützen die Identifizierung von Risiken, die
-Bewertung des Fortschritts und Erfolgs sowie die Anpassung und
-Optimierung von Change-Management-Strategien. Wir haben auf
-unterschiedliche Analysen in den Grundlagen geschaut.
-
-Aufgabe: Lese die Grundlagen. Reflektiere was Du gelernt hast und was Du
-auf Deine Arbeit / Firma übertragen kannst.
-
-- Reflektiere, welche KPIs und Feedback Instrumente in Deinem Umfeld das
-  Change-Management unterstützen
-- Wie kannst Du Change Readiness Checks nutzen?
-- Welche Rolle können Change Impact Analysen spielen?
-- Wie kannst Du Retrospektive/ Evaluationen/ kontinuierliche
-  Verbesserung noch nutzen?
-
-Aufgabe: tausche Dich mit Deinen Circle Mitgliedern zu den Punkten aus.
-
-## Kata 10: Rolle organisatorischer Veränderungen in IT-Projekten
-
-Erfolgreiche IT Transformationen erfordern nicht nur technologische
-Anpassungen, sondern auch tiefgreifende organisatorische Veränderungen
-und einen gezielten Kulturwandel, der alle Ebenen der
-Organisationskultur berücksichtigt und aktiv gestaltet.
-
-Aufgabe: Lest die Kapitel 3.8 und 3.9. Reflektiert über die Inhalte und
-überlegt, wie Ihr diese auf Eure Arbeit anwenden könnt.
-
-Identifiziert ein aktuelles oder kürzlich abgeschlossenes Change-Projekt
-und überlegt folgende Punkte: - Welche organisatorischen Veränderungen
-waren notwendig? Wurden diese erfolgreich umgesetzt? - Wie wurden neue
-Führungs- und Zusammenarbeitsmodelle integriert? - Welche neuen
-Fähigkeiten und Kompetenzen waren erforderlich? Wie wurden diese
-entwickelt oder besorgt?
-
-Tauscht Euch über Eure Erfahrungen im Circle aus (3-Minuten-Timebox pro
-Circle-Mitglied!)
-
-**Kata 11: Organisationskultur und Change-Management**
-
-Betrachten wir die Organisationskultur im Kontext von
-IT-Transformationen:
-
-- Identifiziert Beispiele für Scheins drei kulturelle Ebenen (Artefakte,
-  bekundete Werte, grundlegende Annahmen) in Bezug auf IT und
-  Digitalisierung in Eurem Unternehmen.
-- Wie wird der Nutzen neuer IT-Systeme auf allen kulturellen Ebenen
-  vermittelt?
-
-Entwickelt einen Aktionsplan:
-
-1.  Basierend auf Eurer Analyse, schlagt drei konkrete Maßnahmen vor, um
-    organisatorische Veränderungen und Kulturwandel in IT-Projekten im
-    Unternehmen zu verbessern.
-2.  Wie setzt Ihr diese Maßnahmen um und messt ihren Erfolg?
-
-Aufgabe: Tauschen Euch mit den Circle-Mitgliedern über Ihre Erkenntnisse
-und Aktionspläne aus. (2-Minuten-Timebox pro Circle-Mitglied!)
-
-## Kata 12: Review & lessons learned
-
-Jetzt ist es so weit. Nach 12 Wochen geht die letzte Runde des Lernpfads
-zu Ende und es ist an der Zeit, diese Wochen noch einmal Revue passieren
-zu lassen. Zum Abschluss kannst Du gerne besprechen, was für Dich die
-größten Erkenntnisse, Überraschungen oder Herausforderungen rund um
-Change Management waren.
-
-Die folgenden Fragen können als roter Faden dienen:
-
-- Was nimmst Du als entscheidende Erfahrungen / Highlights aus den
-  letzten Wochen mit?
-- Was waren für Dich die wichtigsten Meilensteine /
-  Entwicklungsschritte?
-- Was hat Dir im Circle gefehlt oder ist zu kurz gekommen zum Thema
-  Change Management?
-- Welche Pläne hast Du für das Gestalten von Veränderungen rund um IT
-  und was möchtest Du als nächstes erreichen?
-
-Feiern: *(beliebig lange)* Feiert euren Lernerfolg!
-
-Entweder heute oder ihr verabredet euch für einen separaten Termin
-(persönlich oder online) und genießt Euren Lernerfolg!
-
-Wie geht ihr auseinander? Wollt ihr euch womöglich noch mal treffen, um
-weiter dran zu bleiben? Ggf. in anderen zeitlichen Abständen?
-
-Super, dass ihr bis hierher dabei geblieben seid und eure Kompetenz rund
-um das Gestallten von Veränderungen weiter aufgebaut habt. Das
-Leitfaden-Team wünscht Euch viel Freude und Erfolg weiterhin und freut
-sich auf Euer Feedback!
-
-Eine kleine Bitte noch: öffne die Seite zum Leitfaden auf lernos.org und
-hinterlasse ganz unten eine Bewertung (z.B. Daumen hoch) und gerne auch
-einen Kommentar mit Feedback. So kann das Leitfaden-Team und andere
-Lernende von Deinen Erfahrungen profitieren. Vielen Dank!
-
 ## Kata 1: Einführung Change-Management: Warum, wie und Besonderheiten im IT-Bereich
 
 In dieser Kata legst Du die Grundlagen für Dein Verständnis von
@@ -2293,6 +2196,103 @@ fördern? - Wie kann ich meine Ideen und Meinungen effektiv in die
 Community und den Change-Prozess einbringen?
 
 Aufgabe: Tauscht Euch im Circle dazu aus.
+
+## Kata 9: Feedback, Monitoring & kontinuierliche Verbesserung
+
+Analysen und Messungen unterstützen die Identifizierung von Risiken, die
+Bewertung des Fortschritts und Erfolgs sowie die Anpassung und
+Optimierung von Change-Management-Strategien. Wir haben auf
+unterschiedliche Analysen in den Grundlagen geschaut.
+
+Aufgabe: Lese die Grundlagen. Reflektiere was Du gelernt hast und was Du
+auf Deine Arbeit / Firma übertragen kannst.
+
+- Reflektiere, welche KPIs und Feedback Instrumente in Deinem Umfeld das
+  Change-Management unterstützen
+- Wie kannst Du Change Readiness Checks nutzen?
+- Welche Rolle können Change Impact Analysen spielen?
+- Wie kannst Du Retrospektive/ Evaluationen/ kontinuierliche
+  Verbesserung noch nutzen?
+
+Aufgabe: tausche Dich mit Deinen Circle Mitgliedern zu den Punkten aus.
+
+## Kata 10: Rolle organisatorischer Veränderungen in IT-Projekten
+
+Erfolgreiche IT Transformationen erfordern nicht nur technologische
+Anpassungen, sondern auch tiefgreifende organisatorische Veränderungen
+und einen gezielten Kulturwandel, der alle Ebenen der
+Organisationskultur berücksichtigt und aktiv gestaltet.
+
+Aufgabe: Lest die Kapitel 3.8 und 3.9. Reflektiert über die Inhalte und
+überlegt, wie Ihr diese auf Eure Arbeit anwenden könnt.
+
+Identifiziert ein aktuelles oder kürzlich abgeschlossenes Change-Projekt
+und überlegt folgende Punkte: - Welche organisatorischen Veränderungen
+waren notwendig? Wurden diese erfolgreich umgesetzt? - Wie wurden neue
+Führungs- und Zusammenarbeitsmodelle integriert? - Welche neuen
+Fähigkeiten und Kompetenzen waren erforderlich? Wie wurden diese
+entwickelt oder besorgt?
+
+Tauscht Euch über Eure Erfahrungen im Circle aus (3-Minuten-Timebox pro
+Circle-Mitglied!)
+
+**Kata 11: Organisationskultur und Change-Management**
+
+Betrachten wir die Organisationskultur im Kontext von
+IT-Transformationen:
+
+- Identifiziert Beispiele für Scheins drei kulturelle Ebenen (Artefakte,
+  bekundete Werte, grundlegende Annahmen) in Bezug auf IT und
+  Digitalisierung in Eurem Unternehmen.
+- Wie wird der Nutzen neuer IT-Systeme auf allen kulturellen Ebenen
+  vermittelt?
+
+Entwickelt einen Aktionsplan:
+
+1.  Basierend auf Eurer Analyse, schlagt drei konkrete Maßnahmen vor, um
+    organisatorische Veränderungen und Kulturwandel in IT-Projekten im
+    Unternehmen zu verbessern.
+2.  Wie setzt Ihr diese Maßnahmen um und messt ihren Erfolg?
+
+Aufgabe: Tauschen Euch mit den Circle-Mitgliedern über Ihre Erkenntnisse
+und Aktionspläne aus. (2-Minuten-Timebox pro Circle-Mitglied!)
+
+## Kata 12: Review & lessons learned
+
+Jetzt ist es so weit. Nach 12 Wochen geht die letzte Runde des Lernpfads
+zu Ende und es ist an der Zeit, diese Wochen noch einmal Revue passieren
+zu lassen. Zum Abschluss kannst Du gerne besprechen, was für Dich die
+größten Erkenntnisse, Überraschungen oder Herausforderungen rund um
+Change Management waren.
+
+Die folgenden Fragen können als roter Faden dienen:
+
+- Was nimmst Du als entscheidende Erfahrungen / Highlights aus den
+  letzten Wochen mit?
+- Was waren für Dich die wichtigsten Meilensteine /
+  Entwicklungsschritte?
+- Was hat Dir im Circle gefehlt oder ist zu kurz gekommen zum Thema
+  Change Management?
+- Welche Pläne hast Du für das Gestalten von Veränderungen rund um IT
+  und was möchtest Du als nächstes erreichen?
+
+Feiern: *(beliebig lange)* Feiert euren Lernerfolg!
+
+Entweder heute oder ihr verabredet euch für einen separaten Termin
+(persönlich oder online) und genießt Euren Lernerfolg!
+
+Wie geht ihr auseinander? Wollt ihr euch womöglich noch mal treffen, um
+weiter dran zu bleiben? Ggf. in anderen zeitlichen Abständen?
+
+Super, dass ihr bis hierher dabei geblieben seid und eure Kompetenz rund
+um das Gestallten von Veränderungen weiter aufgebaut habt. Das
+Leitfaden-Team wünscht Euch viel Freude und Erfolg weiterhin und freut
+sich auf Euer Feedback!
+
+Eine kleine Bitte noch: öffne die Seite zum Leitfaden auf lernos.org und
+hinterlasse ganz unten eine Bewertung (z.B. Daumen hoch) und gerne auch
+einen Kommentar mit Feedback. So kann das Leitfaden-Team und andere
+Lernende von Deinen Erfahrungen profitieren. Vielen Dank!
 
 # Anhang
 
