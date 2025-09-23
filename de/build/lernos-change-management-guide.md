@@ -2042,6 +2042,9 @@ Führungs- und Zusammenarbeitsmodelle integriert? - Welche neuen
 Fähigkeiten und Kompetenzen waren erforderlich? Wie wurden diese
 entwickelt oder besorgt?
 
+Tauscht Euch über Eure Erfahrungen im Circle aus (3-Minuten-Timebox pro
+Circle-Mitglied!)
+
 **Kata 11: Organisationskultur und Change-Management in
 IT-Reorganisationen**
 
