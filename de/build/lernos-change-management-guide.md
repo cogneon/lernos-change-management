@@ -114,11 +114,10 @@ toc-own-page: true
       Good
       Practices](#sammlung-von-weiteren-analysen-und-good-practices){#toc-sammlung-von-weiteren-analysen-und-good-practices}
   - [[4.7]{.toc-section-number} Die Rolle organisatorischer
-    Veränderungen in IT- und
-    Cloud-Projekten](#die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten){#toc-die-rolle-organisatorischer-veränderungen-in-it--und-cloud-projekten}
+    Veränderungen in
+    IT-Projekten](#die-rolle-organisatorischer-veränderungen-in-it-projekten){#toc-die-rolle-organisatorischer-veränderungen-in-it-projekten}
   - [[4.8]{.toc-section-number} Organisationskultur und
-    Change-Management in
-    IT-Reorganisationen](#organisationskultur-und-change-management-in-it-reorganisationen){#toc-organisationskultur-und-change-management-in-it-reorganisationen}
+    Change-Management](#organisationskultur-und-change-management){#toc-organisationskultur-und-change-management}
 - [[5]{.toc-section-number} Lernpfad](#lernpfad){#toc-lernpfad}
   - [[5.1]{.toc-section-number} Kata 0: Kennenlernen und Organisation
     des
@@ -1798,7 +1797,7 @@ psychologische Sicherheit oder Feedback Mechanismen.
 - [Change Readiness Analysen in Wissenschaft und
   SAP-Praxis](https://community.sap.com/t5/sap-training-and-change-management/change-readiness-analysen-in-wissenschaft-und-sap-praxis/ba-p/13919564)
 
-## Die Rolle organisatorischer Veränderungen in IT- und Cloud-Projekten
+## Die Rolle organisatorischer Veränderungen in IT-Projekten
 
 Die Digitalisierung stellt Organisationen vor fundamentale
 Herausforderungen und erfordert tiefgreifende Veränderungen. Die IT wird
@@ -1860,7 +1859,7 @@ und Unternehmenskultur. Neue Führungs- und Zusammenarbeitsmodelle,
 gezielte Kompetenzentwicklung und eine Kultur des kontinuierlichen
 Wandels sind Schlüsselfaktoren für den Erfolg.
 
-## Organisationskultur und Change-Management in IT-Reorganisationen
+## Organisationskultur und Change-Management
 
 Die Einführung neuer IT- und Cloud-Lösungen stellt Unternehmen vor
 bedeutende kulturelle und organisatorische Herausforderungen. Edgar
@@ -2045,8 +2044,7 @@ entwickelt oder besorgt?
 Tauscht Euch über Eure Erfahrungen im Circle aus (3-Minuten-Timebox pro
 Circle-Mitglied!)
 
-**Kata 11: Organisationskultur und Change-Management in
-IT-Reorganisationen**
+**Kata 11: Organisationskultur und Change-Management**
 
 Betrachten wir die Organisationskultur im Kontext von
 IT-Transformationen:
@@ -2065,7 +2063,7 @@ Entwickelt einen Aktionsplan:
 2.  Wie setzt Ihr diese Maßnahmen um und messt ihren Erfolg?
 
 Aufgabe: Tauschen Euch mit den Circle-Mitgliedern über Ihre Erkenntnisse
-und Aktionspläne aus.
+und Aktionspläne aus. (2-Minuten-Timebox pro Circle-Mitglied!)
 
 ## Kata 12: Review & lessons learned
 
