@@ -39,7 +39,6 @@ jobs:
       - run: mkdocs build -f ./de/mkdocs.yml        
     
       # Create Microsoft Word Version (docx)
-      - run: mkdir ./docs/de/download
       - uses: docker://pandoc/core
         with:
           args: >-
@@ -49,7 +48,7 @@ jobs:
             --number-sections
             --toc
             -V lang=de-de
-            --output=./docs/de/download/${{ github.event.repository.name }}-guide.docx
+            --output=./de/build/${{ github.event.repository.name }}-guide.docx
             ./de/src/index.md ${{ steps.chapter_list.outputs.chapters }}
 
       # Create HTML Version (html)
