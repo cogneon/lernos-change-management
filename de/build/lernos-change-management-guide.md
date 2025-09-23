@@ -1,7 +1,7 @@
 ---
 author:
 - Thomas Jenewein et. al.
-date: Version 0.1 (05.04.2025)
+date: Version 0.2 (23.09.2025)
 links-as-notes: true
 lof: false
 logo: src/images/lernOS-logo-white-4000px.png
