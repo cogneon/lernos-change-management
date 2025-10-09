@@ -4,11 +4,11 @@
 
 Ein Projektsponsor ist ein besonderer Stakeholder mit speziellem Einfluss auf den Erfolg eines Projekts.
 
-Es gibt verschiedene Möglichkeiten für einen Projektsponsor, das Projekt effektiv zu unterstützen: dabei trägt der die Projektsponsor in vor allem die Verantwortung für die unternehmerische Zielsetzung, also den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll. Insofern definiert der Projektsponsor die Vision, die Ziele und die Strategie, die das Projekt verfolgen soll. 
+Es gibt verschiedene Möglichkeiten für einen Projektsponsor, das Projekt effektiv zu unterstützen: dabei trägt der  Projektsponsor vor allem die Verantwortung für die unternehmerische Zielsetzung, also den Beitrag zum Geschäftsergebnis, den das Projektergebnis liefern soll. Insofern definiert der Projektsponsor die Vision, die Ziele und die Strategie, die das Projekt verfolgen soll. 
 
 Zudem ist der Projektsponsor für das Risikomanagement des Projekts verantwortlich.
 
-Ein Risiko bei klassischen Projektmanagement – Ansätzen ist beispielsweise, dass die Gesamt-Situation sich zwischenzeitlich geändert haben kann, aber iterative Anpassungen der Pläne oder nachträgliche Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen sind.
+Ein Risiko bei klassischen Projektmanagement–Ansätzen ist beispielsweise, dass sich die Gesamt-Situation zwischenzeitlich geändert haben kann, aber iterative Anpassungen der Pläne oder nachträgliche Korrekturen aufgrund geänderter Kundenanforderungen nicht vorgesehen sind.
 
 Der Projektsponsor zeigt in der Innen- und Außenkommunikation, dass er uneingeschränkt hinter diesem Projekt und dem Projektleiter steht und Unterstützung von allen Beteiligten einfordert. Damit wird das Projekt legitimiert und dem Projektleiter die erforderliche Autorität verliehen.
 
