@@ -240,7 +240,7 @@ Kultur des Unternehmens zu verankern.
 Veränderungen so tief in der Kultur des Unternehmens verankert werden,
 dass sie auch nach einem Führungswechsel bestehen bleiben.
 
-### ADKAR von Proscii
+### ADKAR von Prosci
 
 Das ADKAR-Modell ist ein Change-Management-Werkzeug, das von Prosci
 entwickelt wurde und in vielen IT-Projekten angewandt wird. ADKAR ist
@@ -269,9 +269,10 @@ erfolgreiche Anwendung der neuen Prozesse, kontinuierliche Verbesserung
 und Anpassung basierend auf Rückmeldungen.
 
 Jede Phase muss betrachtet werden, bevor die nächste beginnen kann, und
-jede ist entscheidend für den Erfolg des Change-Managements. Gut ist
-hier aufgezeigt, dass Awareness oder „nur" Wissen nicht ausreicht,
-sondern alle Bereiche wichtig sind.
+jede ist entscheidend für den Erfolg des Change-Managements. Besonders
+deutlich wird beim ADKAR-Modell, dass reine Awareness oder bloßes Wissen
+nicht ausreicht: Alle Phasen bzw. Dimensionen sind essenziell und
+greifen ineinander.
 
 ### Die Veränderungskurve
 
@@ -365,10 +366,10 @@ Veränderungen in der gesamten Organisation anstoßen, konzentrieren sich
 Change-Projekte auf spezifische Initiativen, Projekte und Programme.
 
 **Disruptive Innovationen** wie das iPhone oder generative KI mit
-starken neuem Kundennutzer der etablierte Angebote verdrängt erfordern
+starken neuem Kundennutzen haben etablierte Angebote verdrängt. Um zu
+verhindern, dass man als Organisation "disruptiert" wird, erfordert es
 eine proaktive Haltung und eine Innovationskultur, die Veränderung
-annimmt und experimentierfreudig ist um eben nicht disruptiert zu
-werden.
+annimmt und experimentierfreudig ist.
 
 ### Fazit zu Methoden und Vorgehensweisen im Change-Management
 
