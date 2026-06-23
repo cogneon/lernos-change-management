@@ -1923,7 +1923,7 @@ hast, beantworte bitte folgende Fragen:
 - Welche Kenntnisse und Erfahrungen haben Dir bei Übernahme neuer Rollen
   und Aufgaben geholfen?
 - Reflektiere Deine Rolle und Deine Beobachtungen in Bezug auf die vier
-  Dimensionen "wollen / können / dürfen / müssen"
+  Dimensionen "Sollen/ Können / Dürfen / Wollen" "
   - Inwieweit waren die Dimensionen erfüllt oder auch nicht? Welche
     Konsequenzen haben sich daraus ergeben?
   - Was hat sich bewährt - und was nicht?
