@@ -43,7 +43,7 @@ Diese Methode, die von dem Sozialpsychologen Kurt Lewin entwickelt wurde, hilft,
 ||**Negative Einstellung**|**Positive Einstellung**|
 | :- | :-: | :-: |
 |**Hoher Einfluss**|Opponenten: Umwerben, überzeugen |Promotoren: Regelmäßig informieren, aktiv einbinden|
-|**Geringer Einfluss**|Skeptiker: Beobachten und positiv informieren|Informieren: Vertrauen verstärken und Einfluss stärken|
+|**Geringer Einfluss**|Skeptiker: Beobachten und positiv informieren|Unterstützer / Supporters: Vertrauen verstärken und Einfluss stärken|
 
 **Analyse nach Einfluss und Pro-/ Contra Change und entsprechende Maßnahmen**
 
