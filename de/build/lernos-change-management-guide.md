@@ -2086,8 +2086,10 @@ Anpassungen, sondern auch tiefgreifende organisatorische Veränderungen
 und einen gezielten Kulturwandel, der alle Ebenen der
 Organisationskultur berücksichtigt und aktiv gestaltet.
 
-Aufgabe: Lest die Kapitel 3.8 und 3.9. Reflektiert über die Inhalte und
-überlegt, wie Ihr diese auf Eure Arbeit anwenden könnt.
+Aufgabe: Lest die letzten beiden Kapitel in den Grundlagen zu
+organisatorischen Veränderungen und zu Organisationskultur. Reflektiert
+über die Inhalte und überlegt, wie Ihr diese auf Eure Arbeit anwenden
+könnt.
 
 Identifiziert ein aktuelles oder kürzlich abgeschlossenes Change-Projekt
 und überlegt folgende Punkte: - Welche organisatorischen Veränderungen
