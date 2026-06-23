@@ -1969,9 +1969,9 @@ Tausche dich im Circle zu den zwei Aufgaben aus.
 
 ## Kata 5: Reflexion der Lernergebnisse
 
-In dieser Woche machen wir keine kurze Retrospektive. Es gibt somit
-keine Grundlagen zum Lesen. Reflektiere zuerst selbst und tausche Dich
-dann mit deinen Circle-Mitliedern aus.
+In dieser Woche machen wir eine kurze Retrospektive. Es gibt somit keine
+Grundlagen zum Lesen. Reflektiere zuerst selbst und tausche Dich dann
+mit deinen Circle-Mitliedern aus.
 
 Aufgabe: Überlege Dir, was du aus den ersten 4 Katas bisher mitgenommen
 hast und nimm dir etwas Zeit, um über deine Erfahrungen zu reflektieren.
@@ -1985,6 +1985,10 @@ hast und nimm dir etwas Zeit, um über deine Erfahrungen zu reflektieren.
 Aufgabe: Tausche dich mit deinen Circle-Mitgliedern über deine
 Erkenntnisse und Lernerfahrungen aus (Timebox 4-5
 Minuten/Circle-Mitglied).
+
+Gerne könnt ihr die Reflextionsergebnisse auch online Teilen, ob in
+einem Blog, auf LinkedIn oder anderen Netzwerken. Das hilft Euch - aber
+auch die Peer-Learning Idee und LernOS weiter zu Teilen.
 
 ## Kata 6: Kommunikation im Change Management
 
