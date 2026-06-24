@@ -2188,9 +2188,13 @@ Community and das Vorantreiben von lernOS.
   beta 02   Thomas J. & Seyde S.      zweite Version des Leitfadens Change Management                         23.09.2025
 
   -------   -----------------------   ---------------------------------------------------------------------   ----------
+
+  beta 03   Thomas J.                 dritte Version des Leitfadens Change Management                         24.06.2026
+
+  -------   -----------------------   ---------------------------------------------------------------------   ----------
   ------------------------------------------------------------------------------------------------------------------------
 
-**Dies ist die Betaversion nach initialem Feedbackloop und
+**Dies ist die zweite Version nach initialen Feedbackloop und
 Korrekturlesen. Wir freuen uns auf weiteres Feedback!**
 
 ## lernOS Glossar
